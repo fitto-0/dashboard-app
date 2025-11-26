@@ -1,0 +1,923 @@
+name,state,state_code,type,population,website,total_schools,total_students,mailing_address,grade_span,locale,csa_cbsa,domain_name,physical_address,phone,status,student_teacher_ratio,supervisory_union,county,created_at,updated_at,id
+City of Everett,Washington,WA,City,111083,https://www.everettwa.gov,,,,,,,,,,,,,Snohomish County,2025-11-08 11:02:07.077989+00,2025-11-08 11:02:07.077992+00,00526332-fc4b-493f-af37-b3d861246551
+Miami County,Ohio,OH,County,109549,https://www.co.miami.oh.us,,,,,,,,,,,,,,2025-11-08 10:58:14.227114+00,2025-11-08 10:58:14.227117+00,00609d42-b1d2-48a0-808e-b833209058a6
+Livingston County,Michigan,MI,County,195143,https://milivcounty.gov/,,,,,,,,,,,,,,2025-11-08 10:54:03.487319+00,2025-11-08 10:54:03.487321+00,0177445d-b027-46c3-a3de-96ffce157179
+Boone County,Kentucky,KY,County,137676,https://boonecountyky.org/,,,,,,,,,,,,,,2025-11-08 10:53:25.184428+00,2025-11-08 10:53:25.184431+00,018abba8-d973-4d28-a48c-bf3d5d470a61
+St. Clair County,Illinois,IL,County,254777,https://www.stclaircountyil.gov,,,,,,,,,,,,,,2025-11-08 10:51:14.627911+00,2025-11-08 10:51:14.627914+00,019278af-dee8-40d9-bc2a-0e4158557f3d
+Hidalgo County,Texas,TX,County,880921,https://www.hidalgocounty.us,,,,,,,,,,,,,,2025-11-08 11:00:48.738148+00,2025-11-08 11:00:48.738151+00,021e82ca-1415-434f-b5d5-cad52646c8b8
+City of Billings,Montana,MT,City,118321,http://billingsmt.gov,,,,,,,,,,,,,Yellowstone County,2025-11-08 10:55:17.084684+00,2025-11-08 10:55:17.084687+00,02bef4d4-1a10-420d-8fa3-0617b1dea4c3
+City of Glendale,California,CA,City,192270,https://www.glendaleca.gov,,,,,,,,,,,,,Los Angeles County,2025-11-08 10:49:05.031693+00,2025-11-08 10:49:05.031696+00,0302a4cc-375e-4102-9cb6-9e3003df55bc
+City of Mesa,Arizona,AZ,City,507478,https://www.mesaaz.gov,,,,,,,,,,,,,Maricopa County,2025-11-08 10:48:29.679237+00,2025-11-08 10:48:29.67924+00,0303d05b-af57-48bf-8229-ab05e1dc61a8
+City of Carlsbad,California,CA,City,114500,https://www.carlsbadca.gov,,,,,,,,,,,,,San Diego County,2025-11-08 10:49:05.03112+00,2025-11-08 10:49:05.031123+00,031ec4b9-5bc3-436a-af4c-a8fab387e8b6
+City of Lancaster,California,CA,City,170013,https://www.cityoflancasterca.org,,,,,,,,,,,,,Los Angeles County,2025-11-08 10:49:05.030424+00,2025-11-08 10:49:05.030427+00,032c1b73-7f17-43d3-8590-187354bc7581
+City of Tampa,Florida,FL,City,393389,https://www.tampa.gov,,,,,,,,,,,,,Hillsborough County,2025-11-08 10:49:43.733196+00,2025-11-08 10:49:43.733199+00,0464c5cd-399d-4d55-9ac5-36d07225b337
+Winnebago County,Illinois,IL,County,283289,https://wincoil.gov,,,,,,,,,,,,,,2025-11-08 10:51:14.627263+00,2025-11-08 10:51:14.627265+00,04f5b8e8-8ae0-4cdf-ac2d-83fac2affb65
+Harris County,Texas,TX,County,4758579,https://www.harriscountytx.gov,,,,,,,,,,,,,,2025-11-08 11:00:48.741333+00,2025-11-08 11:00:48.741336+00,05027cd1-ca53-4905-ac6b-5a4dfa2ebac1
+Cobb County,Georgia,GA,County,769152,https://www.cobbcounty.gov,,,,,,,,,,,,,,2025-11-08 10:50:28.453+00,2025-11-08 10:50:28.453003+00,05111d82-f84d-4bba-91bf-356f16062bbb
+Greater Bridgeport Planning Region,Connecticut,CT,County,326296,https://ctmetro.org/,,,,,,,,,,,,,,2025-11-08 10:49:43.719744+00,2025-11-08 10:49:43.719747+00,05d3b665-57af-4cfd-a090-f43c76d05e87
+Hunt County,Texas,TX,County,104917,https://www.huntcounty.net,,,,,,,,,,,,,,2025-11-08 11:00:48.740849+00,2025-11-08 11:00:48.740852+00,05e5640c-0525-451a-8d65-9c8370a958d6
+City of Clarksville,Tennessee,TN,City,171897,https://www.clarksvilletn.gov,,,,,,,,,,,,,Montgomery County,2025-11-08 11:00:16.951521+00,2025-11-08 11:00:16.951524+00,0602f2af-4cb2-4877-8126-1e0e1f7a8424
+Hennepin County,Minnesota,MN,County,1268903,https://www.hennepin.us,,,,,,,,,,,,,,2025-11-08 10:54:23.272093+00,2025-11-08 10:54:23.272096+00,0654cacc-bbaf-4871-b496-62be7f2110e6
+Lexington County,South Carolina,SC,County,300370,https://www.lex-co.sc.gov/,,,,,,,,,,,,,,2025-11-08 11:00:02.967286+00,2025-11-08 11:00:02.96729+00,06dee884-4c11-45c3-950a-a233709359bb
+City of Washington,District of Columbia,DC,City,672079,https://dc.gov,,,,,,,,,,,,,,2025-11-08 10:49:43.723883+00,2025-11-08 10:49:43.723886+00,0714bfc7-a751-49d2-a55a-d97b8093b392
+Benton County,Washington,WA,County,210224,https://www.bentoncountywa.gov/,,,,,,,,,,,,,,2025-11-08 11:02:07.07445+00,2025-11-08 11:02:07.074453+00,0767d76d-a2bd-401b-8579-e487e44f0762
+Suffolk County,Massachusetts,MA,County,782172,https://suffolkcountywebsite.com,,,,,,,,,,,,,,2025-11-08 10:53:46.246402+00,2025-11-08 10:53:46.246405+00,08d191ec-27de-468e-ae67-b4ac83a4fc9d
+City of Roseville,California,CA,City,152438,https://www.roseville.ca.us,,,,,,,,,,,,,Placer County,2025-11-08 10:49:05.030814+00,2025-11-08 10:49:05.030816+00,08debabb-2ce6-42cb-b735-f716a61defc0
+City of Pittsburgh,Pennsylvania,PA,City,303620,https://www.pittsburghpa.gov,,,,,,,,,,,,,Allegheny County,2025-11-08 10:59:17.22694+00,2025-11-08 10:59:17.226943+00,093bd61f-c6f7-4961-8933-35dacc13920a
+Henderson County,North Carolina,NC,County,117387,https://www.hendersoncountync.gov,,,,,,,,,,,,,,2025-11-08 10:57:38.304675+00,2025-11-08 10:57:38.304677+00,09d197fc-cce0-41ec-9e0a-b4e40bc28372
+Rapides Parish,Louisiana,LA,County,128470,http://www.rppj.com,,,,,,,,,,,,,,2025-11-08 10:53:25.189384+00,2025-11-08 10:53:25.189387+00,09f69143-141b-4297-9882-91ee6b72c226
+City of Oklahoma City,Oklahoma,OK,City,688693,https://www.okc.gov,,,,,,,,,,,,,Oklahoma County,2025-11-08 10:58:36.691422+00,2025-11-08 10:58:36.691425+00,0abd4906-d405-4bea-8e9c-68d0a77966ba
+Norfolk County,Massachusetts,MA,County,724540,https://www.norfolkcounty.org,,,,,,,,,,,,,,2025-11-08 10:53:46.2462+00,2025-11-08 10:53:46.246203+00,0ac51c77-5f38-4ac7-ae98-cbdbb0b677c1
+Caddo Parish,Louisiana,LA,County,232973,https://caddo.gov,,,,,,,,,,,,,,2025-11-08 10:53:25.190001+00,2025-11-08 10:53:25.190004+00,0b2c275b-21be-4b58-97b7-a7943fb86579
+City of Hollywood,Florida,FL,City,152935,https://www.hollywoodfl.org,,,,,,,,,,,,,Broward County,2025-11-08 10:49:43.732635+00,2025-11-08 10:49:43.732637+00,0b8e61e7-58d6-456b-9eec-6aae6a6e35e8
+Coconino County,Arizona,AZ,County,144643,https://www.coconino.az.gov/,,,,,,,,,,,,,,2025-11-08 10:48:29.677043+00,2025-11-08 10:48:29.677045+00,0ba414d1-0dfb-4f67-bba7-53dac57ec1d3
+St. Lucie County,Florida,FL,County,346237,https://www.stlucieco.gov,,,,,,,,,,,,,,2025-11-08 10:49:43.726696+00,2025-11-08 10:49:43.726699+00,0ba4facb-6f26-4b46-88b8-5bb8c38db9d5
+City of New Orleans,Louisiana,LA,City,376035,https://nola.gov,,,,,,,,,,,,,Orleans Parish County,2025-11-08 10:53:25.192439+00,2025-11-08 10:53:25.192442+00,0c139c3a-a160-4d53-ad2e-d05145f21435
+District of Columbia,District of Columbia,DC,County,672079,https://dc.gov,,,,,,,,,,,,,,2025-11-08 10:49:43.723863+00,2025-11-08 10:49:43.723865+00,0c1ff74d-b583-4846-8e53-b65726db9acb
+Jefferson County,Texas,TX,County,253939,https://jeffersoncountytx.gov,,,,,,,,,,,,,,2025-11-08 11:00:48.739127+00,2025-11-08 11:00:48.739129+00,0c329784-ebf2-4ddf-8fe9-71cb5fd186da
+Tuscaloosa County,Alabama,AL,County,234036,https://www.tuscco.com,,,,,,,,,,,,,,2025-11-08 10:48:12.727715+00,2025-11-08 10:48:12.727717+00,0cc068c9-9748-4a4d-878a-9baa3754eb55
+City of Cincinnati,Ohio,OH,City,309595,https://www.cincinnati-oh.gov,,,,,,,,,,,,,Hamilton County,2025-11-08 10:58:14.235401+00,2025-11-08 10:58:14.235404+00,0d26a3f8-d2ff-4ed6-843a-3cb72bbdb48b
+Broome County,New York,NY,County,197738,https://broomecountyny.gov,,,,,,,,,,,,,,2025-11-08 10:57:06.785118+00,2025-11-08 10:57:06.785121+00,0d7451bf-c3a2-4d54-8987-34a1be5d621a
+Barnstable County,Massachusetts,MA,County,230073,https://www.capecod.gov/,,,,,,,,,,,,,,2025-11-08 10:53:46.246301+00,2025-11-08 10:53:46.246304+00,0e2f0e41-89ce-49bf-a196-d6966c863d27
+Spartanburg County,South Carolina,SC,County,338096,https://www.spartanburgcounty.org,,,,,,,,,,,,,,2025-11-08 11:00:02.967638+00,2025-11-08 11:00:02.967641+00,0e4b3063-f1c0-42a7-af0c-b6a84c4af855
+City of Tyler,Texas,TX,City,107718,https://www.tylertexas.com/,,,,,,,,,,,,,Smith County,2025-11-08 11:01:29.717582+00,2025-11-08 11:01:29.717584+00,0ea650cb-40ef-492c-9708-9e38b7564614
+Aiken County,South Carolina,SC,County,171949,https://www.aikencountysc.gov,,,,,,,,,,,,,,2025-11-08 11:00:02.967265+00,2025-11-08 11:00:02.967267+00,0f4e8d02-5976-4d0d-ab7f-e98728f49b37
+Fayette County,Kentucky,KY,County,321122,https://fayettecountyclerk.com,,,,,,,,,,,,,,2025-11-08 10:53:25.18406+00,2025-11-08 10:53:25.184063+00,0f73ad99-d1c1-4cdd-ac14-6d648d964fbf
+St. Louis city,Missouri,MO,County,293109,https://stlouiscountymo.gov/,,,,,,,,,,,,,,2025-11-08 10:55:17.068449+00,2025-11-08 10:55:17.068452+00,0fb7ebdd-3a23-4bdb-bd12-86252a9c85ef
+City of Laredo,Texas,TX,City,255949,https://www.cityoflaredo.com,,,,,,,,,,,,,Webb County,2025-11-08 11:00:48.746742+00,2025-11-08 11:00:48.746745+00,0fbfaeba-5775-4af3-a49f-1cf11fee369c
+Greenville County,South Carolina,SC,County,537575,https://www.greenvillecounty.org/Default.aspx,,,,,,,,,,,,,,2025-11-08 11:00:02.96718+00,2025-11-08 11:00:02.967182+00,10236093-8743-4cac-bfd8-67299b3b720d
+St. Tammany Parish,Louisiana,LA,County,269331,https://stpgov.org,,,,,,,,,,,,,,2025-11-08 10:53:25.1907+00,2025-11-08 10:53:25.190703+00,10298b0d-ee81-4a4c-aa08-e24a04fef2cc
+City of Tulsa,Oklahoma,OK,City,412322,https://www.cityoftulsa.org,,,,,,,,,,,,,Tulsa County,2025-11-08 10:58:36.690419+00,2025-11-08 10:58:36.690422+00,108ec1b6-7adb-4e92-9bfd-4c07d01c94f5
+City of Carmel,Indiana,IN,City,100501,https://www.carmel.in.gov,,,,,,,,,,,,,Hamilton County,2025-11-08 10:51:55.204032+00,2025-11-08 10:51:55.204035+00,109c3d77-ef3d-4ecb-b145-e18845a8378a
+City of Pueblo,Colorado,CO,City,111514,https://www.pueblo.us/,,,,,,,,,,,,,Pueblo County,2025-11-08 10:49:05.041531+00,2025-11-08 10:49:05.041534+00,10b4f8be-68b1-4433-aec1-be77d432e19e
+Berkeley County,South Carolina,SC,County,238723,https://berkeleycountysc.gov,,,,,,,,,,,,,,2025-11-08 11:00:02.967094+00,2025-11-08 11:00:02.967097+00,10b6909d-4e15-4c29-87ca-7d3e42cacf20
+Charlotte County,Florida,FL,County,195083,https://www.charlottecountyfl.gov/,,,,,,,,,,,,,,2025-11-08 10:49:43.726112+00,2025-11-08 10:49:43.726115+00,10ddb54b-00a9-449d-81b6-d88262cc172f
+Naugatuck Valley Planning Region,Connecticut,CT,County,452303,https://nvcogct.gov/,,,,,,,,,,,,,,2025-11-08 10:49:43.719659+00,2025-11-08 10:49:43.719662+00,11115914-a846-4d31-8656-d0f22e9def29
+City of Fort Lauderdale,Florida,FL,City,183032,https://www.fortlauderdale.gov,,,,,,,,,,,,,Broward County,2025-11-08 10:49:43.730595+00,2025-11-08 10:49:43.730597+00,112a9de3-31da-446f-bf89-6e7752e0fd7f
+Henry County,Georgia,GA,County,245417,https://www.henrycountyga.gov,,,,,,,,,,,,,,2025-11-08 10:50:28.452324+00,2025-11-08 10:50:28.452327+00,116367c5-20a2-4b87-a782-8a20c3ef0a3f
+Montgomery County,Tennessee,TN,County,227957,https://montgomerytn.gov,,,,,,,,,,,,,,2025-11-08 11:00:16.951068+00,2025-11-08 11:00:16.951071+00,11700506-9a5b-4421-8e37-310b9b7a5b58
+Newport News city,Virginia,VA,County,184774,https://www.nnva.gov/,,,,,,,,,,,,,,2025-11-08 11:02:07.064635+00,2025-11-08 11:02:07.064638+00,117e5557-b4c4-4aee-b29a-9696dbcd6378
+Oakland County,Michigan,MI,County,1272294,https://www.oakgov.com,,,,,,,,,,,,,,2025-11-08 10:54:03.486872+00,2025-11-08 10:54:03.486875+00,121a51dd-d1e4-4222-a9e5-e2b47ed4f971
+City of Bakersfield,California,CA,City,408366,https://www.bakersfieldcity.us,,,,,,,,,,,,,Kern County,2025-11-08 10:48:36.927744+00,2025-11-08 10:48:36.927747+00,127f9a7d-6d83-46cd-af09-040b5801ea30
+Clay County,Missouri,MO,County,255566,https://www.claycountymo.gov,,,,,,,,,,,,,,2025-11-08 10:55:17.06759+00,2025-11-08 10:55:17.067593+00,12a56cdf-4b53-4b5c-9ce3-c9c649f5e7f4
+Pima County,Arizona,AZ,County,1049947,https://www.pima.gov,,,,,,,,,,,,,,2025-11-08 10:48:29.677304+00,2025-11-08 10:48:29.677307+00,1325ee33-2ba9-42d2-809f-c7ec6aace373
+City of Indianapolis city,Indiana,IN,City,882043,https://www.indy.gov,,,,,,,,,,,,,,2025-11-08 10:51:55.206056+00,2025-11-08 10:51:55.206058+00,132eada6-8a1e-4093-bd0b-9a9aa884a4bd
+Carroll County,Georgia,GA,County,122187,https://carrollcountyga.gov/,,,,,,,,,,,,,,2025-11-08 10:50:28.45308+00,2025-11-08 10:50:28.453083+00,133c6855-1428-4705-b12e-0880b76443b2
+Lowndes County,Georgia,GA,County,119055,https://lowndescounty.com,,,,,,,,,,,,,,2025-11-08 10:49:43.736762+00,2025-11-08 10:49:43.736765+00,136a6f77-5631-4dac-bd2c-3be48d81d57c
+City of Joliet,Illinois,IL,City,149785,https://www.joliet.gov,,,,,,,,,,,,,Will County,2025-11-08 10:51:14.628807+00,2025-11-08 10:51:14.62881+00,137eb227-e4ae-4a7e-aa16-eb3dd2a8ac59
+Niagara County,New York,NY,County,211341,https://www.niagaracounty.com/,,,,,,,,,,,,,,2025-11-08 10:57:06.784652+00,2025-11-08 10:57:06.784655+00,13db5fdc-db09-43f9-9e66-ae2d8e90152b
+Berkshire County,Massachusetts,MA,County,128047,https://berkshirecountywebsite.com,,,,,,,,,,,,,,2025-11-08 10:53:46.24626+00,2025-11-08 10:53:46.246263+00,14283d2f-a392-4ebb-a35c-e651c3253ed2
+City of Baton Rouge,Louisiana,LA,City,223699,https://www.brla.gov,,,,,,,,,,,,,East Baton Rouge Parish County,2025-11-08 10:53:25.192084+00,2025-11-08 10:53:25.192087+00,145d3251-ce05-4eb3-85a8-52928cf6fd8e
+City of Anchorage,Alaska,AK,City,289069,https://www.muni.org,,,,,,,,,,,,,,2025-11-08 10:48:12.736281+00,2025-11-08 10:48:12.736284+00,15221508-25e4-4002-817d-fe9adf6ba9b1
+Missoula County,Montana,MT,County,119639,https://www.missoulacounty.us,,,,,,,,,,,,,,2025-11-08 10:55:17.08359+00,2025-11-08 10:55:17.083593+00,15547c03-828e-4568-b269-085e75a2e090
+Monroe County,New York,NY,County,754068,https://www.monroecounty.gov,,,,,,,,,,,,,,2025-11-08 10:57:06.785011+00,2025-11-08 10:57:06.785014+00,156f6f79-b829-4772-8287-20b2f988740a
+York County,Pennsylvania,PA,County,459312,https://yorkcountypa.gov,,,,,,,,,,,,,,2025-11-08 10:59:17.219312+00,2025-11-08 10:59:17.219315+00,1620fa7b-fef4-44be-b169-3d7aff39e14a
+City of Pompano Beach,Florida,FL,City,112212,https://www.pompanobeachfl.gov,,,,,,,,,,,,,Broward County,2025-11-08 10:49:43.727081+00,2025-11-08 10:49:43.727084+00,1667c143-de62-4c96-8e70-95a830be3264
+City of Chattanooga,Tennessee,TN,City,182832,https://chattanooga.gov,,,,,,,,,,,,,Hamilton County,2025-11-08 11:00:16.955726+00,2025-11-08 11:00:16.955729+00,17304f70-99bd-4414-9723-60a355ea07ce
+York County,South Carolina,SC,County,288559,https://www.yorkcountygov.com,,,,,,,,,,,,,,2025-11-08 11:00:02.967115+00,2025-11-08 11:00:02.967118+00,174fda9d-a247-4824-bfa6-0b6bc37082a9
+Bradley County,Tennessee,TN,County,109743,https://bradleycountytn.gov/,,,,,,,,,,,,,,2025-11-08 11:00:16.951377+00,2025-11-08 11:00:16.95138+00,185f069d-1b75-47e5-a810-a2612c00a9fd
+City of Bridgeport,Connecticut,CT,City,148012,https://www.bridgeportct.gov/,,,,,,,,,,,,,Greater Bridgeport Planning Region County,2025-11-08 10:49:43.720554+00,2025-11-08 10:49:43.720557+00,18e288dc-f0e1-48cb-b3ea-1c890abc18e1
+Laramie County,Wyoming,WY,County,100661,https://www.laramiecountywy.gov,,,,,,,,,,,,,,2025-11-08 11:02:55.78093+00,2025-11-08 11:02:55.780932+00,18f1ae5c-306a-4799-9589-15a836f9b0ec
+Richmond County,Georgia,GA,County,206040,https://www.augustaga.gov,,,,,,,,,,,,,,2025-11-08 10:49:43.737576+00,2025-11-08 10:49:43.737579+00,18f8b26e-def6-45cc-9b76-f3c8dc718dda
+East Baton Rouge Parish,Louisiana,LA,County,452821,https://www.louisiana.gov/local-louisiana/east-baton-rouge-parish,,,,,,,,,,,,,,2025-11-08 10:53:25.190403+00,2025-11-08 10:53:25.190406+00,1960fe17-3eb0-43e0-a3db-addb0374c971
+City of San Francisco,California,CA,City,836321,https://sf.gov,,,,,,,,,,,,,,2025-11-08 10:49:05.026696+00,2025-11-08 10:49:05.026699+00,19692f1f-f549-40f6-8bfe-cc15ead81795
+Charles County,Maryland,MD,County,168710,https://www.charlescountymd.gov,,,,,,,,,,,,,,2025-11-08 10:53:46.234992+00,2025-11-08 10:53:46.234995+00,19b00d36-9026-4304-8a29-2b37e1f61f07
+City of Davenport,Iowa,IA,City,101083,https://www.davenportiowa.com,,,,,,,,,,,,,Scott County,2025-11-08 10:52:36.67939+00,2025-11-08 10:52:36.679393+00,19b34c2c-7088-435f-8388-e2d0ed23c0d0
+San Francisco County,California,CA,County,836321,https://www.sf.gov,,,,,,,,,,,,,,2025-11-08 10:48:36.925981+00,2025-11-08 10:48:36.925984+00,19d4e4ff-a956-46c3-a944-92ed9b703450
+City of Grand Prairie,Texas,TX,City,198564,https://www.gptx.org,,,,,,,,,,,,,Dallas County,2025-11-08 11:01:29.719197+00,2025-11-08 11:01:29.719199+00,19db930e-bb0f-4093-88fb-eccd38291eed
+City of Topeka,Kansas,KS,City,126103,https://www.topeka.org,,,,,,,,,,,,,Shawnee County,2025-11-08 10:53:25.176914+00,2025-11-08 10:53:25.176916+00,19f88b4b-c3a8-425f-8f92-5acc8d586615
+Wicomico County,Maryland,MD,County,104117,https://www.wicomicocounty.org,,,,,,,,,,,,,,2025-11-08 10:53:46.234788+00,2025-11-08 10:53:46.234791+00,1a3804d6-d8cf-477b-9d17-c76074d3d236
+City of Hartford,Connecticut,CT,City,119970,https://www.hartfordct.gov,,,,,,,,,,,,,Capitol Planning Region County,2025-11-08 10:49:43.720077+00,2025-11-08 10:49:43.720079+00,1a5a7e6e-856f-481c-82b9-5c1c0aa3253f
+City of Quincy,Massachusetts,MA,City,101361,https://www.quincyma.gov,,,,,,,,,,,,,Norfolk County,2025-11-08 10:53:46.247715+00,2025-11-08 10:53:46.247718+00,1aa2d93f-aff3-4d30-a48b-5e24ff733e2d
+Manatee County,Florida,FL,County,416020,https://www.mymanatee.org,,,,,,,,,,,,,,2025-11-08 10:49:43.725871+00,2025-11-08 10:49:43.725874+00,1abbe42f-a8f6-4b63-903b-3d0266583fdb
+Carver County,Minnesota,MN,County,108622,https://www.carvercountymn.gov,,,,,,,,,,,,,,2025-11-08 10:54:23.271966+00,2025-11-08 10:54:23.271969+00,1b29bea2-d85c-4767-bd66-277b23fb362d
+Napa County,California,CA,County,136070,https://www.countyofnapa.org/,,,,,,,,,,,,,,2025-11-08 10:48:36.92631+00,2025-11-08 10:48:36.926313+00,1b45c98e-73d4-408a-9bf3-025331854221
+City of Des Moines,Iowa,IA,City,212464,https://www.dsm.city,,,,,,,,,,,,,Polk County,2025-11-08 10:52:36.677742+00,2025-11-08 10:52:36.677745+00,1b685947-9625-4d03-a2ff-e8627d2afd2f
+Mahoning County,Ohio,OH,County,227063,https://www.mahoningcountyoh.gov,,,,,,,,,,,,,,2025-11-08 10:58:14.228241+00,2025-11-08 10:58:14.228244+00,1b7ffcf9-dd2a-45c6-8b45-1894402e4a1f
+City of St. Petersburg,Florida,FL,City,260646,https://www.stpete.org/,,,,,,,,,,,,,Pinellas County,2025-11-08 10:49:43.732296+00,2025-11-08 10:49:43.732298+00,1c757f70-283a-44ed-b740-400661bcf25a
+Nueces County,Texas,TX,County,352829,https://www.nuecesco.com,,,,,,,,,,,,,,2025-11-08 11:00:48.740359+00,2025-11-08 11:00:48.740362+00,1cb61a82-5a1f-4d6e-987c-b325fe2dbbf4
+Potter County,Texas,TX,County,116634,https://www.co.potter.tx.us,,,,,,,,,,,,,,2025-11-08 11:00:48.740318+00,2025-11-08 11:00:48.740321+00,1d5a633a-ee18-4303-9b17-1131ea94bbc3
+City of Santa Clara,California,CA,City,129239,https://www.santaclaraca.gov,,,,,,,,,,,,,Santa Clara County,2025-11-08 10:49:05.031957+00,2025-11-08 10:49:05.031959+00,1d6dcd03-0e76-4146-b7b2-7530de6af4cd
+DeKalb County,Illinois,IL,County,100512,https://dekalbcounty.org,,,,,,,,,,,,,,2025-11-08 10:51:14.62781+00,2025-11-08 10:51:14.627813+00,1d8d69af-77de-4c64-8319-e9fea6ec7844
+Pueblo County,Colorado,CO,County,168726,https://county.pueblo.org,,,,,,,,,,,,,,2025-11-08 10:49:05.038879+00,2025-11-08 10:49:05.038882+00,1d94ec92-7fd2-4aba-8a05-76c20d58c060
+Macomb County,Michigan,MI,County,877624,https://www.macombgov.org,,,,,,,,,,,,,,2025-11-08 10:54:03.487888+00,2025-11-08 10:54:03.487891+00,1e14911b-3850-4c67-a60d-90e4f0e5e304
+Dauphin County,Pennsylvania,PA,County,287484,https://www.dauphincounty.gov/,,,,,,,,,,,,,,2025-11-08 10:59:17.219936+00,2025-11-08 10:59:17.219938+00,1e155480-1f65-4236-b6aa-5b749acd5a39
+Delaware County,Ohio,OH,County,221160,https://co.delaware.oh.us,,,,,,,,,,,,,,2025-11-08 10:58:14.227336+00,2025-11-08 10:58:14.227338+00,1eb06559-124b-4ac9-b105-7189d52e6f14
+City of Cedar Rapids,Iowa,IA,City,136859,https://cedar-rapids.org/,,,,,,,,,,,,,Linn County,2025-11-08 10:52:36.678281+00,2025-11-08 10:52:36.678283+00,1ed61888-9ea8-4dda-8b0a-b9d93673c836
+City of Wilmington,North Carolina,NC,City,118578,https://www.wilmingtonnc.gov,,,,,,,,,,,,,New Hanover County,2025-11-08 10:57:38.307278+00,2025-11-08 10:57:38.30728+00,1f40412e-2cfe-4d9e-b5d8-ffb6c3fb5009
+City of Paterson,New Jersey,NJ,City,157660,https://www.patersonnj.gov,,,,,,,,,,,,,Passaic County,2025-11-08 10:55:47.460127+00,2025-11-08 10:55:47.46013+00,1ff32627-f052-4a3f-9ebb-757ca7f38e5f
+Cuyahoga County,Ohio,OH,County,1249418,https://cuyahogacounty.gov,,,,,,,,,,,,,,2025-11-08 10:58:14.22814+00,2025-11-08 10:58:14.228142+00,2042bbfe-8e85-404a-a674-ec66284dac05
+Wood County,Ohio,OH,County,131795,https://www.woodcountyohio.gov/,,,,,,,,,,,,,,2025-11-08 10:58:14.228441+00,2025-11-08 10:58:14.228444+00,2117522a-8008-4407-9d0e-02ef711288ff
+City of Columbus,Ohio,OH,City,906480,https://www.columbus.gov,,,,,,,,,,,,,Franklin County,2025-11-08 10:58:14.234728+00,2025-11-08 10:58:14.234731+00,219b4ae1-a913-4caa-a4dc-194bddd67a14
+City of Aurora,Illinois,IL,City,179867,https://www.aurora-il.org,,,,,,,,,,,,,Kane County,2025-11-08 10:51:14.637092+00,2025-11-08 10:51:14.637094+00,21f2b8a7-fddf-4856-903f-b2e40384b798
+Bexar County,Texas,TX,County,2037344,https://www.bexar.org/,,,,,,,,,,,,,,2025-11-08 11:00:48.740789+00,2025-11-08 11:00:48.740792+00,22198e3c-2b6e-44e1-a9b9-8c2b7ca0ffc0
+Pulaski County,Arkansas,AR,County,398949,https://www.pulaskicounty.net,,,,,,,,,,,,,,2025-11-08 10:48:29.689418+00,2025-11-08 10:48:29.689421+00,223a22fb-2adf-473e-ada7-2cc52ee9ee0b
+City of Denver,Colorado,CO,City,713734,https://www.denvergov.org,,,,,,,,,,,,,,2025-11-08 10:49:05.042911+00,2025-11-08 10:49:05.042914+00,225858de-ac50-4604-a635-4bbb3c9e4b9b
+Sebastian County,Arkansas,AR,County,128448,https://www.sebastiancountyar.gov,,,,,,,,,,,,,,2025-11-08 10:48:29.687343+00,2025-11-08 10:48:29.687346+00,230f1919-7883-46aa-8cc1-5282a6ff329a
+Flagler County,Florida,FL,County,121710,https://www.flaglercounty.gov,,,,,,,,,,,,,,2025-11-08 10:49:43.726594+00,2025-11-08 10:49:43.726597+00,23668aa3-6fe0-43ba-b657-2195944151d9
+City of Bellevue,Washington,WA,City,151199,https://bellevuewa.gov,,,,,,,,,,,,,King County,2025-11-08 11:02:07.077398+00,2025-11-08 11:02:07.077401+00,236bfaca-0e71-4caa-87d6-0cb03484f5ad
+City of Odessa,Texas,TX,City,114080,https://www.odessa-tx.gov,,,,,,,,,,,,,Ector County,2025-11-08 11:01:29.719256+00,2025-11-08 11:01:29.719259+00,24375e1e-dd24-4ce8-acc4-1218ecad0aa2
+City of Arlington,Texas,TX,City,394769,https://www.arlingtontx.gov,,,,,,,,,,,,,Tarrant County,2025-11-08 11:00:48.747267+00,2025-11-08 11:00:48.74727+00,24d6e19c-5bf0-4cda-8b23-cd8d4b2d789c
+City of Savannah,Georgia,GA,City,147546,https://www.savannahga.gov,,,,,,,,,,,,,Chatham County,2025-11-08 10:50:28.457187+00,2025-11-08 10:50:28.45719+00,25072dd2-ea6e-4c6d-8ea2-beff4a212878
+Union County,North Carolina,NC,County,244975,https://www.unioncountync.gov/,,,,,,,,,,,,,,2025-11-08 10:57:38.304439+00,2025-11-08 10:57:38.304441+00,25c9413e-b171-469d-8248-5d765d61c103
+Eau Claire County,Wisconsin,WI,County,106328,https://www.eauclairecounty.gov,,,,,,,,,,,,,,2025-11-08 11:02:49.699481+00,2025-11-08 11:02:49.699484+00,264d7299-31c5-4ef9-a95b-891720e2e60e
+Blount County,Tennessee,TN,County,137747,https://blounttn.gov,,,,,,,,,,,,,,2025-11-08 11:00:02.981887+00,2025-11-08 11:00:02.98189+00,26da34ce-dbd2-47f9-b2c3-e9034b0a64a2
+Sullivan County,Tennessee,TN,County,159693,https://sullivancountytn.gov,,,,,,,,,,,,,,2025-11-08 11:00:02.982187+00,2025-11-08 11:00:02.98219+00,26e26eb9-b179-4957-bc6a-58511dc8bfcc
+San Joaquin County,California,CA,County,787416,https://www.sjgov.org,,,,,,,,,,,,,,2025-11-08 10:48:36.925354+00,2025-11-08 10:48:36.925357+00,27a6813f-9360-4b45-a6cd-0461e9e8eaa6
+Lane County,Oregon,OR,County,382628,https://www.lanecounty.org,,,,,,,,,,,,,,2025-11-08 10:58:36.698484+00,2025-11-08 10:58:36.698487+00,28281cf1-341f-449a-a0a3-da640d205e44
+City of Norwalk,California,CA,City,100713,https://www.norwalk.org,,,,,,,,,,,,,Los Angeles County,2025-11-08 10:49:05.025024+00,2025-11-08 10:49:05.025026+00,284244e0-5199-4e4c-8b61-6d65c4c332af
+Tazewell County,Illinois,IL,County,130555,https://www.tazewell-il.gov,,,,,,,,,,,,,,2025-11-08 10:51:14.627525+00,2025-11-08 10:51:14.627528+00,284292bf-a0c2-4de9-af9b-87c614bd1716
+Berkeley County,West Virginia,WV,County,126165,https://www.berkeleywv.org,,,,,,,,,,,,,,2025-11-08 11:02:07.079457+00,2025-11-08 11:02:07.079459+00,288db01a-0e24-4e07-9bf5-d8171e692f12
+Washington County,Pennsylvania,PA,County,209778,https://www.washingtoncopa.gov,,,,,,,,,,,,,,2025-11-08 10:59:17.219573+00,2025-11-08 10:59:17.219576+00,28994ab5-6252-40e8-afc2-6554e2de8519
+City of Arvada,Colorado,CO,City,122835,https://www.arvadaco.gov,,,,,,,,,,,,,Jefferson County,2025-11-08 10:49:05.042078+00,2025-11-08 10:49:05.042081+00,28bea978-ce5d-4294-b42a-15860a0650a6
+City of Overland Park,Kansas,KS,City,197199,https://www.opkansas.org,,,,,,,,,,,,,Johnson County,2025-11-08 10:53:25.176769+00,2025-11-08 10:53:25.176772+00,28d175d1-77af-45b8-a1f8-cbf08e297e16
+Whitfield County,Georgia,GA,County,103118,https://www.whitfieldcountyga.com,,,,,,,,,,,,,,2025-11-08 10:49:43.735864+00,2025-11-08 10:49:43.735867+00,29506b36-e3d4-4bd6-9181-8bf5333d8a7e
+Schenectady County,New York,NY,County,159603,https://www.schenectadycountyny.gov,,,,,,,,,,,,,,2025-11-08 10:57:06.784673+00,2025-11-08 10:57:06.784675+00,2989e2bf-a1e0-4feb-90f7-c859d5f98261
+Rockland County,New York,NY,County,338936,https://www.rocklandcountyny.gov,,,,,,,,,,,,,,2025-11-08 10:57:06.784817+00,2025-11-08 10:57:06.78482+00,29d4308b-4d51-4dce-94a3-01ce67482782
+Hanover County,Virginia,VA,County,111652,https://www.hanovercounty.gov,,,,,,,,,,,,,,2025-11-08 11:02:07.065671+00,2025-11-08 11:02:07.065674+00,2a33ae6a-d49a-4445-a3bc-ff112f170ceb
+City of Mesquite,Texas,TX,City,148848,https://www.cityofmesquite.com,,,,,,,,,,,,,Dallas County,2025-11-08 11:01:29.71289+00,2025-11-08 11:01:29.712892+00,2aa1855f-be0a-4f81-8aa5-f206604481b9
+City of Surprise,Arizona,AZ,City,149519,https://surpriseaz.gov,,,,,,,,,,,,,Maricopa County,2025-11-08 10:48:29.679324+00,2025-11-08 10:48:29.679327+00,2aca7df2-cd31-4115-9d5f-534e6c971288
+Lycoming County,Pennsylvania,PA,County,113570,https://www.lyco.org,,,,,,,,,,,,,,2025-11-08 10:59:17.219377+00,2025-11-08 10:59:17.21938+00,2b8a73ab-8020-4850-9e7d-990c2474db3a
+Harford County,Maryland,MD,County,262509,https://www.harfordcountymd.gov,,,,,,,,,,,,,,2025-11-08 10:53:46.234931+00,2025-11-08 10:53:46.234934+00,2bace42c-5949-4eac-8bc5-e39ef3f16f7c
+Miami-Dade County,Florida,FL,County,2685296,https://www.miamidade.gov,,,,,,,,,,,,,,2025-11-08 10:49:43.725811+00,2025-11-08 10:49:43.725814+00,2bd884ef-2a9e-45bc-b256-3baf3502fbed
+Wayne County,Ohio,OH,County,116618,https://www.wayneohio.org/,,,,,,,,,,,,,,2025-11-08 10:58:14.228059+00,2025-11-08 10:58:14.228062+00,2bdd602f-22ae-496f-9c9d-efd5091cb6b7
+City of Riverside,California,CA,City,316241,https://cityofriverside.us,,,,,,,,,,,,,Riverside County,2025-11-08 10:49:05.030773+00,2025-11-08 10:49:05.030776+00,2c13a421-66ef-48d5-b082-98a0f67fb459
+Limestone County,Alabama,AL,County,107577,https://www.limestonecounty-al.gov,,,,,,,,,,,,,,2025-11-08 10:48:12.728708+00,2025-11-08 10:48:12.72871+00,2c3a8291-0f08-499e-b2aa-da8113155c05
+Luzerne County,Pennsylvania,PA,County,325978,https://www.luzernecounty.org,,,,,,,,,,,,,,2025-11-08 10:59:17.219832+00,2025-11-08 10:59:17.219835+00,2c6cdb35-b1d2-40f7-9a5c-5d7d7c911bc0
+Spotsylvania County,Virginia,VA,County,143876,https://www.spotsylvania.va.us/,,,,,,,,,,,,,,2025-11-08 11:02:07.065009+00,2025-11-08 11:02:07.065012+00,2ca73a56-c9b3-4cb1-a4ff-2da774a27e83
+City of Hampton,Virginia,VA,City,137334,https://hampton.gov/,,,,,,,,,,,,,,2025-11-08 11:02:07.068719+00,2025-11-08 11:02:07.068721+00,2cc787c8-9650-49d6-9df1-c1e3427e18c0
+City of Virginia Beach,Virginia,VA,City,457066,https://virginiabeach.gov,,,,,,,,,,,,,,2025-11-08 11:02:07.067675+00,2025-11-08 11:02:07.067678+00,2cf18069-c132-48d7-a9e6-6db20e239915
+Chautauqua County,New York,NY,County,126329,https://chautauquacountyny.gov,,,,,,,,,,,,,,2025-11-08 10:57:06.785545+00,2025-11-08 10:57:06.785548+00,2d168d07-c5a3-4778-848f-6ef4d9f874b4
+Muscogee County,Georgia,GA,County,204383,https://www.columbusga.gov,,,,,,,,,,,,,,2025-11-08 10:49:43.736252+00,2025-11-08 10:49:43.736254+00,2d3e6f8c-f29a-4cea-9889-f85f943643f3
+Stark County,Ohio,OH,County,373764,https://www.starkcountyohio.gov,,,,,,,,,,,,,,2025-11-08 10:58:14.227376+00,2025-11-08 10:58:14.227379+00,2e167a25-85e7-4027-b63a-cacd1ea48f99
+Cumberland County,Maine,ME,County,305940,https://www.cumberlandcountyme.gov,,,,,,,,,,,,,,2025-11-08 10:53:46.233269+00,2025-11-08 10:53:46.233271+00,2e744d2d-591e-4e15-bf66-d837a758d64b
+Ventura County,California,CA,County,838259,https://www.ventura.org,,,,,,,,,,,,,,2025-11-08 10:48:36.926269+00,2025-11-08 10:48:36.926272+00,2e92d372-cbf7-497d-a2ed-ad8a2a9140dd
+Benton County,Arkansas,AR,County,294541,https://bentoncountyar.gov,,,,,,,,,,,,,,2025-11-08 10:48:29.687733+00,2025-11-08 10:48:29.687736+00,2f482b66-bd03-435e-82f8-530503e989e6
+Henrico County,Virginia,VA,County,334434,https://henrico.gov,,,,,,,,,,,,,,2025-11-08 11:02:07.063948+00,2025-11-08 11:02:07.063951+00,2f58d945-1a15-453a-a6b3-923ce84170d1
+City of Miami,Florida,FL,City,446663,https://www.miamigov.com,,,,,,,,,,,,,Miami-Dade County,2025-11-08 10:49:43.730835+00,2025-11-08 10:49:43.730838+00,2f707d74-8a08-4de1-a107-f9539cc9f4e4
+Collier County,Florida,FL,County,387681,https://www.colliercountyfl.gov,,,,,,,,,,,,,,2025-11-08 10:49:43.726675+00,2025-11-08 10:49:43.726678+00,2fac4163-0630-4241-8a31-42d2de4e4e5f
+Scott County,Minnesota,MN,County,152957,https://www.scottcountymn.gov,,,,,,,,,,,,,,2025-11-08 10:54:23.271426+00,2025-11-08 10:54:23.271429+00,2fb117f3-3121-448b-84ce-9339367e9b62
+Olmsted County,Minnesota,MN,County,163425,https://www.olmstedcounty.gov,,,,,,,,,,,,,,2025-11-08 10:54:23.271386+00,2025-11-08 10:54:23.271388+00,2ff9e27b-c470-4349-a7f5-82363e34181a
+Prince George's County,Maryland,MD,County,955584,https://www.princegeorgescountymd.gov,,,,,,,,,,,,,,2025-11-08 10:53:46.234585+00,2025-11-08 10:53:46.234587+00,303f265d-09bf-46dd-b45c-2e5c0188a6e4
+City of Boulder,Colorado,CO,City,106274,https://bouldercolorado.gov,,,,,,,,,,,,,Boulder County,2025-11-08 10:49:05.041592+00,2025-11-08 10:49:05.041594+00,30a3caa0-11e9-4e62-8417-bd9a9305cedb
+City of Long Beach,California,CA,City,458491,https://www.longbeach.gov,,,,,,,,,,,,,Los Angeles County,2025-11-08 10:49:05.031672+00,2025-11-08 10:49:05.031675+00,30aa3a64-e094-4c45-adbd-d5d6e853df0e
+Brazos County,Texas,TX,County,237980,http://brazoscountytx.gov,,,,,,,,,,,,,,2025-11-08 11:00:48.739595+00,2025-11-08 11:00:48.739597+00,30f74da1-e9d9-4743-9465-4bde3c46e6a8
+City of Aurora,Colorado,CO,City,390201,https://www.auroragov.org,,,,,,,,,,,,,Adams County,2025-11-08 10:49:05.042709+00,2025-11-08 10:49:05.042711+00,312aa033-d9f6-4973-9000-33ae025495d0
+Dallas County,Texas,TX,County,2603816,https://www.dallascounty.org/,,,,,,,,,,,,,,2025-11-08 11:00:48.739675+00,2025-11-08 11:00:48.739678+00,316b26fd-83a1-480f-9c9c-d1e348ff684f
+Santa Fe County,New Mexico,NM,County,155175,https://www.santafecountynm.gov,,,,,,,,,,,,,,2025-11-08 10:56:20.019191+00,2025-11-08 10:56:20.019194+00,317317b6-e2a5-4b55-94b7-9474fe71a2d5
+Kenton County,Kentucky,KY,County,169817,https://www.kentoncounty.org,,,,,,,,,,,,,,2025-11-08 10:53:25.184104+00,2025-11-08 10:53:25.184106+00,32416c76-5453-40bc-bdbf-bb511a7dccdc
+Camden County,New Jersey,NJ,County,524042,https://www.camdencounty.com,,,,,,,,,,,,,,2025-11-08 10:55:47.458095+00,2025-11-08 10:55:47.458097+00,32587c12-57a1-4a66-b506-cee0e4578138
+City of Hillsboro,Oregon,OR,City,107050,https://www.hillsboro-oregon.gov,,,,,,,,,,,,,Washington County,2025-11-08 10:58:36.701973+00,2025-11-08 10:58:36.701976+00,325e4a12-cd17-4be6-b219-73f6e65cc98f
+City of Irving,Texas,TX,City,255036,https://irvingtx.gov,,,,,,,,,,,,,Dallas County,2025-11-08 11:01:29.71599+00,2025-11-08 11:01:29.715993+00,32de2a9f-31dd-4d60-8f1f-4c71da4d893a
+Adams County,Pennsylvania,PA,County,105183,https://www.adamscountypa.gov,,,,,,,,,,,,,,2025-11-08 10:59:17.220038+00,2025-11-08 10:59:17.220041+00,330f7f06-e293-453d-b992-75ac816c9ff7
+Santa Cruz County,California,CA,County,266021,https://santacruzcountyca.gov,,,,,,,,,,,,,,2025-11-08 10:48:36.925439+00,2025-11-08 10:48:36.925442+00,33751a0b-cd7c-4dbb-a2f9-651b90cd5d41
+City of Renton,Washington,WA,City,105279,https://www.rentonwa.gov,,,,,,,,,,,,,King County,2025-11-08 11:02:07.076133+00,2025-11-08 11:02:07.076136+00,33903da5-5bec-48ad-825f-5f42348ad669
+Hillsborough County,New Hampshire,NH,County,424732,https://hcnh.org/,,,,,,,,,,,,,,2025-11-08 10:55:47.441211+00,2025-11-08 10:55:47.441214+00,34077f53-7074-49e8-8dc2-7ade02054274
+Richmond County,New York,NY,County,492734,https://www.statenislandusa.com/,,,,,,,,,,,,,,2025-11-08 10:57:06.785461+00,2025-11-08 10:57:06.785463+00,34aa11e1-3aba-4091-9b41-8a2d71fdefac
+Alamance County,North Carolina,NC,County,174286,https://commissioners.alamancecountync.gov,,,,,,,,,,,,,,2025-11-08 10:57:38.304398+00,2025-11-08 10:57:38.304401+00,34c11988-26c6-42f8-ba6a-b57b24ea2711
+City of Thousand Oaks,California,CA,City,125676,https://www.toaks.org,,,,,,,,,,,,,Ventura County,2025-11-08 10:49:05.024501+00,2025-11-08 10:49:05.024503+00,350a8a6e-fef2-44c5-b6fd-496a89241068
+City of Hialeah,Florida,FL,City,221901,https://www.hialeahfl.gov,,,,,,,,,,,,,Miami-Dade County,2025-11-08 10:49:43.731255+00,2025-11-08 10:49:43.731258+00,351d2512-beb5-4d53-bc65-1c19444d5a19
+City of Menifee,California,CA,City,107020,https://www.cityofmenifee.us,,,,,,,,,,,,,Riverside County,2025-11-08 10:49:05.02446+00,2025-11-08 10:49:05.024462+00,3545d95f-01dc-4ede-958a-00c4600db0db
+Iredell County,North Carolina,NC,County,191800,https://www.iredellcountync.gov/,,,,,,,,,,,,,,2025-11-08 10:57:38.305159+00,2025-11-08 10:57:38.305162+00,358a5dab-ef71-4e4b-b23f-518d53f4419f
+Mobile County,Alabama,AL,County,413162,https://www.mobilecountyal.gov,,,,,,,,,,,,,,2025-11-08 10:48:12.72908+00,2025-11-08 10:48:12.729082+00,35bff39d-9b42-423b-ae33-002de2f91a41
+Broward County,Florida,FL,County,1946127,https://www.broward.org/,,,,,,,,,,,,,,2025-11-08 10:49:43.726292+00,2025-11-08 10:49:43.726295+00,35e19777-cef7-4128-ad58-d6a65ed981c8
+Carroll County,Maryland,MD,County,174318,https://www.carrollcountymd.gov,,,,,,,,,,,,,,2025-11-08 10:53:46.234768+00,2025-11-08 10:53:46.234771+00,35e4f639-5dd1-4b40-82b7-b133642dac09
+City of San Antonio,Texas,TX,City,1458954,https://www.sanantonio.gov,,,,,,,,,,,,,Bexar County,2025-11-08 11:00:48.744728+00,2025-11-08 11:00:48.744731+00,36402fde-055d-43b8-801b-9be885908fbf
+Hamilton County,Indiana,IN,County,357176,https://hamiltoncounty.in.gov/,,,,,,,,,,,,,,2025-11-08 10:51:55.199842+00,2025-11-08 10:51:55.199845+00,364b98e5-a3ae-4f37-b2fb-bb3d7637e42a
+Warren County,Kentucky,KY,County,137549,https://www.warrencountyky.gov/,,,,,,,,,,,,,,2025-11-08 10:53:25.181866+00,2025-11-08 10:53:25.181869+00,36804410-972b-4ddb-b0d1-80aaccbf6aa4
+Frederick County,Maryland,MD,County,280341,http://frederickcountymd.gov,,,,,,,,,,,,,,2025-11-08 10:53:46.234871+00,2025-11-08 10:53:46.234874+00,36f11a54-3e6a-407b-bfe5-0faf509b6308
+Saginaw County,Michigan,MI,County,189210,https://www.saginawcounty.com,,,,,,,,,,,,,,2025-11-08 10:54:03.48667+00,2025-11-08 10:54:03.486673+00,3754ef51-6303-46e4-86e6-4021364c5032
+City of Norfolk,Virginia,VA,City,235037,https://www.norfolk.gov/,,,,,,,,,,,,,,2025-11-08 11:02:07.066489+00,2025-11-08 11:02:07.066492+00,3755a33b-2b9f-4b22-a62c-1d04dec948a0
+Washington County,Maryland,MD,County,155033,https://www.washco-md.net,,,,,,,,,,,,,,2025-11-08 10:53:46.234891+00,2025-11-08 10:53:46.234894+00,37a43467-1ab3-456f-917c-a53b02cf1c79
+Washington County,Minnesota,MN,County,272298,http://www.washingtoncountymn.gov,,,,,,,,,,,,,,2025-11-08 10:54:23.271406+00,2025-11-08 10:54:23.271409+00,37bd80f2-7b23-4ca9-b7f7-b8492605b634
+Lucas County,Ohio,OH,County,428748,https://co.lucas.oh.us,,,,,,,,,,,,,,2025-11-08 10:58:14.228482+00,2025-11-08 10:58:14.228485+00,381cb517-c68e-4095-a256-1d3ac26d5b3f
+Williamson County,Texas,TX,County,643889,https://www.wilcotx.gov/,,,,,,,,,,,,,,2025-11-08 11:00:48.740626+00,2025-11-08 11:00:48.740629+00,384e307a-afca-4cff-9f07-d0cbf8fa6e96
+DeKalb County,Georgia,GA,County,762105,https://www.dekalbcountyga.gov,,,,,,,,,,,,,,2025-11-08 10:49:43.73666+00,2025-11-08 10:49:43.736662+00,388f91f4-9261-46fe-b658-141ba513e2f5
+Cleveland County,North Carolina,NC,County,100170,https://www.clevelandcounty.com,,,,,,,,,,,,,,2025-11-08 10:57:38.306336+00,2025-11-08 10:57:38.306338+00,38cb3acd-366d-40ad-b90d-473ad301f837
+Tom Green County,Texas,TX,County,119398,https://www.tomgreencountytx.gov/,,,,,,,,,,,,,,2025-11-08 11:00:48.741474+00,2025-11-08 11:00:48.741476+00,3930faf4-0afa-47fb-9558-42455b097b20
+Lake County,Ohio,OH,County,232101,https://www.lakecountyohio.gov,,,,,,,,,,,,,,2025-11-08 10:58:14.227417+00,2025-11-08 10:58:14.227419+00,39f2cbdc-126e-493d-9424-a1e26e3a022d
+Sumner County,Tennessee,TN,County,200553,https://sumnercountytn.gov,,,,,,,,,,,,,,2025-11-08 11:00:02.982085+00,2025-11-08 11:00:02.982087+00,3a7e20da-febb-4b7b-b542-7267961dcd20
+City of Midland,Texas,TX,City,133998,https://www.midlandtexas.gov,,,,,,,,,,,,,Midland County,2025-11-08 11:01:29.72004+00,2025-11-08 11:01:29.720043+00,3a873704-5f9c-406a-8490-b160b3e6a7d4
+Do√±a Ana County,New Mexico,NM,County,221665,https://www.donaanacounty.org,,,,,,,,,,,,,,2025-11-08 10:56:20.019496+00,2025-11-08 10:56:20.019499+00,3ab6eb36-5342-4c50-acf0-ff405d0525bb
+Kent County,Rhode Island,RI,County,170658,https://www.kentcountyri.com,,,,,,,,,,,,,,2025-11-08 11:00:02.964656+00,2025-11-08 11:00:02.964659+00,3b32896f-d2a0-43ed-a7d4-199835a7c472
+Davidson County,Tennessee,TN,County,709846,https://www.nashville.gov,,,,,,,,,,,,,,2025-11-08 11:00:02.981375+00,2025-11-08 11:00:02.981378+00,3b41122e-62c6-4945-bbdb-ea268204bd4d
+City of Murfreesboro,Tennessee,TN,City,157547,https://www.murfreesborotn.gov,,,,,,,,,,,,,Rutherford County,2025-11-08 11:00:16.954159+00,2025-11-08 11:00:16.954162+00,3b73bf7f-1753-4061-9ddb-0957e9ee0007
+City of Elk Grove,California,CA,City,177221,https://elkgrove.gov,,,,,,,,,,,,,Sacramento County,2025-11-08 10:49:05.028363+00,2025-11-08 10:49:05.028366+00,3bbeef8f-4074-4321-8c59-2311cb4b6934
+Anchorage Municipality,Alaska,AK,County,289069,https://www.muni.org,,,,,,,,,,,,,,2025-11-08 10:48:12.735805+00,2025-11-08 10:48:12.735808+00,3c548483-5c15-4e09-86b0-410279598372
+Vigo County,Indiana,IN,County,106201,https://www.vigocounty.in.gov,,,,,,,,,,,,,,2025-11-08 10:51:55.199219+00,2025-11-08 10:51:55.199222+00,3c6ac50c-4d1a-491c-9770-26ca219b1de3
+Rockwall County,Texas,TX,County,116931,https://www.rockwallcountytexas.com,,,,,,,,,,,,,,2025-11-08 11:00:48.740068+00,2025-11-08 11:00:48.74007+00,3cb840d1-8e32-4541-9866-0591b6f3306f
+Placer County,California,CA,County,412435,https://www.placer.ca.gov/,,,,,,,,,,,,,,2025-11-08 10:48:36.926394+00,2025-11-08 10:48:36.926397+00,3cd7d1a2-3fb6-40f6-8d53-afe695d0375a
+Highlands County,Florida,FL,County,103808,https://www.highlandsfl.gov,,,,,,,,,,,,,,2025-11-08 10:49:43.725729+00,2025-11-08 10:49:43.725732+00,3cf2409f-58e2-4380-9d85-3a5d669aa851
+City of Dallas,Texas,TX,City,1299553,https://dallascityhall.com,,,,,,,,,,,,,Dallas County,2025-11-08 11:01:29.717217+00,2025-11-08 11:01:29.717219+00,3d252686-98ff-4998-88c7-7fc4f44b7d3e
+Monterey County,California,CA,County,435834,https://www.countyofmonterey.gov,,,,,,,,,,,,,,2025-11-08 10:48:36.925333+00,2025-11-08 10:48:36.925336+00,3d30ad78-d017-4c43-b2df-a63b6f0b1ad9
+Guilford County,North Carolina,NC,County,542987,https://www.guilfordcountync.gov,,,,,,,,,,,,,,2025-11-08 10:57:38.306195+00,2025-11-08 10:57:38.306197+00,3dc0e62c-1eec-4711-97d1-8f5ea8cdb6e1
+Pinellas County,Florida,FL,County,960565,https://pinellas.gov,,,,,,,,,,,,,,2025-11-08 10:49:43.725831+00,2025-11-08 10:49:43.725834+00,3dcff439-aac8-4173-9079-2402b7a3e057
+Pasco County,Florida,FL,County,588758,https://www.pascocountyfl.net,,,,,,,,,,,,,,2025-11-08 10:49:43.725931+00,2025-11-08 10:49:43.725934+00,3e2da39a-3725-4f69-9cbc-367d3f3388d5
+Kings County,California,CA,County,152830,https://www.countyofkingsca.gov,,,,,,,,,,,,,,2025-11-08 10:48:36.925849+00,2025-11-08 10:48:36.925852+00,3e3950bf-9174-42ed-a4bf-62c87ba9cb26
+Kendall County,Illinois,IL,County,135053,https://www.kendallcountyil.gov,,,,,,,,,,,,,,2025-11-08 10:51:14.626996+00,2025-11-08 10:51:14.626999+00,3eaa45b8-319c-49a0-92de-7c6b83542847
+DeSoto County,Mississippi,MS,County,188598,https://desotocountyms.gov,,,,,,,,,,,,,,2025-11-08 10:54:35.098025+00,2025-11-08 10:54:35.098028+00,3f1d0a90-c0eb-4ec0-bb9d-36f422b6c602
+Albany County,New York,NY,County,315374,https://www.albanycountyny.gov,,,,,,,,,,,,,,2025-11-08 10:57:06.785289+00,2025-11-08 10:57:06.785292+00,3f56bd0f-e469-408d-be69-6ef3b40c0ec8
+Santa Barbara County,California,CA,County,443975,https://www.countyofsb.org/,,,,,,,,,,,,,,2025-11-08 10:48:36.926414+00,2025-11-08 10:48:36.926417+00,3f7d77da-02c2-48da-9b8d-4b5b01936264
+Ramsey County,Minnesota,MN,County,544438,https://www.ramseycounty.us/,,,,,,,,,,,,,,2025-11-08 10:54:23.272509+00,2025-11-08 10:54:23.272511+00,3f9647fd-1bdd-428e-bc93-197ac18ae778
+City of Garland,Texas,TX,City,245298,https://www.garlandtx.gov,,,,,,,,,,,,,Dallas County,2025-11-08 11:00:48.748143+00,2025-11-08 11:00:48.748145+00,3f9701d4-3985-40c2-b6fd-461a533de5d1
+City of Lewisville,Texas,TX,City,128313,https://www.cityoflewisville.com,,,,,,,,,,,,,Denton County,2025-11-08 11:00:48.746903+00,2025-11-08 11:00:48.746905+00,3fb1f3b6-b589-4307-a44a-7eb5bdb89255
+Western Connecticut Planning Region,Connecticut,CT,County,621232,https://westcog.org,,,,,,,,,,,,,,2025-11-08 10:49:43.719701+00,2025-11-08 10:49:43.719704+00,4047f96a-571c-4bc7-a5c5-dde27c816086
+City of Spokane,Washington,WA,City,229228,https://my.spokanecity.org/,,,,,,,,,,,,,Spokane County,2025-11-08 11:02:07.074843+00,2025-11-08 11:02:07.074846+00,405d60e6-8e3a-4065-be5c-d5c50b73024b
+Monmouth County,New Jersey,NJ,County,643615,https://www.visitmonmouth.com/,,,,,,,,,,,,,,2025-11-08 10:55:47.458281+00,2025-11-08 10:55:47.458284+00,4081de1e-96e1-489c-903b-af3bebe2705a
+Hillsborough County,Florida,FL,County,1489634,https://hcfl.gov/,,,,,,,,,,,,,,2025-11-08 10:49:43.726373+00,2025-11-08 10:49:43.726375+00,40af69af-084b-4dc8-8270-4462a7f49d52
+City of Austin,Texas,TX,City,967862,https://www.austintexas.gov,,,,,,,,,,,,,Travis County,2025-11-08 11:01:29.712037+00,2025-11-08 11:01:29.71205+00,40e1ccff-4a5c-4c95-859a-853eeac96573
+South Central Connecticut Planning Region,Connecticut,CT,County,566803,https://scrcog.org,,,,,,,,,,,,,,2025-11-08 10:49:43.719765+00,2025-11-08 10:49:43.719767+00,40e3f528-92ab-445f-9b54-5ac83e65fa76
+Skagit County,Washington,WA,County,130407,https://www.skagitcounty.net,,,,,,,,,,,,,,2025-11-08 11:02:07.07424+00,2025-11-08 11:02:07.074243+00,40ea4cb7-2b8f-48c6-809f-4004fcd01503
+City of North Charleston,South Carolina,SC,City,117460,https://www.northcharleston.org/,,,,,,,,,,,,,Charleston County,2025-11-08 11:00:02.968654+00,2025-11-08 11:00:02.968656+00,417a1503-8726-41b4-b810-eba18d16b567
+City of Denton,Texas,TX,City,146987,https://www.cityofdenton.com,,,,,,,,,,,,,Denton County,2025-11-08 11:00:48.742983+00,2025-11-08 11:00:48.742986+00,41eb7496-9aea-41e5-825e-7aaef0da994b
+Rock Island County,Illinois,IL,County,142995,https://www.rockislandcountyil.gov,,,,,,,,,,,,,,2025-11-08 10:51:14.627403+00,2025-11-08 10:51:14.627406+00,41fdf771-4e78-4da1-971e-38d44541b7c5
+Sedgwick County,Kansas,KS,County,524810,https://www.sedgwickcounty.org,,,,,,,,,,,,,,2025-11-08 10:52:36.691896+00,2025-11-08 10:52:36.691899+00,42b51056-d2e8-4fb5-a33d-42d0ce4203ab
+McLennan County,Texas,TX,County,263608,https://www.mclennan.gov/,,,,,,,,,,,,,,2025-11-08 11:00:48.7425+00,2025-11-08 11:00:48.742503+00,42ccdb54-8e2f-4de6-aff2-c60918ad985f
+Norfolk city,Virginia,VA,County,235037,https://www.norfolk.gov/,,,,,,,,,,,,,,2025-11-08 11:02:07.064231+00,2025-11-08 11:02:07.064234+00,43485bff-9f0d-4036-b9f6-d296403084e8
+Gaston County,North Carolina,NC,County,231485,https://www.gastongov.com,,,,,,,,,,,,,,2025-11-08 10:57:38.305442+00,2025-11-08 10:57:38.305444+00,43cc65c2-a9de-443f-87c9-f75437839948
+Rowan County,North Carolina,NC,County,148487,https://www.rowancountync.gov,,,,,,,,,,,,,,2025-11-08 10:57:38.305582+00,2025-11-08 10:57:38.305585+00,4455ee92-39a0-4732-bdd6-5a21b0d16ead
+Gregg County,Texas,TX,County,124860,https://greggcounty.texas.gov/,,,,,,,,,,,,,,2025-11-08 11:00:48.741394+00,2025-11-08 11:00:48.741396+00,44814ce8-fd10-46a6-b3a7-aba6e750d939
+City of Independence,Missouri,MO,City,121944,https://www.independencemo.gov,,,,,,,,,,,,,Jackson County,2025-11-08 10:55:17.069291+00,2025-11-08 10:55:17.069294+00,44937619-8876-4cc0-81cf-efca17a3c472
+Northampton County,Pennsylvania,PA,County,315927,https://www.northamptoncounty.org,,,,,,,,,,,,,,2025-11-08 10:59:17.219873+00,2025-11-08 10:59:17.219876+00,44ab4b41-7622-4ef3-8af6-297e5cfa17f8
+Yamhill County,Oregon,OR,County,108122,https://yamhillcounty.gov,,,,,,,,,,,,,,2025-11-08 10:58:36.698747+00,2025-11-08 10:58:36.69875+00,44b438ab-ac0a-4356-84a3-8b1da7a49eb5
+City of Winston-Salem,North Carolina,NC,City,250887,https://www.cityofws.org,,,,,,,,,,,,,Forsyth County,2025-11-08 10:57:38.309698+00,2025-11-08 10:57:38.309701+00,44c31c8d-2e44-476b-ba07-bf08b9434e1f
+City of Vallejo,California,CA,City,124637,https://www.vallejo.gov,,,,,,,,,,,,,Solano County,2025-11-08 10:49:05.024823+00,2025-11-08 10:49:05.024826+00,45008001-0212-4c81-b53b-0a21b1075709
+City of Cambridge,Massachusetts,MA,City,117794,https://www.cambridgema.gov,,,,,,,,,,,,,Middlesex County,2025-11-08 10:53:46.247149+00,2025-11-08 10:53:46.247152+00,451555a2-6650-4aaf-aefe-8053c09ad3cb
+City of Philadelphia,Pennsylvania,PA,City,1582432,https://www.phila.gov,,,,,,,,,,,,,Philadelphia County,2025-11-08 10:59:17.224456+00,2025-11-08 10:59:17.224458+00,458b7032-7b38-483d-a2a6-d5a5ae27774c
+El Paso County,Colorado,CO,County,736008,https://www.elpasoco.com,,,,,,,,,,,,,,2025-11-08 10:49:05.039228+00,2025-11-08 10:49:05.03923+00,46417c1c-87ea-4846-973c-3b968d099fa2
+City of Kansas City,Missouri,MO,City,508233,https://www.kcmo.gov,,,,,,,,,,,,,Jackson County,2025-11-08 10:55:17.069399+00,2025-11-08 10:55:17.069402+00,46586efe-29b7-4448-baf3-58da5e740c25
+Greene County,Ohio,OH,County,168531,https://www.greenecountyohio.gov,,,,,,,,,,,,,,2025-11-08 10:58:14.22802+00,2025-11-08 10:58:14.228022+00,4659240a-9ca8-4068-9b79-69d24ab5d3d6
+Westchester County,New York,NY,County,996888,https://www.westchestergov.com,,,,,,,,,,,,,,2025-11-08 10:57:06.785033+00,2025-11-08 10:57:06.785035+00,46776f16-8c90-4f27-afd8-0ba2d7fab936
+Summit County,Ohio,OH,County,538087,https://co.summitoh.net,,,,,,,,,,,,,,2025-11-08 10:58:14.227597+00,2025-11-08 10:58:14.2276+00,473d6fee-640c-4371-9272-b6614243d2ec
+City of Naperville,Illinois,IL,City,149424,https://www.naperville.il.us,,,,,,,,,,,,,DuPage County,2025-11-08 10:51:14.630178+00,2025-11-08 10:51:14.630181+00,47b9ac08-bb21-4083-8c9d-0dff34740b16
+La Crosse County,Wisconsin,WI,County,120262,https://lacrossecounty.org/,,,,,,,,,,,,,,2025-11-08 11:02:49.699543+00,2025-11-08 11:02:49.699545+00,49f6f08d-b72a-43bd-ba57-0545872300d2
+Midland County,Texas,TX,County,171496,https://www.co.midland.tx.us,,,,,,,,,,,,,,2025-11-08 11:00:48.740647+00,2025-11-08 11:00:48.740649+00,4a1340d1-5329-4750-8c65-10dfef2c323c
+Grayson County,Texas,TX,County,139988,https://www.co.grayson.tx.us/,,,,,,,,,,,,,,2025-11-08 11:00:48.74248+00,2025-11-08 11:00:48.742482+00,4a64629e-7a03-424f-9ead-4ca78326ab8b
+Allen County,Indiana,IN,County,388791,https://www.allencounty.in.gov/,,,,,,,,,,,,,,2025-11-08 10:51:55.199396+00,2025-11-08 10:51:55.199399+00,4a6fb6b9-1106-4357-b999-4337d5ccfe9b
+City of West Valley City,Utah,UT,City,137955,https://www.wvc-ut.gov/,,,,,,,,,,,,,Salt Lake County,2025-11-08 11:01:29.727644+00,2025-11-08 11:01:29.727647+00,4b6aaf54-a850-4ec9-ae66-c6e1a7600218
+Morris County,New Jersey,NJ,County,510375,https://www.morriscountynj.gov,,,,,,,,,,,,,,2025-11-08 10:55:47.458054+00,2025-11-08 10:55:47.458056+00,4b948ad4-93b9-47d0-b2b2-56b40832403b
+City of Gilbert,Arizona,AZ,City,271118,https://www.gilbertaz.gov,,,,,,,,,,,,,Maricopa County,2025-11-08 10:48:29.679152+00,2025-11-08 10:48:29.679161+00,4bdf292b-55fb-42be-a372-cca01f65f11d
+Middlesex County,Massachusetts,MA,County,1622896,https://www.mass.gov/locations/middlesex-county,,,,,,,,,,,,,,2025-11-08 10:53:46.24624+00,2025-11-08 10:53:46.246242+00,4c03a914-76e8-4c8b-b85b-a0438a1cc9e6
+Loudoun County,Virginia,VA,County,427082,https://www.loudoun.gov,,,,,,,,,,,,,,2025-11-08 11:02:07.065091+00,2025-11-08 11:02:07.065094+00,4c043cb5-89fd-4133-84e7-bab3752539e9
+Harrison County,Mississippi,MS,County,209443,https://harrisoncountyms.gov/,,,,,,,,,,,,,,2025-11-08 10:54:35.098659+00,2025-11-08 10:54:35.098661+00,4c1df0d2-660f-40c2-bbbd-e77356e3d2af
+Muskegon County,Michigan,MI,County,175378,https://co.muskegon.mi.us,,,,,,,,,,,,,,2025-11-08 10:54:03.487034+00,2025-11-08 10:54:03.487036+00,4d95f361-cc07-4eb0-8911-7d771208a754
+San Mateo County,California,CA,County,745100,https://www.smcgov.org,,,,,,,,,,,,,,2025-11-08 10:48:36.924751+00,2025-11-08 10:48:36.924755+00,4dca69af-e622-4600-91c4-47ac9f3dd66e
+Sacramento County,California,CA,County,1584047,https://www.saccounty.gov,,,,,,,,,,,,,,2025-11-08 10:48:36.926059+00,2025-11-08 10:48:36.926063+00,4df690c2-aff3-4189-9fe1-ccd0ed5a4e93
+El Dorado County,California,CA,County,192299,https://www.eldoradocounty.ca.gov,,,,,,,,,,,,,,2025-11-08 10:48:36.926167+00,2025-11-08 10:48:36.926169+00,4e6e15ba-dcc5-4401-b9b2-f243dc0a6942
+Brunswick County,North Carolina,NC,County,145889,https://www.brunswickcountync.gov,,,,,,,,,,,,,,2025-11-08 10:57:38.304519+00,2025-11-08 10:57:38.304521+00,4e964300-9ddb-4363-a71a-383f5eba51c2
+Newton County,Georgia,GA,County,115530,https://www.newtoncountyga.gov,,,,,,,,,,,,,,2025-11-08 10:49:43.737719+00,2025-11-08 10:49:43.737722+00,4ea20bdc-028a-45b3-bf16-411d0a4ec964
+Humboldt County,California,CA,County,135418,https://humboldtgov.org/,,,,,,,,,,,,,,2025-11-08 10:48:36.926435+00,2025-11-08 10:48:36.926438+00,4eace091-f0f9-42a9-a1dc-76d8b9ee0c12
+Robeson County,North Carolina,NC,County,116858,https://www.robesoncountync.gov/,,,,,,,,,,,,,,2025-11-08 10:57:38.306274+00,2025-11-08 10:57:38.306277+00,4ebd69d5-8bb0-4f3c-b628-27fe2edc9b4d
+Hamilton County,Ohio,OH,County,827878,https://www.hamiltoncountyohio.gov,,,,,,,,,,,,,,2025-11-08 10:57:39.031492+00,2025-11-08 10:57:39.031494+00,4ec1ba63-2b9f-4c83-8c56-a7c9050ea0da
+Jackson County,Missouri,MO,County,717021,https://www.jacksongov.org,,,,,,,,,,,,,,2025-11-08 10:54:35.114841+00,2025-11-08 10:54:35.114844+00,4f4f17ec-533d-4590-8c03-8f4f1d0bcdb9
+Hamilton County,Tennessee,TN,County,370913,https://www.hamiltontn.gov,,,,,,,,,,,,,,2025-11-08 11:00:16.951172+00,2025-11-08 11:00:16.951174+00,4f59b217-fd8c-4cb2-96bd-b6d203fad3ec
+City of Allentown,Pennsylvania,PA,City,125320,https://www.allentownpa.gov,,,,,,,,,,,,,Lehigh County,2025-11-08 10:59:17.222739+00,2025-11-08 10:59:17.222741+00,4f5d39ad-7784-4ce6-a1d5-5565bfa36d3f
+Atlantic County,New Jersey,NJ,County,274704,https://www.atlanticcountynj.gov,,,,,,,,,,,,,,2025-11-08 10:55:47.458033+00,2025-11-08 10:55:47.458036+00,4f893dbe-a235-4716-8a78-3b1566ac9565
+City of Anaheim,California,CA,City,344553,https://www.anaheim.net/,,,,,,,,,,,,,Orange County,2025-11-08 10:48:36.927326+00,2025-11-08 10:48:36.927328+00,4f980cde-9697-471e-9818-570a86025f16
+Richland County,Ohio,OH,County,125138,https://www.richlandcountyoh.gov,,,,,,,,,,,,,,2025-11-08 10:58:14.227457+00,2025-11-08 10:58:14.227459+00,4fd2776d-31a7-4d70-8aae-b7ac7e764a37
+Lancaster County,Pennsylvania,PA,County,555151,https://co.lancaster.pa.us,,,,,,,,,,,,,,2025-11-08 10:59:17.219618+00,2025-11-08 10:59:17.21962+00,4ff508dc-508f-4ea3-92d4-b0667e94071d
+City of Vacaville,California,CA,City,102085,https://www.cityofvacaville.gov,,,,,,,,,,,,,Solano County,2025-11-08 10:49:05.024177+00,2025-11-08 10:49:05.02418+00,5038d246-2bfd-43a3-b540-435fc413f19f
+Douglas County,Colorado,CO,County,368283,https://www.douglas.co.us,,,,,,,,,,,,,,2025-11-08 10:49:05.039349+00,2025-11-08 10:49:05.039352+00,50df2423-a1a7-4538-bb85-3bf9a48fdc17
+Genesee County,Michigan,MI,County,404087,https://www.geneseecountymi.gov,,,,,,,,,,,,,,2025-11-08 10:54:03.48809+00,2025-11-08 10:54:03.488093+00,510a3aa0-f7c5-475b-86ad-a742c90da528
+Suffolk County,New York,NY,County,1525680,https://suffolkcountyny.gov,,,,,,,,,,,,,,2025-11-08 10:57:06.784693+00,2025-11-08 10:57:06.784696+00,51ad3cd8-f2ed-4f32-80de-89b0251861d0
+Wilson County,Tennessee,TN,County,153587,https://wilsoncountytn.gov,,,,,,,,,,,,,,2025-11-08 11:00:16.951315+00,2025-11-08 11:00:16.951318+00,51d3780d-17ab-4ad3-ba43-996b5c52723a
+Madison County,Alabama,AL,County,397135,https://www.madisoncountyal.gov,,,,,,,,,,,,,,2025-11-08 10:48:12.72906+00,2025-11-08 10:48:12.729062+00,520f3f6d-da68-4ee3-b998-c92d538126f2
+Monroe County,Indiana,IN,County,139822,https://www.co.monroe.in.us,,,,,,,,,,,,,,2025-11-08 10:51:55.197861+00,2025-11-08 10:51:55.197865+00,522ee601-cef1-45df-af51-c4b259392f26
+City of Tempe,Arizona,AZ,City,186419,https://www.tempe.gov/,,,,,,,,,,,,,Maricopa County,2025-11-08 10:48:29.678469+00,2025-11-08 10:48:29.678472+00,52597f58-629d-4c1c-84d7-b2441513a4b6
+City of Garden Grove,California,CA,City,170603,https://ggcity.org,,,,,,,,,,,,,Orange County,2025-11-08 10:49:05.027192+00,2025-11-08 10:49:05.027195+00,528b5adb-190a-407e-bf56-dca1c713e112
+City of Charleston,South Carolina,SC,City,152014,http://charleston-sc.gov/,,,,,,,,,,,,,Charleston County,2025-11-08 11:00:02.968508+00,2025-11-08 11:00:02.968511+00,528c7caf-1e94-4116-aed3-9022fe53ad2c
+McLean County,Illinois,IL,County,170882,https://www.mcleancountyil.gov,,,,,,,,,,,,,,2025-11-08 10:51:14.626446+00,2025-11-08 10:51:14.626449+00,52ae4d9c-3375-4600-b7e6-956ea3172091
+Richmond city,Virginia,VA,County,227595,https://www.rva.gov/,,,,,,,,,,,,,,2025-11-08 11:02:07.063746+00,2025-11-08 11:02:07.063748+00,52b338ca-80dd-4163-a082-95ad4237b2da
+Passaic County,New Jersey,NJ,County,518289,https://www.passaiccountynj.org/,,,,,,,,,,,,,,2025-11-08 10:55:47.458322+00,2025-11-08 10:55:47.458324+00,52c84f67-1fcd-4fe9-ba6d-9f991e44c557
+Cache County,Utah,UT,County,137031,https://www.cachecounty.gov,,,,,,,,,,,,,,2025-11-08 11:01:29.726104+00,2025-11-08 11:01:29.726107+00,533fa2a7-e836-4e91-bb4b-11859c22e7e3
+City of Oceanside,California,CA,City,172542,https://www.ci.oceanside.ca.us/,,,,,,,,,,,,,San Diego County,2025-11-08 10:49:05.02436+00,2025-11-08 10:49:05.024362+00,535f5b5a-e973-4c03-999a-26f5cda04671
+Stanislaus County,California,CA,County,552250,https://www.stancounty.com,,,,,,,,,,,,,,2025-11-08 10:48:36.925123+00,2025-11-08 10:48:36.925126+00,53c3e2ae-7e89-4b96-9861-657fb2bacc80
+City of Thornton,Colorado,CO,City,142878,https://www.thorntonco.gov,,,,,,,,,,,,,Adams County,2025-11-08 10:49:05.041206+00,2025-11-08 10:49:05.041209+00,5414d6dd-e828-41b3-84ee-a30a6d04dc03
+City of Broken Arrow,Oklahoma,OK,City,115919,https://www.brokenarrowok.gov,,,,,,,,,,,,,Tulsa County,2025-11-08 10:58:36.690961+00,2025-11-08 10:58:36.690964+00,542fed26-0b7d-419a-9118-2d460965970a
+Union County,New Jersey,NJ,County,572549,https://ucnj.org,,,,,,,,,,,,,,2025-11-08 10:55:47.458115+00,2025-11-08 10:55:47.458118+00,54f739d4-896f-4960-99cb-628e4ea1c211
+City of Raleigh,North Carolina,NC,City,470763,https://raleighnc.gov,,,,,,,,,,,,,Wake County,2025-11-08 10:57:38.306536+00,2025-11-08 10:57:38.306539+00,5551e979-5043-48d1-8d2b-1457fec87b4f
+St. Lawrence County,New York,NY,County,107796,https://stlawco.gov/,,,,,,,,,,,,,,2025-11-08 10:57:06.785267+00,2025-11-08 10:57:06.78527+00,55e776e5-e2fa-4d5b-9688-45b8d4d3da00
+City of Buffalo,New York,NY,City,276397,https://www.buffalony.gov,,,,,,,,,,,,,Erie County,2025-11-08 10:57:06.786941+00,2025-11-08 10:57:06.786943+00,5613482f-ad7c-403c-99b3-158b1ec2086e
+Linn County,Oregon,OR,County,129794,https://www.linncountyor.gov,,,,,,,,,,,,,,2025-11-08 10:58:36.698869+00,2025-11-08 10:58:36.698872+00,564b2df7-1f36-4a80-8c4c-d34284d04978
+City of San Diego,California,CA,City,1385061,https://www.sandiego.gov,,,,,,,,,,,,,San Diego County,2025-11-08 10:49:05.027007+00,2025-11-08 10:49:05.027009+00,56cad3e8-b403-4025-b14c-8ce8ef8df9ce
+Maury County,Tennessee,TN,County,104855,https://www.maurycounty-tn.gov/,,,,,,,,,,,,,,2025-11-08 11:00:02.982433+00,2025-11-08 11:00:02.982435+00,571bd212-b3e3-4b52-baa3-39ecca191e27
+St. Louis County,Missouri,MO,County,996618,https://stlouiscountymo.gov,,,,,,,,,,,,,,2025-11-08 10:54:35.114567+00,2025-11-08 10:54:35.11457+00,572849f0-6b38-417d-be91-ce004b4c5b69
+St. Louis County,Minnesota,MN,County,200056,https://www.stlouiscountymn.gov,,,,,,,,,,,,,,2025-11-08 10:54:23.27115+00,2025-11-08 10:54:23.271152+00,57402653-8769-49bd-bee8-d0a893d1bfbb
+Boone County,Missouri,MO,County,185874,https://www.showmeboone.com/,,,,,,,,,,,,,,2025-11-08 10:55:17.068837+00,2025-11-08 10:55:17.068839+00,57c56a03-1965-419f-b1e8-0a73cb576f8c
+City of Boise City,Idaho,ID,City,235701,https://www.cityofboise.org,,,,,,,,,,,,,Ada County,2025-11-08 10:50:28.463744+00,2025-11-08 10:50:28.463746+00,5882425c-bbee-4f55-a3c5-21e006a6b075
+Wyandotte County,Kansas,KS,County,167277,https://www.wycokck.org,,,,,,,,,,,,,,2025-11-08 10:52:36.691977+00,2025-11-08 10:52:36.69198+00,58b2e934-e03a-490b-afc4-27f22b91823a
+Sandoval County,New Mexico,NM,County,151538,https://www.sandovalcountynm.gov,,,,,,,,,,,,,,2025-11-08 10:56:20.019292+00,2025-11-08 10:56:20.019295+00,58c54492-1bcf-482a-88cb-e5bc08ee0ec9
+City of Eugene,Oregon,OR,City,177520,https://www.eugene-or.gov,,,,,,,,,,,,,Lane County,2025-11-08 10:58:36.702383+00,2025-11-08 10:58:36.702386+00,58cc3ef0-b1be-421b-bb76-4454544dfc24
+Hawaii County,Hawaii,HI,County,203684,https://www.hawaiicounty.gov,,,,,,,,,,,,,,2025-11-08 10:50:28.461739+00,2025-11-08 10:50:28.461742+00,58d63ce7-5176-4289-a29b-53eaa07f80e3
+City of Frisco,Texas,TX,City,210238,https://www.friscotexas.gov,,,,,,,,,,,,,Collin County,2025-11-08 11:00:48.747387+00,2025-11-08 11:00:48.747392+00,58e691fe-fcaf-493b-9cfb-4b72253a94c7
+City of Chula Vista,California,CA,City,275030,https://www.chulavistaca.gov,,,,,,,,,,,,,San Diego County,2025-11-08 10:49:05.02444+00,2025-11-08 10:49:05.024443+00,5939a95e-cb7f-46de-b551-8464487c182d
+Cass County,North Dakota,ND,County,189286,https://www.casscountynd.gov,,,,,,,,,,,,,,2025-11-08 10:57:38.318209+00,2025-11-08 10:57:38.318212+00,5967bb74-f133-4e5d-ad54-1eda9495a11b
+Columbiana County,Ohio,OH,County,101203,http://www.columbianacounty.org,,,,,,,,,,,,,,2025-11-08 10:57:39.031451+00,2025-11-08 10:57:39.031453+00,5a5496cf-5d4e-46f0-9c14-ef552a7df211
+Craighead County,Arkansas,AR,County,112097,https://craigheadcountyar.gov/,,,,,,,,,,,,,,2025-11-08 10:48:29.687684+00,2025-11-08 10:48:29.687687+00,5aed8ce1-5da6-468c-8f81-033170297447
+Ector County,Texas,TX,County,163206,https://www.co.ector.tx.us/,,,,,,,,,,,,,,2025-11-08 11:00:48.739554+00,2025-11-08 11:00:48.739557+00,5b1063e5-0c5e-4e5b-aa28-609f95023647
+City of Lafayette,Louisiana,LA,City,121537,https://www.lafayettela.gov,,,,,,,,,,,,,Lafayette Parish County,2025-11-08 10:53:25.193929+00,2025-11-08 10:53:25.193932+00,5b73e55e-9800-415d-8843-b94fb8ab5c8e
+Bastrop County,Texas,TX,County,102370,http://co.bastrop.tx.us/,,,,,,,,,,,,,,2025-11-08 11:00:48.741071+00,2025-11-08 11:00:48.741073+00,5b80e8b1-9a83-46f9-bf63-1264c77c3e22
+Flathead County,Montana,MT,County,108445,https://flathead.mt.gov,,,,,,,,,,,,,,2025-11-08 10:55:17.084177+00,2025-11-08 10:55:17.08418+00,5ba07d31-1585-432f-9754-e94e8bff3f41
+Albemarle County,Virginia,VA,County,113683,https://www.albemarle.org,,,,,,,,,,,,,,2025-11-08 11:02:07.064474+00,2025-11-08 11:02:07.064477+00,5bead314-9172-4e03-9b3d-0ad633ae0c6d
+City of Peoria,Arizona,AZ,City,194338,https://www.peoriaaz.gov,,,,,,,,,,,,,Maricopa County,2025-11-08 10:48:29.677397+00,2025-11-08 10:48:29.6774+00,5bf80cf7-4fb1-450e-8726-2c229a980374
+Kanawha County,West Virginia,WV,County,178198,https://kanawha.us,,,,,,,,,,,,,,2025-11-08 11:02:07.079681+00,2025-11-08 11:02:07.079684+00,5c1600c2-eafe-4019-ba1c-de1238abd932
+Columbia County,Georgia,GA,County,159638,https://www.columbiacountyga.gov,,,,,,,,,,,,,,2025-11-08 10:50:28.452531+00,2025-11-08 10:50:28.452534+00,5c4ad1c8-c224-4314-b3eb-82f7160219fa
+City of Las Cruces,New Mexico,NM,City,112612,https://lascruces.gov,,,,,,,,,,,,,Doña Ana County,2025-11-08 10:56:20.020917+00,2025-11-08 10:56:20.020919+00,5c555455-e058-4fb7-baf6-207c4a641cd1
+City of Sterling Heights,Michigan,MI,City,133473,https://www.sterlingheights.gov,,,,,,,,,,,,,Macomb County,2025-11-08 10:54:03.491165+00,2025-11-08 10:54:03.491167+00,5c6a6b6c-39f1-442a-9e97-bc9f25c69300
+City of Mobile,Alabama,AL,City,185097,https://www.cityofmobile.org/,,,,,,,,,,,,,Mobile County,2025-11-08 10:48:12.732029+00,2025-11-08 10:48:12.732032+00,5ca5bd37-4207-452a-8b86-e0da321ea7da
+City of Elgin,Illinois,IL,City,114106,https://elginil.gov/,,,,,,,,,,,,,Kane County,2025-11-08 10:51:14.638106+00,2025-11-08 10:51:14.638108+00,5cc22d28-86fa-4197-918e-69483f70a6ca
+Harnett County,North Carolina,NC,County,136503,https://www.harnett.org,,,,,,,,,,,,,,2025-11-08 10:57:38.305832+00,2025-11-08 10:57:38.305834+00,5cd1e1b6-19ea-4a65-b851-1b4398c121ea
+City of Santa Ana,California,CA,City,311639,https://www.santa-ana.org/,,,,,,,,,,,,,Orange County,2025-11-08 10:49:05.029361+00,2025-11-08 10:49:05.029364+00,5cfa8e6c-86de-4330-8515-8122f8f5a053
+Johnson County,Kansas,KS,County,614764,https://www.jocogov.org/,,,,,,,,,,,,,,2025-11-08 10:52:36.691147+00,2025-11-08 10:52:36.69115+00,5d0db3f9-34c0-4a35-a6f9-4d1f33613ad3
+Will County,Illinois,IL,County,698450,https://willcounty.gov,,,,,,,,,,,,,,2025-11-08 10:51:14.62665+00,2025-11-08 10:51:14.626653+00,5d1b3453-1f1c-4872-a05e-979e94539d3f
+Orleans Parish,Louisiana,LA,County,376035,https://www.louisiana.gov/local-louisiana/orleans-parish,,,,,,,,,,,,,,2025-11-08 10:53:25.190466+00,2025-11-08 10:53:25.190469+00,5d271618-70bf-49ec-981b-59694938b7e8
+City of Chandler,Arizona,AZ,City,278123,https://www.chandleraz.gov,,,,,,,,,,,,,Maricopa County,2025-11-08 10:48:29.678248+00,2025-11-08 10:48:29.678251+00,5db34b7d-537e-42a8-8489-cf5d975067e8
+City of Hayward,California,CA,City,159201,https://www.hayward-ca.gov/,,,,,,,,,,,,,Alameda County,2025-11-08 10:49:05.024582+00,2025-11-08 10:49:05.024585+00,5db98daf-0bd3-4791-a362-2a083baa71eb
+Douglas County,Georgia,GA,County,146141,https://douglascountyga.gov,,,,,,,,,,,,,,2025-11-08 10:49:43.736211+00,2025-11-08 10:49:43.736214+00,5dfad9f2-7f69-4204-a65a-d85f9fcf9aa3
+Montgomery County,Pennsylvania,PA,County,861225,https://www.montgomerycountypa.gov,,,,,,,,,,,,,,2025-11-08 10:59:17.220615+00,2025-11-08 10:59:17.220617+00,5e00e144-4bae-4f48-b8df-808c589cd0e3
+City of Detroit,Michigan,MI,City,636644,https://detroitmi.gov,,,,,,,,,,,,,Wayne County,2025-11-08 10:54:03.493512+00,2025-11-08 10:54:03.493514+00,5e037901-7c61-4f7e-8d8c-3f67e0a0e51b
+City of Sacramento,California,CA,City,524802,https://www.cityofsacramento.gov,,,,,,,,,,,,,Sacramento County,2025-11-08 10:49:05.024683+00,2025-11-08 10:49:05.024686+00,5e73088b-f677-42f2-aaf3-28356d104497
+Saline County,Arkansas,AR,County,125724,https://www.salinecounty.org,,,,,,,,,,,,,,2025-11-08 10:48:29.688918+00,2025-11-08 10:48:29.688926+00,5ef8ccf9-329e-4bcf-b7f4-5520a89a7351
+City of Lakeland,Florida,FL,City,117030,https://lakelandgov.net,,,,,,,,,,,,,Polk County,2025-11-08 10:49:43.72898+00,2025-11-08 10:49:43.728982+00,5f1bf7df-c700-445e-9136-c66dedcc5a48
+Outagamie County,Wisconsin,WI,County,191537,https://www.outagamie.org,,,,,,,,,,,,,,2025-11-08 11:02:49.698922+00,2025-11-08 11:02:49.698925+00,5f3b1b3a-e020-4ae0-9958-67e45696bd97
+City of Berkeley,California,CA,City,120223,https://berkeleyca.gov,,,,,,,,,,,,,Alameda County,2025-11-08 10:49:05.02932+00,2025-11-08 10:49:05.029323+00,5f3fbb66-8b27-4744-9204-bc7ff9a01e6f
+Macon-Bibb,Georgia,GA,County,156543,https://www.maconbibb.us,,,,,,,,,,,,,,2025-11-08 10:50:28.45639+00,2025-11-08 10:50:28.456394+00,5faaa1a2-12c7-4b95-b635-0ad6baf51806
+Martin County,Florida,FL,County,160464,https://www.martin.fl.us,,,,,,,,,,,,,,2025-11-08 10:49:43.72694+00,2025-11-08 10:49:43.726942+00,5fcc3cc0-08b4-4f88-b6b1-46194200851c
+City of Scottsdale,Arizona,AZ,City,242169,https://www.scottsdaleaz.gov,,,,,,,,,,,,,Maricopa County,2025-11-08 10:48:29.678419+00,2025-11-08 10:48:29.678423+00,606d0634-8616-4a33-ab5f-7a2eb3977223
+City of Costa Mesa,California,CA,City,110538,https://www.costamesaca.gov,,,,,,,,,,,,,Orange County,2025-11-08 10:49:05.029403+00,2025-11-08 10:49:05.029405+00,609e67d3-4eba-4682-8ccd-db703cdb5bc2
+City of Fullerton,California,CA,City,141278,https://www.cityoffullerton.com,,,,,,,,,,,,,Orange County,2025-11-08 10:48:36.927702+00,2025-11-08 10:48:36.927705+00,60adca9d-5117-4135-8959-510073d9cbc3
+Philadelphia County,Pennsylvania,PA,County,1582432,https://www.phila.gov,,,,,,,,,,,,,,2025-11-08 10:59:17.219443+00,2025-11-08 10:59:17.219445+00,60d36837-f866-4f56-93ab-a655607dd2c5
+Bristol County,Massachusetts,MA,County,578436,https://countyofbristol.net/,,,,,,,,,,,,,,2025-11-08 10:53:46.246321+00,2025-11-08 10:53:46.246324+00,6130afe9-235e-4a25-884f-e0f1d3ca5277
+City of North Las Vegas,Nevada,NV,City,270773,https://www.cityofnorthlasvegas.com,,,,,,,,,,,,,Clark County,2025-11-08 10:55:47.43925+00,2025-11-08 10:55:47.439253+00,61a75892-d6ea-40bd-a7c7-ebb759cf721a
+Wake County,North Carolina,NC,County,1151009,https://www.wake.gov,,,,,,,,,,,,,,2025-11-08 10:57:38.305422+00,2025-11-08 10:57:38.305424+00,620df54d-8033-47ae-b712-ac52da62890d
+Ada County,Idaho,ID,County,508052,https://adacounty.id.gov,,,,,,,,,,,,,,2025-11-08 10:50:28.462342+00,2025-11-08 10:50:28.462345+00,622a5b60-967d-45d6-856e-d5995eaf47e7
+City of Kansas City,Kansas,KS,City,154776,https://www.visitkansascityks.com/,,,,,,,,,,,,,Wyandotte County,2025-11-08 10:53:25.175934+00,2025-11-08 10:53:25.175936+00,623834e6-b79f-42e7-b7a8-cf07f5e6af16
+Cass County,Missouri,MO,County,109393,http://casscounty.com,,,,,,,,,,,,,,2025-11-08 10:55:17.068246+00,2025-11-08 10:55:17.068248+00,623f7365-bbfd-404f-9285-4ff425f2f1fb
+Butte County,California,CA,County,209470,https://www.buttecounty.net,,,,,,,,,,,,,,2025-11-08 10:48:36.92523+00,2025-11-08 10:48:36.925232+00,634ea7ad-9f4b-476c-acae-c8e2903ba49d
+City of McAllen,Texas,TX,City,143789,https://www.mcallen.net,,,,,,,,,,,,,Hidalgo County,2025-11-08 11:01:29.715957+00,2025-11-08 11:01:29.715966+00,6358dc9a-5bc2-42c8-af50-55982620c798
+Daviess County,Kentucky,KY,County,103195,https://www.daviessky.org,,,,,,,,,,,,,,2025-11-08 10:53:25.183252+00,2025-11-08 10:53:25.183254+00,63e80a8f-c613-44d3-b64a-0ea07133e510
+Oklahoma County,Oklahoma,OK,County,800487,https://www.oklahomacounty.org,,,,,,,,,,,,,,2025-11-08 10:58:36.689777+00,2025-11-08 10:58:36.68978+00,648f2e91-5849-4c78-867e-e63ccb56331c
+Lake County,Illinois,IL,County,711885,https://www.lakecountyil.gov/,,,,,,,,,,,,,,2025-11-08 10:51:14.627952+00,2025-11-08 10:51:14.627954+00,64cedfdb-70b8-4e09-b9dc-82179d363941
+Franklin County,Ohio,OH,County,1321635,https://www.franklincountyohio.gov,,,,,,,,,,,,,,2025-11-08 10:58:14.227174+00,2025-11-08 10:58:14.227177+00,65406290-3c8a-41e3-8f8d-d7bdd79ef72c
+Delaware County,Pennsylvania,PA,County,576195,https://www.delcopa.gov,,,,,,,,,,,,,,2025-11-08 10:59:17.220204+00,2025-11-08 10:59:17.220207+00,6573c74a-dbe8-4f9d-b82f-ab0742700cb1
+Dorchester County,South Carolina,SC,County,164322,https://www.dorchestercountysc.gov,,,,,,,,,,,,,,2025-11-08 11:00:02.967749+00,2025-11-08 11:00:02.967752+00,661c9b2d-fab1-4344-9c99-ec8f09e6542e
+City of Spokane Valley,Washington,WA,City,105460,https://www.spokanevalleywa.gov,,,,,,,,,,,,,Spokane County,2025-11-08 11:02:07.077907+00,2025-11-08 11:02:07.07791+00,665ba7f9-5272-4707-a47b-8c0322b729c8
+Brown County,Wisconsin,WI,County,269425,https://www.browncountywi.gov,,,,,,,,,,,,,,2025-11-08 11:02:49.699398+00,2025-11-08 11:02:49.699401+00,665be6e2-eaa8-4518-88b9-6631ddfc13c3
+Kootenai County,Idaho,ID,County,177736,https://www.kcgov.us,,,,,,,,,,,,,,2025-11-08 10:50:28.462675+00,2025-11-08 10:50:28.462686+00,6694ec09-dbeb-4f0a-9f0f-ffc91fcd52a6
+Hampshire County,Massachusetts,MA,County,156595,https://hampshirecountywebsite.com,,,,,,,,,,,,,,2025-11-08 10:53:46.246422+00,2025-11-08 10:53:46.246425+00,66a48294-86a3-4f86-8047-f5100645ebe1
+City of Albany,New York,NY,City,100081,https://www.albanyny.gov,,,,,,,,,,,,,Albany County,2025-11-08 10:57:06.794597+00,2025-11-08 10:57:06.794599+00,66a7f06f-56de-4ac5-8fa7-427b8a161339
+Mohave County,Arizona,AZ,County,217420,https://www.mohave.gov,,,,,,,,,,,,,,2025-11-08 10:48:29.676999+00,2025-11-08 10:48:29.677001+00,67a32abf-f7bb-47f1-ad14-e99bfc9c36df
+Tippecanoe County,Indiana,IN,County,187399,https://www.tippecanoe.in.gov,,,,,,,,,,,,,,2025-11-08 10:51:55.199584+00,2025-11-08 10:51:55.199587+00,6830a795-d687-404b-aa56-f097ab22d1d0
+Hampden County,Massachusetts,MA,County,462853,https://www.hampdenma.gov,,,,,,,,,,,,,,2025-11-08 10:53:46.246442+00,2025-11-08 10:53:46.246444+00,6863f4e8-4681-49e1-9fb0-25b73e0e4f41
+Leon County,Florida,FL,County,295335,https://www.leoncountyfl.gov,,,,,,,,,,,,,,2025-11-08 10:49:43.726052+00,2025-11-08 10:49:43.726055+00,689c2f06-6a72-4742-9a2a-64aa969cc92d
+Clark County,Indiana,IN,County,122800,https://www.co.clark.in.us/,,,,,,,,,,,,,,2025-11-08 10:51:55.198875+00,2025-11-08 10:51:55.198878+00,691887c6-a785-4782-9824-cfcb6f7535bb
+Androscoggin County,Maine,ME,County,112323,http://www.androscoggincountymaine.gov/,,,,,,,,,,,,,,2025-11-08 10:53:46.233188+00,2025-11-08 10:53:46.23319+00,693fa858-c1fe-415d-88ad-eecc645e326b
+Los Angeles County,California,CA,County,9848406,https://lacounty.gov/,,,,,,,,,,,,,,2025-11-08 10:48:36.925045+00,2025-11-08 10:48:36.925055+00,69a1ddf0-0beb-417f-9f7c-e72d1eead7d0
+City of Burbank,California,CA,City,105165,https://www.burbankca.gov,,,,,,,,,,,,,Los Angeles County,2025-11-08 10:49:05.031774+00,2025-11-08 10:49:05.031776+00,69cec84b-a4f1-450f-84bf-0b30bb1cf02a
+City of Jacksonville,Florida,FL,City,961739,https://www.jacksonville.gov,,,,,,,,,,,,,Duval County,2025-11-08 10:49:43.729281+00,2025-11-08 10:49:43.729283+00,69f1a09f-4cfb-47fb-b43e-eeb382b20606
+City of Pearland,Texas,TX,City,125983,https://www.pearlandtx.gov,,,,,,,,,,,,,Brazoria County,2025-11-08 11:01:29.718991+00,2025-11-08 11:01:29.718993+00,6a43c4e0-0aa9-44b8-8420-3998066649a9
+City of Boston,Massachusetts,MA,City,663972,https://www.boston.gov,,,,,,,,,,,,,Suffolk County,2025-11-08 10:53:46.247595+00,2025-11-08 10:53:46.247597+00,6a975e24-143c-43ad-96fb-dc4ff601015e
+City of Rancho Cucamonga,California,CA,City,174693,https://www.cityofrc.us,,,,,,,,,,,,,San Bernardino County,2025-11-08 10:49:05.029526+00,2025-11-08 10:49:05.029528+00,6aea7002-a587-48a9-b3b7-5ac24ddc193e
+City of West Jordan,Utah,UT,City,116277,https://www.westjordan.utah.gov,,,,,,,,,,,,,Salt Lake County,2025-11-08 11:01:29.728246+00,2025-11-08 11:01:29.728249+00,6af1b2c3-8227-4edc-a5d0-19923f379966
+City of Concord,North Carolina,NC,City,106518,https://concordnc.gov,,,,,,,,,,,,,Cabarrus County,2025-11-08 10:57:38.31175+00,2025-11-08 10:57:38.311752+00,6b00a8c7-9a90-40f7-b695-e2724ef203a5
+Anne Arundel County,Maryland,MD,County,590936,https://www.aacounty.org,,,,,,,,,,,,,,2025-11-08 10:53:46.234809+00,2025-11-08 10:53:46.234812+00,6b0ecc88-13fc-42b0-80ee-0f88dbd8b09d
+Kitsap County,Washington,WA,County,276581,https://www.kitsap.gov/,,,,,,,,,,,,,,2025-11-08 11:02:07.074637+00,2025-11-08 11:02:07.07464+00,6b24c508-5bb6-4b60-a7f3-3392d7af43d0
+Calcasieu Parish,Louisiana,LA,County,208668,https://www.calcasieu.gov/,,,,,,,,,,,,,,2025-11-08 10:53:25.190108+00,2025-11-08 10:53:25.190111+00,6c0b84c0-6f36-4006-830b-6fe7851b4f6e
+Hunterdon County,New Jersey,NJ,County,129448,https://www.co.hunterdon.nj.us,,,,,,,,,,,,,,2025-11-08 10:55:47.458342+00,2025-11-08 10:55:47.458345+00,6d45f192-53b6-4b99-81b7-b3bed59b60ef
+City of Tuscaloosa,Alabama,AL,City,107699,https://www.tuscaloosa.com,,,,,,,,,,,,,Tuscaloosa County,2025-11-08 10:48:12.729449+00,2025-11-08 10:48:12.729452+00,6d53efaf-2dbd-4c6c-9a44-74163621bf04
+City of Port St. Lucie,Florida,FL,City,220453,https://www.cityofpsl.com,,,,,,,,,,,,,Saint Lucie County,2025-11-08 10:49:43.728676+00,2025-11-08 10:49:43.728678+00,6d8dca0b-270a-4fd3-84a5-65a0226b951b
+Baldwin County,Alabama,AL,County,239945,https://baldwincountyal.gov,,,,,,,,,,,,,,2025-11-08 10:48:12.728874+00,2025-11-08 10:48:12.728877+00,6dfbf1d1-bf94-41a6-af13-456b1b56a0ef
+Randall County,Texas,TX,County,143791,https://randallcounty.gov,,,,,,,,,,,,,,2025-11-08 11:00:48.739655+00,2025-11-08 11:00:48.739658+00,6ea0f04b-97c2-465c-a170-da1d1495f23f
+City of Rochester,Minnesota,MN,City,121638,https://www.rochestermn.gov,,,,,,,,,,,,,Olmsted County,2025-11-08 10:54:23.273337+00,2025-11-08 10:54:23.27334+00,6f492a64-57ab-42ce-86d8-2d08ccf68cee
+City of Richardson,Texas,TX,City,118269,https://www.cor.net,,,,,,,,,,,,,Dallas County,2025-11-08 11:00:48.743948+00,2025-11-08 11:00:48.74395+00,6fb789d6-7e76-4141-b0dd-19c068c91dc4
+Tulsa County,Oklahoma,OK,County,673708,https://www2.tulsacounty.org,,,,,,,,,,,,,,2025-11-08 10:58:36.689555+00,2025-11-08 10:58:36.689557+00,70429e5b-5901-4dbd-86c2-73fffca159a7
+City of Edinburg,Texas,TX,City,102561,https://cityofedinburg.com,,,,,,,,,,,,,Hidalgo County,2025-11-08 11:01:29.719093+00,2025-11-08 11:01:29.719096+00,70bd756c-b570-40eb-9280-d64bfb19019e
+Washington County,Oregon,OR,County,600266,https://www.washingtoncountyor.gov,,,,,,,,,,,,,,2025-11-08 10:58:36.698464+00,2025-11-08 10:58:36.698466+00,70f51234-30e9-4625-8508-b11f89e0f600
+Chittenden County,Vermont,VT,County,168831,https://www.ccrpcvt.org,,,,,,,,,,,,,,2025-11-08 11:01:29.732503+00,2025-11-08 11:01:29.732506+00,71164692-44c8-43d8-9580-744b4d69ee4d
+Cambria County,Pennsylvania,PA,County,132355,https://www.cambriacountypa.gov,,,,,,,,,,,,,,2025-11-08 10:59:17.219486+00,2025-11-08 10:59:17.219489+00,714ef33b-b777-4347-bc19-413ab37091cf
+Florence County,South Carolina,SC,County,136921,https://www.florenceco.org,,,,,,,,,,,,,,2025-11-08 11:00:02.967308+00,2025-11-08 11:00:02.967311+00,71764ee7-98cf-4ec4-8c35-074c85edacdf
+City of Shreveport,Louisiana,LA,City,183483,https://www.shreveportla.gov/,,,,,,,,,,,,,Caddo Parish County,2025-11-08 10:53:25.192658+00,2025-11-08 10:53:25.192661+00,7184f26c-9950-49f5-a4d5-7aee7a60225e
+Calhoun County,Michigan,MI,County,133846,https://www.calhouncountymi.gov,,,,,,,,,,,,,,2025-11-08 10:54:03.488149+00,2025-11-08 10:54:03.488152+00,71e8a730-7df2-4029-97d6-4a2dc364bc35
+Baltimore County,Maryland,MD,County,849586,https://www.baltimorecountymd.gov,,,,,,,,,,,,,,2025-11-08 10:53:46.234726+00,2025-11-08 10:53:46.234729+00,72367664-0ad9-48f6-a79e-7feed6bc9cb3
+City of Provo,Utah,UT,City,114303,https://www.provo.gov,,,,,,,,,,,,,Utah County,2025-11-08 11:01:29.726331+00,2025-11-08 11:01:29.726333+00,727ad85a-e295-418d-a30e-b8e484c127dd
+City of Chico,California,CA,City,102032,https://chico.ca.us,,,,,,,,,,,,,Butte County,2025-11-08 10:49:05.024258+00,2025-11-08 10:49:05.024261+00,72dfd86d-cdd9-41de-bfa4-c7d25a06e865
+Plymouth County,Massachusetts,MA,County,531889,https://www.plymouthcountyma.gov/,,,,,,,,,,,,,,2025-11-08 10:53:46.246382+00,2025-11-08 10:53:46.246385+00,731362e6-651a-436c-ae2d-65d83c853dec
+City of Rialto,California,CA,City,103866,https://www.rialtoca.gov,,,,,,,,,,,,,San Bernardino County,2025-11-08 10:49:05.029975+00,2025-11-08 10:49:05.029978+00,7390d93c-a0d0-43b7-8059-b10376528966
+Cochise County,Arizona,AZ,County,125458,https://www.cochise.az.gov,,,,,,,,,,,,,,2025-11-08 10:48:29.677278+00,2025-11-08 10:48:29.677281+00,74322b63-7dfd-4a08-b390-7bc71ebe4c08
+Brevard County,Florida,FL,County,620533,https://www.brevardfl.gov,,,,,,,,,,,,,,2025-11-08 10:49:43.726333+00,2025-11-08 10:49:43.726335+00,74595374-0260-450b-adcb-2f72345d6937
+Adams County,Colorado,CO,County,524408,https://adcogov.org,,,,,,,,,,,,,,2025-11-08 10:49:05.03943+00,2025-11-08 10:49:05.039433+00,74615023-d9bb-4350-8a8f-0e4b39cfd5e4
+Westmoreland County,Pennsylvania,PA,County,353345,https://www.westmorelandcountypa.gov,,,,,,,,,,,,,,2025-11-08 10:59:17.219421+00,2025-11-08 10:59:17.219424+00,74e88e8f-e9fc-44ee-859f-77e0e3110ccb
+City of Madison,Wisconsin,WI,City,275568,https://www.cityofmadison.com,,,,,,,,,,,,,Dane County,2025-11-08 11:02:49.704107+00,2025-11-08 11:02:49.704109+00,75209259-5d63-4a3e-8a14-0678c7550576
+Sussex County,Delaware,DE,County,247799,https://sussexcountyde.gov/,,,,,,,,,,,,,,2025-11-08 10:49:43.721647+00,2025-11-08 10:49:43.72165+00,7538ebca-eacc-4c13-816b-4baf83a3b7e1
+City of Las Vegas,Nevada,NV,City,650873,https://www.lasvegasnevada.gov,,,,,,,,,,,,,Clark County,2025-11-08 10:55:47.439185+00,2025-11-08 10:55:47.439188+00,7654443e-03d9-4d86-8e20-53b0d10b1feb
+Escambia County,Florida,FL,County,323275,https://myescambia.com/,,,,,,,,,,,,,,2025-11-08 10:49:43.726857+00,2025-11-08 10:49:43.72686+00,767766fe-a419-4eea-a1bc-6976f432edc2
+Matanuska-Susitna Borough,Alaska,AK,County,110677,https://matsugov.us,,,,,,,,,,,,,,2025-11-08 10:48:12.735702+00,2025-11-08 10:48:12.735705+00,779e2baf-71f5-49fc-9884-244f7b3281ce
+Monroe County,Michigan,MI,County,155001,https://www.co.monroe.mi.us,,,,,,,,,,,,,,2025-11-08 10:54:03.48803+00,2025-11-08 10:54:03.488032+00,784714e3-c79c-45ea-8bbe-908afa719a99
+City of Concord,California,CA,City,124260,https://cityofconcord.org,,,,,,,,,,,,,Contra Costa County,2025-11-08 10:49:05.026884+00,2025-11-08 10:49:05.026886+00,78c851e5-4971-485a-beba-d5645c4430f7
+Fort Bend County,Texas,TX,County,859721,https://www.fortbendcountytx.gov,,,,,,,,,,,,,,2025-11-08 11:00:48.738453+00,2025-11-08 11:00:48.738455+00,78e468f2-12a5-40f0-80a7-078f0af88d5b
+City of Downey,California,CA,City,111793,https://www.downeyca.org/,,,,,,,,,,,,,Los Angeles County,2025-11-08 10:49:05.030752+00,2025-11-08 10:49:05.030756+00,790ef9fd-71a8-40f5-ad5a-ea7a8f83ea66
+Vanderburgh County,Indiana,IN,County,179908,https://www.evansvillegov.org/county/,,,,,,,,,,,,,,2025-11-08 10:51:55.198464+00,2025-11-08 10:51:55.198467+00,7919683f-741d-4c6e-8755-43a1d74b03d2
+City of El Monte,California,CA,City,107066,https://www.elmonteca.gov,,,,,,,,,,,,,Los Angeles County,2025-11-08 10:49:05.028384+00,2025-11-08 10:49:05.028386+00,7967e10c-e85a-48dc-8a0e-50e5f7e5f563
+Lower Connecticut River Valley Planning Region,Connecticut,CT,County,174983,https://www.rivercog.org,,,,,,,,,,,,,,2025-11-08 10:49:43.71968+00,2025-11-08 10:49:43.719683+00,79fec0d7-8035-4781-abf4-fb3edfbb98d5
+City of Montgomery,Alabama,AL,City,198440,https://www.montgomeryal.gov,,,,,,,,,+1,,,,Montgomery County,2025-11-08 10:48:12.734303+00,2025-11-08 10:48:12.734306+00,7a6ddc6a-6c16-4197-9d03-90f552dc668e
+City of El Paso,Texas,TX,City,678147,https://www.elpasotexas.gov,,,,,,,,,,,,,El Paso County,2025-11-08 11:01:29.714885+00,2025-11-08 11:01:29.714888+00,7a925d18-4f8e-45c6-98f6-875b9564ecdf
+Santa Rosa County,Florida,FL,County,193719,https://www.santarosa.fl.gov/,,,,,,,,,,,,,,2025-11-08 10:49:43.726072+00,2025-11-08 10:49:43.726075+00,7aa042b1-f29e-4f72-a3e6-9a1e4bb35dd0
+City of Durham,North Carolina,NC,City,288465,https://www.durhamnc.gov,,,,,,,,,,,,,Durham County,2025-11-08 10:57:38.309678+00,2025-11-08 10:57:38.309681+00,7ab08002-af73-445e-8d41-b0e550f5fd33
+Franklin County,Missouri,MO,County,105316,https://www.franklinmo.org,,,,,,,,,,,,,,2025-11-08 10:55:17.067466+00,2025-11-08 10:55:17.067469+00,7ac55411-75bf-4615-9483-b7cb8eb5da48
+City of Houston,Texas,TX,City,2300419,https://www.houstontx.gov,,,,,,,,,,,,,Harris County,2025-11-08 11:01:29.717479+00,2025-11-08 11:01:29.717482+00,7b850ac5-d4b5-42ee-afa0-dfa1fb41ae98
+Winnebago County,Wisconsin,WI,County,171357,https://www.co.winnebago.wi.us,,,,,,,,,,,,,,2025-11-08 11:02:49.699666+00,2025-11-08 11:02:49.699668+00,7b87518d-8805-4a8d-abc0-ea538359d56d
+Clarke County,Georgia,GA,County,129267,https://www.accgov.com,,,,,,,,,,,,,,2025-11-08 10:49:43.736354+00,2025-11-08 10:49:43.736357+00,7bd4cf82-3a6f-49d1-85ae-55c0a1932b70
+Delaware County,Indiana,IN,County,112109,https://www.co.delaware.in.us,,,,,,,,,,,,,,2025-11-08 10:51:55.198074+00,2025-11-08 10:51:55.198077+00,7be89c43-070b-4394-a662-d4ddc101e452
+City of Westminster,Colorado,CO,City,115546,https://www.westminsterco.gov,,,,,,,,,,,,,Adams County,2025-11-08 10:49:05.0409+00,2025-11-08 10:49:05.040903+00,7c1d8c5e-8b02-4b98-9184-820b5c1982a6
+Fayette County,Georgia,GA,County,120689,https://fayettecountyga.gov/,,,,,,,,,,,,,,2025-11-08 10:49:43.737805+00,2025-11-08 10:49:43.737808+00,7cc17eda-3ed2-4d5d-8a1d-f527527363de
+City of Cary,North Carolina,NC,City,176686,https://www.townofcary.org,,,,,,,,,,,,,Wake County,2025-11-08 10:57:38.308558+00,2025-11-08 10:57:38.308561+00,7d57e13a-ba67-449a-8ef2-6e2e923b3d65
+Polk County,Florida,FL,County,760961,https://www.polk-county.net,,,,,,,,,,,,,,2025-11-08 10:49:43.726213+00,2025-11-08 10:49:43.726215+00,7dcd112c-0019-4232-bef8-134c3b5e029f
+Randolph County,North Carolina,NC,County,145322,http://www.randolphcountync.gov,,,,,,,,,,,,,,2025-11-08 10:57:38.304716+00,2025-11-08 10:57:38.304718+00,7e48a2b4-a5b5-4231-a15f-3baba7950222
+City of Colorado Springs,Colorado,CO,City,483099,https://coloradosprings.gov,,,,,,,,,,,,,El Paso County,2025-11-08 10:49:05.04029+00,2025-11-08 10:49:05.040293+00,7ea44d99-cde7-4892-9993-20bc8d008370
+City of Palmdale,California,CA,City,165487,https://www.cityofpalmdaleca.gov,,,,,,,,,,,,,Los Angeles County,2025-11-08 10:48:36.927536+00,2025-11-08 10:48:36.927539+00,7f528480-7435-45ef-9229-cac8572627be
+Comal County,Texas,TX,County,174552,https://www.co.comal.tx.us,,,,,,,,,,,,,,2025-11-08 11:00:48.739966+00,2025-11-08 11:00:48.739969+00,7f5e435f-a9b6-4d36-860c-eb669f735a9c
+City of Fremont,California,CA,City,228518,https://www.fremont.gov,,,,,,,,,,,,,Alameda County,2025-11-08 10:49:05.026247+00,2025-11-08 10:49:05.02625+00,7fac4191-002e-456e-95a5-c742eac890ad
+Santa Clara County,California,CA,County,1903297,https://www.santaclaracounty.gov,,,,,,,,,,,,,,2025-11-08 10:48:36.926289+00,2025-11-08 10:48:36.926292+00,7fc730e0-7ccb-4cb3-806e-c1e09b2fa58c
+City of South Fulton,Georgia,GA,City,109157,https://www.cityofsouthfultonga.gov,,,,,,,,,,,,,Fulton County,2025-11-08 10:50:28.453194+00,2025-11-08 10:50:28.453196+00,80539a4f-6a11-4cef-b792-b699e71dfa04
+City of New Haven,Connecticut,CT,City,132893,https://www.newhavenct.gov/,,,,,,,,,,,,,South Central Connecticut Planning Region County,2025-11-08 10:49:43.720432+00,2025-11-08 10:49:43.720434+00,80abfcea-6874-43fd-b541-554351a715d5
+City of Greeley,Colorado,CO,City,109421,https://greeleygov.com,,,,,,,,,,,,,Weld County,2025-11-08 10:49:05.041266+00,2025-11-08 10:49:05.041269+00,80b55f07-8d1a-457a-80a4-eecae05b72f6
+Butler County,Ohio,OH,County,389910,https://www.bcohio.gov,,,,,,,,,,,,,,2025-11-08 10:58:14.227577+00,2025-11-08 10:58:14.22758+00,811fff94-2d97-4b77-9ccf-3902cb94f852
+Madison County,Mississippi,MS,County,110303,https://madison-co.com,,,,,,,,,,,,,,2025-11-08 10:54:35.098781+00,2025-11-08 10:54:35.098784+00,8147bd33-f27d-4940-b9c9-bb46c196e252
+City of Augusta-Richmond County consolidated government,Georgia,GA,City,201504,https://www.augustaga.gov,,,,,,,,,,,,,,2025-11-08 10:50:28.4613+00,2025-11-08 10:50:28.461303+00,8154959e-9e4c-4090-b22f-3d79edd3d141
+City of Santa Maria,California,CA,City,109880,https://www.cityofsantamaria.org,,,,,,,,,,,,,Santa Barbara County,2025-11-08 10:49:05.030199+00,2025-11-08 10:49:05.030202+00,81d3cd8e-8051-4246-aeec-df8c09aa75c3
+City of Inglewood,California,CA,City,105575,https://www.cityofinglewood.org,,,,,,,,,,,,,Los Angeles County,2025-11-08 10:48:36.927931+00,2025-11-08 10:48:36.927934+00,8294daa5-94b7-4d44-9b2a-4304ce921783
+City of Miramar,Florida,FL,City,135986,https://www.miramarfl.gov,,,,,,,,,,,,,Broward County,2025-11-08 10:49:43.729522+00,2025-11-08 10:49:43.729525+00,832affe7-7e62-49fe-b7a1-976a978972c7
+New Castle County,Delaware,DE,County,573030,https://www.newcastlede.gov,,,,,,,,,,,,,,2025-11-08 10:49:43.721627+00,2025-11-08 10:49:43.72163+00,832be322-1b35-499f-bd1a-b700f8c0941a
+Cowlitz County,Washington,WA,County,111539,https://www.co.cowlitz.wa.us,,,,,,,,,,,,,,2025-11-08 11:02:07.073992+00,2025-11-08 11:02:07.073994+00,83879279-0697-4412-a900-52051fb89081
+Nevada County,California,CA,County,102452,https://nevadacountyca.gov/,,,,,,,,,,,,,,2025-11-08 10:48:36.9248+00,2025-11-08 10:48:36.924804+00,83d7ef68-0335-49c8-bbff-eb61d913f1ff
+Cameron County,Texas,TX,County,423192,https://www.cameroncountytx.gov,,,,,,,,,,,,,,2025-11-08 11:00:48.740991+00,2025-11-08 11:00:48.740994+00,8407d8ad-144f-4cd9-8bcb-0b7efd811b04
+Washtenaw County,Michigan,MI,County,368394,https://www.washtenaw.org/,,,,,,,,,,,,,,2025-11-08 10:54:03.487604+00,2025-11-08 10:54:03.487606+00,84911ad5-453c-49e9-9978-d929e1a84d56
+Yolo County,California,CA,County,217782,https://www.yolocounty.gov/,,,,,,,,,,,,,,2025-11-08 10:48:36.926373+00,2025-11-08 10:48:36.926376+00,84c0b0e9-ed98-4e3a-a145-c582be24d744
+City of Escondido,California,CA,City,149913,https://www.escondido.gov,,,,,,,,,,,,,San Diego County,2025-11-08 10:49:05.032546+00,2025-11-08 10:49:05.032549+00,84da0cda-bf2b-421d-98e2-e0e244753ff0
+Hardin County,Kentucky,KY,County,111452,https://hardincountyky.gov,,,,,,,,,,,,,,2025-11-08 10:53:25.184471+00,2025-11-08 10:53:25.184473+00,84dfa0b6-0894-456c-bf4a-a3f9022af6f4
+City of Lansing,Michigan,MI,City,112546,https://www.lansingmi.gov,,,,,,,,,,,,,Ingham County,2025-11-08 10:54:23.258114+00,2025-11-08 10:54:23.258116+00,8583662d-4241-4198-9709-854286aaa189
+City of Oakland,California,CA,City,438072,https://www.oaklandca.gov,,,,,,,,,,,,,Alameda County,2025-11-08 10:49:05.027953+00,2025-11-08 10:49:05.027956+00,86642c09-035c-4493-b220-77700e7d701d
+Kent County,Michigan,MI,County,658844,https://www.kentcountymi.gov/,,,,,,,,,,,,,,2025-11-08 10:54:03.486751+00,2025-11-08 10:54:03.486753+00,867d1d60-bd8d-49e0-9c10-d94b2920a644
+City of Corpus Christi,Texas,TX,City,317383,https://www.corpuschristitx.gov/,,,,,,,,,,,,,Nueces County,2025-11-08 11:01:29.720282+00,2025-11-08 11:01:29.720285+00,86e9b73a-c573-422f-a9ba-9a3eae61c992
+City of Meridian,Idaho,ID,City,124865,https://meridiancity.org,,,,,,,,,,,,,Ada County,2025-11-08 10:50:28.464658+00,2025-11-08 10:50:28.46466+00,86ecc890-ae48-45c1-ac3f-795079dcbe64
+Riverside County,California,CA,County,2449909,https://rivco.org,,,,,,,,,,,,,,2025-11-08 10:48:36.925271+00,2025-11-08 10:48:36.925273+00,86f07651-1176-4fe2-8e26-c47649e595d7
+Shasta County,California,CA,County,181554,https://www.shastacounty.gov,,,,,,,,,,,,,,2025-11-08 10:48:36.925395+00,2025-11-08 10:48:36.925419+00,877b231e-f3b4-4b36-a503-bfbcc0b9ce0f
+Collin County,Texas,TX,County,1116601,https://www.collincountytx.gov/,,,,,,,,,,,,,,2025-11-08 11:00:48.741011+00,2025-11-08 11:00:48.741014+00,87879655-2268-4660-9bbc-565ca95dab72
+Comanche County,Oklahoma,OK,County,121699,https://www.comanchecountyok.gov,,,,,,,,,,,,,,2025-11-08 10:58:36.688624+00,2025-11-08 10:58:36.688626+00,878e32d2-feb3-4c04-8ea9-6fde23e46a53
+City of Athens-Clarke County unified government,Georgia,GA,City,126987,https://www.accgov.com,,,,,,,,,,,,,Clarke County,2025-11-08 10:50:28.453336+00,2025-11-08 10:50:28.453339+00,87e984df-7edc-4928-a2a7-19473fa0ce38
+McHenry County,Illinois,IL,County,311366,https://www.mchenrycountyil.gov,,,,,,,,,,,,,,2025-11-08 10:51:14.627646+00,2025-11-08 10:51:14.627649+00,883045a5-5e89-4254-8c2d-221bb1c3691b
+Utah County,Utah,UT,County,683622,https://www.utahcounty.gov/,,,,,,,,,,,,,,2025-11-08 11:01:29.725917+00,2025-11-08 11:01:29.72592+00,8830a6f4-59f0-424a-9466-f32d5ade263f
+Centre County,Pennsylvania,PA,County,158041,https://www.centrecountypa.gov,,,,,,,,,,,,,,2025-11-08 10:59:17.220121+00,2025-11-08 10:59:17.220124+00,88614444-ef60-4dd3-8e12-302a9534396c
+Berks County,Pennsylvania,PA,County,429989,https://www.berkspa.gov,,,,,,,,,,,,,,2025-11-08 10:59:17.220347+00,2025-11-08 10:59:17.22035+00,889b7b98-0d5a-4c64-a56e-eacd51b95eee
+City of Gainesville,Florida,FL,City,143611,https://www.gainesvillefl.gov,,,,,,,,,,,,,Alachua County,2025-11-08 10:49:43.731495+00,2025-11-08 10:49:43.731498+00,88b52a35-d9aa-43c9-a66c-f87bbbae46ea
+Gallatin County,Montana,MT,County,122194,https://www.gallatinmt.gov/,,,,,,,,,,,,,,2025-11-08 10:55:17.08351+00,2025-11-08 10:55:17.083513+00,8908ea73-417c-4136-a90e-d43f3f06e220
+Minnehaha County,South Dakota,SD,County,200689,https://www.minnehahacounty.gov,,,,,,,,,,,,,,2025-11-08 11:00:02.975449+00,2025-11-08 11:00:02.975451+00,896ada95-ec68-4e82-aeb3-7b86530a1af0
+Thurston County,Washington,WA,County,296640,https://www.thurstoncountywa.gov,,,,,,,,,,,,,,2025-11-08 11:02:07.074492+00,2025-11-08 11:02:07.074495+00,8abcceec-0879-4342-bcff-70a1822b9ac0
+Fulton County,Georgia,GA,County,1068507,https://fultoncountyga.gov,,,,,,,,,,,,,,2025-11-08 10:49:43.737968+00,2025-11-08 10:49:43.737971+00,8ac26822-dcc4-4819-852e-3186deac827d
+Monroe County,Pennsylvania,PA,County,167784,https://www.monroecountypa.gov,,,,,,,,,,,,,,2025-11-08 10:59:17.22008+00,2025-11-08 10:59:17.220082+00,8acd84da-25ab-4d6e-a109-087bc331b7bc
+Washington County,Rhode Island,RI,County,130073,https://washingtoncountyri.com,,,,,,,,,,,,,,2025-11-08 11:00:02.964613+00,2025-11-08 11:00:02.964616+00,8aeb58fe-fad8-4bf8-a04f-9c40014eb8dc
+Lee County,Alabama,AL,County,177663,https://www.leeco.us,,,,,,,,,,,,,,2025-11-08 10:48:12.728543+00,2025-11-08 10:48:12.728546+00,8b5b169e-05a0-48c1-a7dc-d26ac5fdaddd
+City of Goodyear,Arizona,AZ,City,102891,https://www.goodyearaz.gov,,,,,,,,,,,,,Maricopa County,2025-11-08 10:48:29.679374+00,2025-11-08 10:48:29.679378+00,8c18e64a-a28a-4c45-9fc0-ee15f64209aa
+Kalamazoo County,Michigan,MI,County,261437,http://www.kalamazoocounty.com,,,,,,,,,,,,,,2025-11-08 10:54:03.487583+00,2025-11-08 10:54:03.487586+00,8c338f95-6d3b-426c-80ef-5572478867c5
+City of Newark,New Jersey,NJ,City,307188,https://www.newarknj.gov,,,,,,,,,,,,,Essex County,2025-11-08 10:55:47.45961+00,2025-11-08 10:55:47.459613+00,8c5fc820-6a62-4792-834b-13ade773183f
+Kaufman County,Texas,TX,County,160718,https://www.kaufmancounty.net,,,,,,,,,,,,,,2025-11-08 11:00:48.740728+00,2025-11-08 11:00:48.74073+00,8c60c833-61df-4762-93d0-2d23a27fe875
+Onslow County,North Carolina,NC,County,208537,https://www.onslowcountync.gov,,,,,,,,,,,,,,2025-11-08 10:57:38.304478+00,2025-11-08 10:57:38.304481+00,8c95c816-152b-467d-bc5b-8e36da88c044
+City of Evansville,Indiana,IN,City,116441,https://www.evansvillegov.org,,,,,,,,,,,,,Vanderburgh County,2025-11-08 10:51:55.205869+00,2025-11-08 10:51:55.205872+00,8cba1c36-59e3-4ca4-befc-8ade209d3600
+Volusia County,Florida,FL,County,568229,https://www.volusia.org/,,,,,,,,,,,,,,2025-11-08 10:49:43.726635+00,2025-11-08 10:49:43.726638+00,8dc78884-404c-4c51-bd9e-33482c23fc84
+City of Waterbury,Connecticut,CT,City,114356,https://www.waterburyct.org,,,,,,,,,,,,,Naugatuck Valley Planning Region County,2025-11-08 10:49:43.720118+00,2025-11-08 10:49:43.720121+00,8dd99e0a-07cd-4452-bbe9-777d70f4e60e
+City of Richmond,California,CA,City,115396,http://ci.richmond.ca.us/,,,,,,,,,,,,,Contra Costa County,2025-11-08 10:49:05.028587+00,2025-11-08 10:49:05.02859+00,8de0e1af-9c97-48df-a48d-958fc34aa1a8
+City of Hesperia,California,CA,City,100141,http://www.cityofhesperia.us,,,,,,,,,,,,,San Bernardino County,2025-11-08 10:49:05.025673+00,2025-11-08 10:49:05.025676+00,8e1521e3-f43b-4c7f-8089-70dba9ab76ce
+Clark County,Washington,WA,County,510516,https://clark.wa.gov,,,,,,,,,,,,,,2025-11-08 11:02:07.073869+00,2025-11-08 11:02:07.073872+00,8e612539-9bbb-402f-b479-abef4ea01d8f
+Strafford County,New Hampshire,NH,County,131743,https://co.strafford.nh.us/,,,,,,,,,,,,,,2025-11-08 10:55:47.441127+00,2025-11-08 10:55:47.44113+00,8e8fc78e-3b7c-47ab-91c2-cb20ffc3b32d
+Washington County,Arkansas,AR,County,251863,https://www.washingtoncountyar.gov,,,,,,,,,,,,,,2025-11-08 10:48:29.688002+00,2025-11-08 10:48:29.688005+00,8ec118cf-bd62-402d-8a9f-100f3e9c62b9
+Kane County,Illinois,IL,County,516097,https://www.kanecountyil.gov,,,,,,,,,,,,,,2025-11-08 10:51:14.627586+00,2025-11-08 10:51:14.627588+00,8eece40a-66a0-47a0-b1f6-08e2e558e776
+Cook County,Illinois,IL,County,5185812,https://www.cookcountyil.gov/,,,,,,,,,,,,,,2025-11-08 10:51:14.626426+00,2025-11-08 10:51:14.626428+00,8efb8ccc-a55c-4a57-a4bb-2827db377897
+Taylor County,Texas,TX,County,144259,https://www.taylorcounty.texas.gov,,,,,,,,,,,,,,2025-11-08 11:00:48.738007+00,2025-11-08 11:00:48.738009+00,8f6a84b0-92a1-4e6c-a658-8e7f8a58608e
+City of Plano,Texas,TX,City,287339,https://www.plano.gov,,,,,,,,,,,,,Collin County,2025-11-08 11:00:48.746883+00,2025-11-08 11:00:48.746885+00,8f97c138-4aa0-4ea9-88d9-a9bb73462a03
+Jasper County,Missouri,MO,County,123532,https://www.jaspercountymo.gov,,,,,,,,,,,,,,2025-11-08 10:54:35.114525+00,2025-11-08 10:54:35.114527+00,8fa09eff-e792-4c68-83eb-6e101993b088
+Richland County,South Carolina,SC,County,418725,https://www.richlandcountysc.gov,,,,,,,,,,,,,,2025-11-08 11:00:02.967617+00,2025-11-08 11:00:02.96762+00,8fe7a25e-cf79-41b1-8a77-ed7c605b4d8e
+Livingston Parish,Louisiana,LA,County,145583,https://www.livingstonparishla.gov,,,,,,,,,,,,,,2025-11-08 10:53:25.190022+00,2025-11-08 10:53:25.190025+00,90362fc2-35fd-4f38-b916-0a558d807012
+Allegheny County,Pennsylvania,PA,County,1240476,https://www.alleghenycounty.us,,,,,,,,,,,,,,2025-11-08 10:59:17.220142+00,2025-11-08 10:59:17.220145+00,9058df7d-bc5a-4134-a29e-2b24d2acd018
+Deschutes County,Oregon,OR,County,203026,https://www.deschutes.org,,,,,,,,,,,,,,2025-11-08 10:58:36.698849+00,2025-11-08 10:58:36.698851+00,90d46c38-aab3-417b-bea1-cc8ff8f60c93
+Tarrant County,Texas,TX,County,2135743,https://www.tarrantcountytx.gov,,,,,,,,,,,,,,2025-11-08 11:00:48.739169+00,2025-11-08 11:00:48.739171+00,90f5dbe6-17da-49e6-b88b-e0bf9611695d
+Cleveland County,Oklahoma,OK,County,297545,https://clevelandcountyok.com,,,,,,,,,,,,,,2025-11-08 10:58:36.688581+00,2025-11-08 10:58:36.688584+00,914dbf13-1f90-4821-aa3e-efc1b6c474dd
+City of Nampa,Idaho,ID,City,106289,https://www.cityofnampa.us,,,,,,,,,,,,,Canyon County,2025-11-08 10:50:28.464678+00,2025-11-08 10:50:28.464681+00,91559273-a569-4e62-88d0-0b3f4b592265
+City of Dearborn,Michigan,MI,City,107846,https://cityofdearborn.org,,,,,,,,,,,,,Wayne County,2025-11-08 10:54:03.492486+00,2025-11-08 10:54:03.492489+00,91a236b6-e08d-41bb-940b-61a52c6fd0d6
+Somerset County,New Jersey,NJ,County,346203,https://www.somersetcountynj.gov,,,,,,,,,,,,,,2025-11-08 10:55:47.458423+00,2025-11-08 10:55:47.458426+00,91bd7f2e-b714-4dc4-9b55-58fb8f3239dd
+City of New York,New York,NY,City,8516202,https://www.nyc.gov,,,,,,,,,,,,,,2025-11-08 10:57:06.788876+00,2025-11-08 10:57:06.788879+00,92f9bf60-4645-4fe2-bee0-5c2431ff3531
+Schuylkill County,Pennsylvania,PA,County,143259,https://schuylkillcountypa.gov,,,,,,,,,,,,,,2025-11-08 10:59:17.219956+00,2025-11-08 10:59:17.219958+00,930c265c-750d-4dee-984a-167bd2ea7ced
+Dane County,Wisconsin,WI,County,564777,https://danecounty.gov/,,,,,,,,,,,,,,2025-11-08 11:02:49.699749+00,2025-11-08 11:02:49.699752+00,938caa75-40f5-4154-9936-3a2cd34e0fed
+City of Olathe,Kansas,KS,City,143720,https://www.olatheks.gov/home,,,,,,,,,,,,,Johnson County,2025-11-08 10:53:25.174504+00,2025-11-08 10:53:25.174507+00,939f7d65-dd54-45e8-b7a4-636648dcb6c5
+City of Louisville/Jefferson County metro government,Kentucky,KY,City,627210,https://louisvilleky.gov,,,,,,,,,,,,,,2025-11-08 10:53:25.187895+00,2025-11-08 10:53:25.187897+00,93c14da1-c483-4c1e-a066-532dbb480cd8
+Ouachita Parish,Louisiana,LA,County,158916,https://www.oppj.org,,,,,,,,,,,,,,2025-11-08 10:53:25.190615+00,2025-11-08 10:53:25.190618+00,93e27cc3-5735-42f5-81ee-281716171489
+City of Knoxville,Tennessee,TN,City,193721,https://www.knoxvilletn.gov,,,,,,,,,,,,,Knox County,2025-11-08 11:00:16.952763+00,2025-11-08 11:00:16.952765+00,9424e8a0-a1b5-40a5-8508-eca5c9b349a5
+City of Gresham,Oregon,OR,City,112818,https://www.greshamoregon.gov,,,,,,,,,,,,,Multnomah County,2025-11-08 10:58:36.701787+00,2025-11-08 10:58:36.70179+00,9458352e-d99f-4bff-819b-0cd2a62c9ca3
+San Luis Obispo County,California,CA,County,281486,https://www.slocounty.ca.gov,,,,,,,,,,,,,,2025-11-08 10:48:36.926249+00,2025-11-08 10:48:36.926251+00,94820812-ea74-4b77-95d8-b9f4b5cc9888
+Sheboygan County,Wisconsin,WI,County,117783,https://www.sheboygancounty.com,,,,,,,,,,,,,,2025-11-08 11:02:49.698881+00,2025-11-08 11:02:49.698884+00,9490f647-ab1a-47fd-a8fb-53f6f7d08e7a
+Alameda County,California,CA,County,1651949,https://www.alamedaca.gov/,,,,,,,,,,,,,,2025-11-08 10:48:36.925375+00,2025-11-08 10:48:36.925377+00,953addb2-39fd-43c5-8988-584003589cd0
+Cumberland County,New Jersey,NJ,County,152915,https://www.cumberlandcountynj.gov,,,,,,,,,,,,,,2025-11-08 10:55:47.458074+00,2025-11-08 10:55:47.458077+00,959651fe-4302-4ef7-ab44-7637208a479d
+Dallas County,Iowa,IA,County,104136,https://www.dallascountyiowa.gov,,,,,,,,,,,,,,2025-11-08 10:52:36.67583+00,2025-11-08 10:52:36.675832+00,9658c64b-7bfd-4fc0-96b0-cef6a16eca04
+Ulster County,New York,NY,County,182109,https://ulstercountyny.gov,,,,,,,,,,,,,,2025-11-08 10:57:06.784839+00,2025-11-08 10:57:06.784842+00,96988756-cc5c-438a-9b0c-b74960f203e1
+Gloucester County,New Jersey,NJ,County,304504,https://gloucestercountynj.gov,,,,,,,,,,,,,,2025-11-08 10:55:47.458136+00,2025-11-08 10:55:47.458139+00,96a2e8b1-369e-4486-82d6-e060922faaab
+City of Fishers,Indiana,IN,City,100918,https://fishersin.gov/,,,,,,,,,,,,,Hamilton County,2025-11-08 10:51:55.201684+00,2025-11-08 10:51:55.201687+00,96c928ae-082f-4cf9-9941-112f8fde4b04
+City of Fargo,North Dakota,ND,City,129064,https://fargond.gov,,,,,,,,,,,,,Cass County,2025-11-08 10:57:38.319318+00,2025-11-08 10:57:38.319321+00,97477e66-0823-4dc3-90c7-77f33f35e846
+Lubbock County,Texas,TX,County,314633,https://www.lubbockcounty.gov,,,,,,,,,,,,,,2025-11-08 11:00:48.742359+00,2025-11-08 11:00:48.742362+00,983cad0a-aff7-4fef-846b-230a46c5a030
+Fresno County,California,CA,County,1012152,https://www.fresnocountyca.gov,,,,,,,,,,,,,,2025-11-08 10:48:36.926527+00,2025-11-08 10:48:36.926536+00,983ea373-a915-4fb8-8cd6-235a18ea920d
+Douglas County,Oregon,OR,County,111807,https://douglascountyor.gov,,,,,,,,,,,,,,2025-11-08 10:58:36.698991+00,2025-11-08 10:58:36.698993+00,9895107b-393a-46f3-8b6d-a2f3fb98f488
+Essex County,Massachusetts,MA,County,807258,https://essexcountywebsite.com,,,,,,,,,,,,,,2025-11-08 10:53:46.24622+00,2025-11-08 10:53:46.246223+00,98c04e31-aaf0-4b48-94f5-030f6ef49ccb
+Arapahoe County,Colorado,CO,County,655709,http://www.co.arapahoe.co.us/,,,,,,,,,,,,,,2025-11-08 10:49:05.038899+00,2025-11-08 10:49:05.038902+00,9951de51-a112-46b9-a7b1-0de301218375
+LaSalle County,Illinois,IL,County,109049,https://lasallecountyil.gov/,,,,,,,,,,,,,,2025-11-08 10:51:14.628153+00,2025-11-08 10:51:14.628155+00,99730bd5-84bd-492b-88cf-df4219ceaec0
+Southeastern Connecticut Planning Region,Connecticut,CT,County,279025,https://secogct.gov,,,,,,,,,,,,,,2025-11-08 10:49:43.719722+00,2025-11-08 10:49:43.719725+00,99f625a2-43a8-4e71-8ddb-17551dd1c6d4
+Cabarrus County,North Carolina,NC,County,231262,https://www.cabarruscounty.us,,,,,,,,,,,,,,2025-11-08 10:57:38.305059+00,2025-11-08 10:57:38.305062+00,99f93662-c243-4755-b6bc-b43beb33f90d
+Hernando County,Florida,FL,County,201512,https://www.hernandocounty.us,,,,,,,,,,,,,,2025-11-08 10:49:43.726716+00,2025-11-08 10:49:43.726719+00,9a9606cc-3876-4ad7-ae1d-af65a27e3cb8
+Mercer County,Pennsylvania,PA,County,109852,https://www.mercercountypa.gov,,,,,,,,,,,,,,2025-11-08 10:59:17.21979+00,2025-11-08 10:59:17.219793+00,9a9c8c95-c426-4f9c-9906-62389205f7cb
+Licking County,Ohio,OH,County,180311,https://lickingcounty.gov,,,,,,,,,,,,,,2025-11-08 10:58:14.227999+00,2025-11-08 10:58:14.228002+00,9ab38b0c-a362-406f-8f20-9b1c95e73dd3
+Stafford County,Virginia,VA,County,160520,https://staffordcountyva.gov/,,,,,,,,,,,,,,2025-11-08 11:02:07.064594+00,2025-11-08 11:02:07.064596+00,9ac6d1a8-be78-4aa1-a7a5-7b988fd8936f
+Montgomery County,Alabama,AL,County,227197,https://www.mc-ala.org,,,,,,,,,,,,,,2025-11-08 10:48:12.728687+00,2025-11-08 10:48:12.72869+00,9b06ffce-ea27-42df-ba75-5168ad218f0e
+Bronx County,New York,NY,County,1419250,https://bronxboropres.nyc.gov,,,,,,,,,,,,,,2025-11-08 10:57:06.784755+00,2025-11-08 10:57:06.784758+00,9ba9f4ef-9b63-4a5c-baac-8af95b5e81a2
+Walworth County,Wisconsin,WI,County,105447,https://www.co.walworth.wi.us/,,,,,,,,,,,,,,2025-11-08 11:02:49.698612+00,2025-11-08 11:02:49.698615+00,9be6794c-ff02-4832-b5ad-8d90135c74cc
+City of Providence,Rhode Island,RI,City,190214,https://www.providenceri.gov,,,,,,,,,,,,,Providence County,2025-11-08 11:00:02.964722+00,2025-11-08 11:00:02.964725+00,9c1f4986-8e48-4583-baa5-28fbee8a9185
+City of Palm Bay,Florida,FL,City,125273,https://www.palmbayfl.gov,,,,,,,,,,,,,Brevard County,2025-11-08 10:49:43.727747+00,2025-11-08 10:49:43.727749+00,9ca819f7-2692-4b25-8c7a-cacaaf226274
+Walton County,Georgia,GA,County,100361,https://www.waltoncountyga.gov,,,,,,,,,,,,,,2025-11-08 10:50:28.452879+00,2025-11-08 10:50:28.452881+00,9cc0be14-b7ee-4ae2-ac8e-a358ed78c004
+City of San Buenaventura (Ventura),California,CA,City,109900,https://www.cityofventura.ca.gov,,,,,,,,,,,,,Ventura County,2025-11-08 10:49:05.027049+00,2025-11-08 10:49:05.027052+00,9cfe9f89-3d60-4b1b-a939-099dfa72a029
+Wichita County,Texas,TX,County,129842,https://wichitacountytx.com,,,,,,,,,,,,,,2025-11-08 11:00:48.741593+00,2025-11-08 11:00:48.741596+00,9d4c7e1c-204c-4eb6-8946-71d0cb269163
+Warren County,Ohio,OH,County,246364,https://www.warrencountyohio.gov/,,,,,,,,,,,,,,2025-11-08 10:58:14.227134+00,2025-11-08 10:58:14.227137+00,9d5392c0-c159-43f0-a8cb-2cfc37292564
+City of Ontario,California,CA,City,178347,https://www.ontarioca.gov,,,,,,,,,,,,,San Bernardino County,2025-11-08 10:48:36.927039+00,2025-11-08 10:48:36.927041+00,9dfc1957-ccce-4688-8a70-55b14a276e13
+Solano County,California,CA,County,450824,https://www.solanocounty.gov,,,,,,,,,,,,,,2025-11-08 10:48:36.924776+00,2025-11-08 10:48:36.92478+00,9e3f01ea-4c33-4800-8446-102ac71dc4f1
+Hall County,Georgia,GA,County,208395,https://www.hallcounty.org/,,,,,,,,,,,,,,2025-11-08 10:49:43.73615+00,2025-11-08 10:49:43.736153+00,9e4be16a-13d4-4e1e-8ce4-ca8d1aed4003
+Yellowstone County,Montana,MT,County,167340,https://www.yellowstonecountymt.gov,,,,,,,,,,,,,,2025-11-08 10:55:17.083935+00,2025-11-08 10:55:17.083937+00,9ec100d6-df18-4f13-83ad-d7c8ae5af41b
+City of Wichita Falls,Texas,TX,City,102558,https://www.wichitafallstx.gov,,,,,,,,,,,,,Wichita County,2025-11-08 11:00:48.745823+00,2025-11-08 11:00:48.745825+00,9ef59743-ba7d-4754-bb3e-9ccbfc89f9fc
+Worcester County,Massachusetts,MA,County,861664,https://www.worcesterma.gov,,,,,,,,,,,,,,2025-11-08 10:53:46.246281+00,2025-11-08 10:53:46.246283+00,9f73ea21-3b16-4388-93c4-fbebd61faa31
+Grant County,Washington,WA,County,100428,https://www.grantcountywa.gov/,,,,,,,,,,,,,,2025-11-08 11:02:07.073847+00,2025-11-08 11:02:07.07385+00,9f74abc7-f370-468d-8a97-c19422ed1614
+City of Torrance,California,CA,City,143499,https://www.torranceca.gov,,,,,,,,,,,,,Los Angeles County,2025-11-08 10:48:36.927162+00,2025-11-08 10:48:36.927165+00,9f7698c3-a5c6-4c20-bda3-600c0306decf
+Bibb County,Georgia,GA,County,156543,https://www.maconbibb.us,,,,,,,,,,,,,,2025-11-08 10:50:28.453101+00,2025-11-08 10:50:28.453103+00,9ffb9735-6cd5-487a-b982-211568b2124f
+City of Grand Rapids,Michigan,MI,City,197768,https://www.grandrapidsmi.gov,,,,,,,,,,,,,Kent County,2025-11-08 10:54:03.492323+00,2025-11-08 10:54:03.492325+00,a1136157-88a0-4388-8cd0-0df5daeb6c48
+Fairfax County,Virginia,VA,County,1144474,https://www.fairfaxcounty.gov/,,,,,,,,,,,,,,2025-11-08 11:02:07.063274+00,2025-11-08 11:02:07.063277+00,a1295667-88a4-418e-80cc-901de0795cb9
+City of Greensboro,North Carolina,NC,City,298564,https://www.greensboro-nc.gov,,,,,,,,,,,,,Guilford County,2025-11-08 10:57:38.312514+00,2025-11-08 10:57:38.312517+00,a1b72b06-392d-4fa8-96a6-cdc04f0025ea
+Larimer County,Colorado,CO,County,363561,https://www.larimer.gov,,,,,,,,,,,,,,2025-11-08 10:49:05.039024+00,2025-11-08 10:49:05.039027+00,a1b93237-2f46-402a-bafd-e640863dcb0b
+Ocean County,New Jersey,NJ,County,646434,https://co.ocean.nj.us,,,,,,,,,,,,,,2025-11-08 10:55:47.458157+00,2025-11-08 10:55:47.458159+00,a306c413-e7c2-47f0-b3be-1b634f0b7d81
+Terrebonne Parish,Louisiana,LA,County,107362,https://tpcg.org/,,,,,,,,,,,,,,2025-11-08 10:53:25.189678+00,2025-11-08 10:53:25.189681+00,a3180af1-9547-4495-a07f-e4c9806e3f8b
+City of Lowell,Massachusetts,MA,City,114799,http://lowellma.gov,,,,,,,,,,,,,Middlesex County,2025-11-08 10:53:46.246926+00,2025-11-08 10:53:46.246928+00,a3c65ef1-85a6-456a-99a3-0d7c02eaa3ff
+Lebanon County,Pennsylvania,PA,County,143592,https://www.lebanoncountypa.gov,,,,,,,,,,,,,,2025-11-08 10:59:17.220449+00,2025-11-08 10:59:17.220452+00,a3dd707f-c462-419c-89b4-141f333d4939
+Imperial County,California,CA,County,179319,https://imperialcounty.org,,,,,,,,,,,,,,2025-11-08 10:48:36.925926+00,2025-11-08 10:48:36.925929+00,a45516a5-c946-4420-9f4d-c3c10ccb2dac
+Sumter County,South Carolina,SC,County,104853,https://www.sumtercountysc.gov,,,,,,,,,,,,,,2025-11-08 11:00:02.967073+00,2025-11-08 11:00:02.967076+00,a456a71f-7788-4e57-8d30-566308509789
+Allen County,Ohio,OH,County,101685,https://allencountyohio.com,,,,,,,,,,,,,,2025-11-08 10:58:14.228462+00,2025-11-08 10:58:14.228465+00,a46160a5-3010-4594-a963-5c77e96d0f92
+Bell County,Texas,TX,County,379811,https://www.bellcountytx.com/,,,,,,,,,,,,,,2025-11-08 11:00:48.739004+00,2025-11-08 11:00:48.739007+00,a477ae72-50a1-47d4-a159-803f2c732197
+Palm Beach County,Florida,FL,County,1507453,https://discover.pbcgov.org/Pages/default.aspx,,,,,,,,,,,,,,2025-11-08 10:49:43.726655+00,2025-11-08 10:49:43.726658+00,a47e49b7-ca24-4f04-90f2-1a841437453d
+Providence County,Rhode Island,RI,County,658977,https://providencecountywebsite.com/,,,,,,,,,,,,,,2025-11-08 11:00:02.964591+00,2025-11-08 11:00:02.964594+00,a4839d6c-b3fe-4ba2-90b4-6fb395029658
+St. Johns County,Florida,FL,County,292243,https://www.sjcfl.us,,,,,,,,,,,,,,2025-11-08 10:49:43.725709+00,2025-11-08 10:49:43.725711+00,a4c027e5-5ec3-4dae-a7d9-eebf3d9d6fd5
+Anderson County,South Carolina,SC,County,207218,https://www.andersoncountysc.org,,,,,,,,,,,,,,2025-11-08 11:00:02.967031+00,2025-11-08 11:00:02.967033+00,a4dd6519-3804-4351-9b7f-24f7f87c0cb9
+Charleston County,South Carolina,SC,County,414711,https://www.charlestoncounty.org,,,,,,,,,,,,,,2025-11-08 11:00:02.967462+00,2025-11-08 11:00:02.967465+00,a5a5b557-c35d-4cfb-acff-66fc54debc8b
+Trumbull County,Ohio,OH,County,201367,http://www.co.trumbull.oh.us/,,,,,,,,,,,,,,2025-11-08 10:58:14.228039+00,2025-11-08 10:58:14.228042+00,a5f3db78-41b1-4514-bf25-64a236c23caf
+Yavapai County,Arizona,AZ,County,241656,https://www.yavapaiaz.gov,,,,,,,,,,,,,,2025-11-08 10:48:29.67717+00,2025-11-08 10:48:29.677173+00,a60ea6c9-c6e4-4f22-a199-f3363876c30a
+City of Pomona,California,CA,City,148391,https://www.pomonaca.gov,,,,,,,,,,,,,Los Angeles County,2025-11-08 10:49:05.030528+00,2025-11-08 10:49:05.030531+00,a659e904-f737-4c40-b3fe-e7fa599229a2
+City of Clearwater,Florida,FL,City,117075,https://www.myclearwater.com,,,,,,,,,,,,,Pinellas County,2025-11-08 10:49:43.729101+00,2025-11-08 10:49:43.729103+00,a65bc132-7ca6-4f27-b5f7-286bf133a734
+Maui County,Hawaii,HI,County,164632,https://www.mauicounty.gov/,,,,,,,,,,,,,,2025-11-08 10:50:28.461662+00,2025-11-08 10:50:28.461665+00,a66ec0cd-9d4e-46ec-bf20-d0344aab6233
+City of Allen,Texas,TX,City,107684,https://www.cityofallen.org,,,,,,,,,,,,,Collin County,2025-11-08 11:01:29.714111+00,2025-11-08 11:01:29.714113+00,a66ed91d-6c88-4179-8110-3122b34caa2a
+City of Memphis,Tennessee,TN,City,629063,https://www.memphistn.gov,,,,,,,,,,,,,Shelby County,2025-11-08 11:00:16.954949+00,2025-11-08 11:00:16.954951+00,a68feb62-e6a9-424f-9ce0-0c1d17c06314
+Greene County,Missouri,MO,County,301121,https://greenecountymo.gov,,,,,,,,,,,,,,2025-11-08 10:55:17.067817+00,2025-11-08 10:55:17.06782+00,a8247a57-f13a-48de-8320-b43ff6b8fb9b
+Pennington County,South Dakota,SD,County,112081,https://pennco.org/,,,,,,,,,,,,,,2025-11-08 11:00:02.975079+00,2025-11-08 11:00:02.975082+00,a8d8c045-527d-47fb-bc8e-50d6587ad630
+City of Oxnard,California,CA,City,201014,https://www.oxnard.gov,,,,,,,,,,,,,Ventura County,2025-11-08 10:49:05.025123+00,2025-11-08 10:49:05.025126+00,a90ce806-d0b7-4d56-8ee5-5f290eed7e5f
+Navajo County,Arizona,AZ,County,107744,https://www.navajocountyaz.gov,,,,,,,,,,,,,,2025-11-08 10:48:29.677064+00,2025-11-08 10:48:29.677067+00,a922255c-aa01-4563-9c5b-2d9b7f10907f
+Macon County,Illinois,IL,County,102591,https://maconcounty.illinois.gov/,,,,,,,,,,,,,,2025-11-08 10:51:14.627485+00,2025-11-08 10:51:14.627487+00,a9241f6b-0a46-4862-b8ee-24a91b1c0b67
+City of Waco,Texas,TX,City,141925,https://www.cityofwaco.com,,,,,,,,,,,,,McLennan County,2025-11-08 11:01:29.721358+00,2025-11-08 11:01:29.721361+00,a99fcebd-84f2-423a-83b8-6d2c7fcd1cca
+Lackawanna County,Pennsylvania,PA,County,215834,https://www.lackawannacounty.org,,,,,,,,,,,,,,2025-11-08 10:59:17.219333+00,2025-11-08 10:59:17.219336+00,a9e185a4-aaef-49c6-8f0e-8634a9eb7365
+Ascension Parish,Louisiana,LA,County,128593,http://ascensionparish.net/,,,,,,,,,,,,,,2025-11-08 10:53:25.190234+00,2025-11-08 10:53:25.190237+00,aa4a9443-5bde-4b3c-8083-a741b6936d6e
+City of Columbia,South Carolina,SC,City,138019,https://columbiasc.gov,,,,,,,,,,,,,Richland County,2025-11-08 11:00:02.969661+00,2025-11-08 11:00:02.969663+00,aa58aeed-672f-4bd4-b729-09c4e883ad8b
+Black Hawk County,Iowa,IA,County,130693,https://www.blackhawkcounty.iowa.gov/,,,,,,,,,,,,,,2025-11-08 10:52:36.675522+00,2025-11-08 10:52:36.675525+00,aa5ff090-e579-4ef3-907e-43b850accbb0
+Weld County,Colorado,CO,County,340711,https://www.weld.gov,,,,,,,,,,,,,,2025-11-08 10:49:05.03941+00,2025-11-08 10:49:05.039412+00,aab0c81b-5c73-4f1a-a88e-e72159fb60da
+Rensselaer County,New York,NY,County,160341,https://www.rensco.com/,,,,,,,,,,,,,,2025-11-08 10:57:06.785311+00,2025-11-08 10:57:06.785314+00,aae54bbc-9e5d-4f02-aa2c-cc499c12578e
+City of Springfield,Missouri,MO,City,169432,https://www.springfieldmo.gov,,,,,,,,,,,,,Greene County,2025-11-08 10:55:17.069189+00,2025-11-08 10:55:17.069191+00,aafb0205-cd88-49a4-8841-754ba466aca0
+City of San Mateo,California,CA,City,103555,https://www.cityofsanmateo.org/,,,,,,,,,,,,,San Mateo County,2025-11-08 10:49:05.025857+00,2025-11-08 10:49:05.02586+00,ab6dde6a-6fee-4652-abd9-57eb7df60c97
+City of San Bernardino,California,CA,City,221774,https://www.sbcity.org,,,,,,,,,,,,,San Bernardino County,2025-11-08 10:49:05.024723+00,2025-11-08 10:49:05.024726+00,ab708a19-da0b-44ef-99b6-a882a143e085
+City of Los Angeles,California,CA,City,3857897,https://lacity.gov,,,,,,,,,,,,,Los Angeles County,2025-11-08 10:49:05.025796+00,2025-11-08 10:49:05.025798+00,ab926b51-c33f-4275-b07c-8e0b0fec6a38
+Kenosha County,Wisconsin,WI,County,168413,https://www.kenoshacountywi.gov,,,,,,,,,,,,,,2025-11-08 11:02:49.69946+00,2025-11-08 11:02:49.699463+00,abc04561-65e7-490c-a182-4dc7895be8b3
+City of Murrieta,California,CA,City,111621,https://www.murrietaca.gov,,,,,,,,,,,,,Riverside County,2025-11-08 10:49:05.026349+00,2025-11-08 10:49:05.026352+00,abfc1857-8f0c-451e-bdc9-642c444b8550
+Elkhart County,Indiana,IN,County,206868,https://www.elkhartcounty.com,,,,,,,,,,,,,,2025-11-08 10:51:55.197932+00,2025-11-08 10:51:55.197936+00,ac13210e-1111-4dae-a5e6-67a67560b187
+City of Wichita,Kansas,KS,City,396488,https://www.wichita.gov,,,,,,,,,,,,,Sedgwick County,2025-11-08 10:53:25.174706+00,2025-11-08 10:53:25.174708+00,ac18a8c2-132a-4694-996e-137e9a4272e7
+Boulder County,Colorado,CO,County,328317,https://www.bouldercounty.org,,,,,,,,,,,,,,2025-11-08 10:49:05.03945+00,2025-11-08 10:49:05.039453+00,ac1afeec-7c1d-4175-b0b9-f2afc9b3c48b
+City of Lubbock,Texas,TX,City,261078,https://ci.lubbock.tx.us,,,,,,,,,,,,,Lubbock County,2025-11-08 11:01:29.721853+00,2025-11-08 11:01:29.721856+00,ac3292c8-d805-4ebf-91f9-2f41a09122fb
+City of Lincoln,Nebraska,NE,City,291932,https://www.lincoln.ne.gov,,,,,,,,,,,,,Lancaster County,2025-11-08 10:55:47.43784+00,2025-11-08 10:55:47.437843+00,ac69733e-6bf6-4f35-a1fa-c5af76256bc8
+Snohomish County,Washington,WA,County,834648,https://snohomishcountywa.gov,,,,,,,,,,,,,,2025-11-08 11:02:07.074617+00,2025-11-08 11:02:07.074619+00,ac7475b8-4541-4311-8e17-88454e03af20
+City of Jurupa Valley,California,CA,City,106244,https://www.jurupavalley.org,,,,,,,,,,,,,Riverside County,2025-11-08 10:49:05.026165+00,2025-11-08 10:49:05.026168+00,acd750ea-6e25-4ded-bab5-25a295c0b617
+Butler County,Pennsylvania,PA,County,195870,https://www.butlercountypa.gov/,,,,,,,,,,,,,,2025-11-08 10:59:17.220552+00,2025-11-08 10:59:17.220555+00,acdd626e-43bd-4778-84a2-989302cc1b80
+City of Atlanta,Georgia,GA,City,499287,https://www.atlantaga.gov,,,,,,,,,,,,,Fulton County,2025-11-08 10:50:28.456898+00,2025-11-08 10:50:28.456901+00,acf32de3-5a02-4994-a923-aa8af2373a21
+Blair County,Pennsylvania,PA,County,121854,https://www.blairco.org/,,,,,,,,,,,,,,2025-11-08 10:59:17.21929+00,2025-11-08 10:59:17.219293+00,ad8b4934-8092-43bb-95b9-9707ff9a10b1
+City of Alexandria,Virginia,VA,City,156788,https://www.alexandriava.gov,,,,,,,,,,,,,,2025-11-08 11:02:07.068516+00,2025-11-08 11:02:07.068518+00,adc43f2d-26f3-40b3-971b-8259a5a3ff4a
+City of Salem,Oregon,OR,City,176666,https://www.cityofsalem.net,,,,,,,,,,,,,Marion County,2025-11-08 10:58:36.700006+00,2025-11-08 10:58:36.700009+00,add1dec5-9def-4aba-8d81-b2dcd36d786e
+Marathon County,Wisconsin,WI,County,138067,https://www.marathoncounty.gov,,,,,,,,,,,,,,2025-11-08 11:02:49.699583+00,2025-11-08 11:02:49.699586+00,ae3001db-16ea-4912-a603-82699bf429a5
+Monongalia County,West Virginia,WV,County,106520,https://www.monongaliacounty.gov/,,,,,,,,,,,,,,2025-11-08 11:02:07.0796+00,2025-11-08 11:02:07.079603+00,ae9a3478-c128-4a14-8726-bec1d93652f7
+Fayette County,Pennsylvania,PA,County,126967,https://www.fayettecountypa.org,,,,,,,,,,,,,,2025-11-08 10:59:17.219852+00,2025-11-08 10:59:17.219855+00,aea90369-bb22-4d94-adc2-de369a8f7ea9
+Parker County,Texas,TX,County,158079,http://parkercountytx.gov,,,,,,,,,,,,,,2025-11-08 11:00:48.741373+00,2025-11-08 11:00:48.741376+00,aed4ba31-33cb-42f6-a893-934369779e9e
+Eaton County,Michigan,MI,County,109000,https://www.eatoncounty.org,,,,,,,,,,,,,,2025-11-08 10:54:03.487624+00,2025-11-08 10:54:03.487627+00,aed85948-b7a6-4e9c-b847-76df3ab0da12
+Onondaga County,New York,NY,County,471611,https://www.ongov.net,,,,,,,,,,,,,,2025-11-08 10:57:06.785757+00,2025-11-08 10:57:06.785759+00,aef86b6e-18f1-4935-91cf-09bb51e47e0a
+Burlington County,New Jersey,NJ,County,464226,https://www.co.burlington.nj.us/,,,,,,,,,,,,,,2025-11-08 10:55:47.45826+00,2025-11-08 10:55:47.458263+00,af01fbc3-72f8-4844-ba55-94035522bfc3
+City of Sugar Land,Texas,TX,City,109735,https://www.sugarlandtx.gov,,,,,,,,,,,,,Fort Bend County,2025-11-08 11:00:48.745356+00,2025-11-08 11:00:48.745358+00,af765b97-0ae9-4836-89a3-3c0f876e46e4
+City of Ann Arbor,Michigan,MI,City,121179,https://www.a2gov.org/,,,,,,,,,,,,,Washtenaw County,2025-11-08 10:54:03.492405+00,2025-11-08 10:54:03.492407+00,afbc0b91-0ee5-4a29-93fa-66f4cec2f86d
+City of Peoria,Illinois,IL,City,112126,https://www.peoriagov.org/,,,,,,,,,,,,,Peoria County,2025-11-08 10:51:14.628523+00,2025-11-08 10:51:14.628525+00,aff48c88-ed12-4605-968d-e98acfdb2990
+Chester County,Pennsylvania,PA,County,540896,https://www.chesco.org/,,,,,,,,,,,,,,2025-11-08 10:59:17.220183+00,2025-11-08 10:59:17.220186+00,b03c6546-ad05-49b2-91cb-5a6436b6f9cf
+Multnomah County,Oregon,OR,County,803863,https://www.multco.us/,,,,,,,,,,,,,,2025-11-08 10:58:36.698971+00,2025-11-08 10:58:36.698973+00,b077c518-cd24-4a89-837d-47f9a1984f7b
+Clark County,Ohio,OH,County,135445,https://www.clarkcountyohio.gov,,,,,,,,,,,,,,2025-11-08 10:58:14.227919+00,2025-11-08 10:58:14.227922+00,b0cf1ae3-650e-4fa9-bd6d-01a17f8aa7e4
+Allegan County,Michigan,MI,County,120913,https://www.allegancounty.org,,,,,,,,,,,,,,2025-11-08 10:54:03.486852+00,2025-11-08 10:54:03.486854+00,b10f1475-6a65-4235-81de-ba4b5b9d0aac
+City of Simi Valley,California,CA,City,125769,https://www.simivalley.org,,,,,,,,,,,,,Ventura County,2025-11-08 10:49:05.026103+00,2025-11-08 10:49:05.026106+00,b136a1c0-ac10-481e-ba08-d2512f8ef4f9
+City of Salinas,California,CA,City,161993,https://www.cityofsalinas.org,,,,,,,,,,,,,Monterey County,2025-11-08 10:49:05.028994+00,2025-11-08 10:49:05.028997+00,b168c47f-a1f2-4f32-8010-253ce7979d72
+City of Albuquerque,New Mexico,NM,City,562488,https://www.cabq.gov,,,,,,,,,,,,,Bernalillo County,2025-11-08 10:56:20.020125+00,2025-11-08 10:56:20.020128+00,b188da06-dcc2-4b31-b8d6-a1ac6251e16c
+City of Nashville-Davidson metropolitan government,Tennessee,TN,City,684298,https://www.nashville.gov/,,,,,,,,,,,,,,2025-11-08 11:00:16.953149+00,2025-11-08 11:00:16.953152+00,b1a01927-3852-4657-b08c-57a8ae74e69e
+Denver County,Colorado,CO,County,713734,https://www.denvergov.org,,,,,,,,,,,,,,2025-11-08 10:49:05.039187+00,2025-11-08 10:49:05.03919+00,b1b41ef9-6352-4118-9bc4-df48e98f716d
+Forsyth County,North Carolina,NC,County,386740,https://www.co.forsyth.nc.us,,,,,,,,,,,,,,2025-11-08 10:57:38.305541+00,2025-11-08 10:57:38.305544+00,b225c47e-d908-4a28-9c76-a984200d0a12
+Hays County,Texas,TX,County,256429,https://www.hayscountytx.gov,,,,,,,,,,,,,,2025-11-08 11:00:48.739534+00,2025-11-08 11:00:48.739536+00,b2783310-bafd-453a-93aa-b97570b74614
+City of Seattle,Washington,WA,City,741440,https://www.seattle.gov,,,,,,,,,,,,,King County,2025-11-08 11:02:07.078195+00,2025-11-08 11:02:07.078197+00,b27ea3f9-1d19-4b68-bcd2-6831147dcc47
+St. Charles County,Missouri,MO,County,409830,https://sccmo.org,,,,,,,,,,,,,,2025-11-08 10:54:35.114185+00,2025-11-08 10:54:35.114188+00,b297300e-3b90-4eb3-8cd6-2e8275cbfb1d
+Lee County,Florida,FL,County,792692,https://www.leegov.com,,,,,,,,,,,,,,2025-11-08 10:49:43.726474+00,2025-11-08 10:49:43.726477+00,b2adee34-be4a-4308-bdf4-91a44850d7de
+City of Fresno,California,CA,City,543615,https://www.fresno.gov,,,,,,,,,,,,,Fresno County,2025-11-08 10:49:05.028343+00,2025-11-08 10:49:05.028346+00,b2b3d051-2e1c-4b81-8f50-0ede81d7c07b
+Ottawa County,Michigan,MI,County,298614,https://www.miottawa.org/,,,,,,,,,,,,,,2025-11-08 10:54:03.486913+00,2025-11-08 10:54:03.486916+00,b3652b74-16e0-479b-8ae3-d03a34b33429
+City of Dayton,Ohio,OH,City,136741,https://www.daytonohio.gov,,,,,,,,,,,,,Montgomery County,2025-11-08 10:58:14.234163+00,2025-11-08 10:58:14.234166+00,b3d72ef3-1961-4b9d-ad44-2959d9f8aec1
+Wayne County,Michigan,MI,County,1773767,https://www.waynecounty.com/,,,,,,,,,,,,,,2025-11-08 10:54:03.487482+00,2025-11-08 10:54:03.487485+00,b458b88f-b492-44e2-8812-88d6fd99c0eb
+Marin County,California,CA,County,258765,https://www.marincounty.gov/,,,,,,,,,,,,,,2025-11-08 10:48:36.926038+00,2025-11-08 10:48:36.92604+00,b4862b37-c4f0-4937-bc8d-b56086f70597
+City of Metairie,Louisiana,LA,City,138995,https://welcometo.metairie.com/,,,,,,,,,,,,,Jefferson Parish County,2025-11-08 10:53:25.19334+00,2025-11-08 10:53:25.193343+00,b48827ac-3a07-4674-9f82-76629c69d7cc
+Bay County,Florida,FL,County,181368,https://www.baycountyfl.gov,,,,,,,,,,,,,,2025-11-08 10:49:43.726413+00,2025-11-08 10:49:43.726416+00,b499af7e-25c6-4b5e-a14e-7cf4269831d9
+Buncombe County,North Carolina,NC,County,271790,https://www.buncombecounty.org,,,,,,,,,,,,,,2025-11-08 10:57:38.306356+00,2025-11-08 10:57:38.306358+00,b5b24517-bdc5-4aae-a9f3-a8cef5f5b572
+Clark County,Nevada,NV,County,2293764,https://www.clarkcountynv.gov/,,,,,,,,,,,,,,2025-11-08 10:55:47.438701+00,2025-11-08 10:55:47.438704+00,b62a4c2b-be26-4d14-8e57-48f912c23b8c
+City of Jackson,Mississippi,MS,City,149827,https://www.jacksonms.gov,,,,,,,,,,,,,Hinds County,2025-11-08 10:54:35.09942+00,2025-11-08 10:54:35.099423+00,b66f648e-c0f3-4f4c-96a9-f7632754e280
+Marion County,Indiana,IN,County,971822,https://www.indy.gov,,,,,,,,,,,,,,2025-11-08 10:51:55.198761+00,2025-11-08 10:51:55.198764+00,b6ac19ae-baea-4157-a935-4a7ac6877b4a
+Cherokee County,Georgia,GA,County,274539,https://www.cherokeecountyga.gov,,,,,,,,,,,,,,2025-11-08 10:50:28.452778+00,2025-11-08 10:50:28.45278+00,b6c3305e-b5a4-4033-b39e-ff2aa746f62b
+City of Corona,California,CA,City,158839,https://www.coronaca.gov,,,,,,,,,,,,,Riverside County,2025-11-08 10:49:05.024763+00,2025-11-08 10:49:05.024766+00,b6d14396-5047-4c6e-9560-6f8be184992f
+City of Daly City,California,CA,City,102560,https://www.dalycity.org,,,,,,,,,,,,,San Mateo County,2025-11-08 10:49:05.031386+00,2025-11-08 10:49:05.031389+00,b72a59db-a530-4418-8800-8dc6ed7165f6
+City of Norman,Oklahoma,OK,City,128714,https://www.normanok.gov,,,,,,,,,,,,,Cleveland County,2025-11-08 10:58:36.693441+00,2025-11-08 10:58:36.693444+00,b7531f9e-7239-4691-ba99-76d2258bdf61
+Oneida County,New York,NY,County,229645,https://oneidacountyny.gov,,,,,,,,,,,,,,2025-11-08 10:57:06.785203+00,2025-11-08 10:57:06.785206+00,b76a6dba-9a00-48e8-9398-7c750f95ccab
+San Juan County,New Mexico,NM,County,121178,https://www.sjcounty.net/,,,,,,,,,,,,,,2025-11-08 10:56:20.019066+00,2025-11-08 10:56:20.019069+00,b7bc3908-3471-40ad-b3d2-ebb1957c31a7
+Washoe County,Nevada,NV,County,491770,https://www.washoecounty.gov,,,,,,,,,,,,,,2025-11-08 10:55:47.438905+00,2025-11-08 10:55:47.438908+00,b871dca7-21ec-4149-a80e-4c4df8b88e8b
+Rockingham County,New Hampshire,NH,County,317163,https://rockinghamcountynh.org,,,,,,,,,,,,,,2025-11-08 10:55:47.441085+00,2025-11-08 10:55:47.441088+00,b8a20745-8dbb-4a89-b7fe-17770bb18aaa
+Houston County,Georgia,GA,County,166902,https://www.houstoncountyga.gov,,,,,,,,,,,,,,2025-11-08 10:49:43.73609+00,2025-11-08 10:49:43.736092+00,b8de6908-ec35-4297-bea3-87762af3f8d5
+Douglas County,Kansas,KS,County,119547,https://www.dgcoks.gov/,,,,,,,,,,,,,,2025-11-08 10:52:36.690235+00,2025-11-08 10:52:36.690237+00,b8f935ea-9b54-42e9-977a-6d5e8a3c7b7d
+Kennebec County,Maine,ME,County,125614,https://www.kennebeccounty.org/,,,,,,,,,,,,,,2025-11-08 10:53:46.23329+00,2025-11-08 10:53:46.233292+00,b9955540-2e83-422a-8f7b-3be82b560807
+Denton County,Texas,TX,County,945644,https://www.dentoncounty.gov,,,,,,,,,,,,,,2025-11-08 11:00:48.738843+00,2025-11-08 11:00:48.738846+00,b9a14e15-f797-44b6-85b5-e6eddab77e6d
+Lafayette Parish,Louisiana,LA,County,245075,https://www.lafayettela.gov,,,,,,,,,,,,,,2025-11-08 10:53:25.189636+00,2025-11-08 10:53:25.189639+00,b9a25ced-1c01-46bd-b19d-fdcd917ed2a9
+City of Yonkers,New York,NY,City,209529,https://www.yonkersny.gov,,,,,,,,,,,,,Westchester County,2025-11-08 10:57:38.299319+00,2025-11-08 10:57:38.299322+00,b9ace577-4e85-4642-bd0c-080f8a854d62
+Cecil County,Maryland,MD,County,104366,https://www.ccgov.org,,,,,,,,,,,,,,2025-11-08 10:53:46.234626+00,2025-11-08 10:53:46.234628+00,b9bb6eae-98b2-4ba7-9b53-45433d1a10ac
+Wayne County,North Carolina,NC,County,117606,http://waynegov.com/,,,,,,,,,,,,,,2025-11-08 10:57:38.305199+00,2025-11-08 10:57:38.305201+00,b9d1c061-1b50-40f2-a29d-c137466159ed
+City of Richmond,Virginia,VA,City,227595,https://www.rva.gov,,,,,,,,,,,,,,2025-11-08 11:02:07.067777+00,2025-11-08 11:02:07.067779+00,ba7d1a53-0320-4e6d-8a05-07632588948b
+Lake County,Florida,FL,County,398696,https://www.lakecountyfl.gov,,,,,,,,,,,,,,2025-11-08 10:49:43.725688+00,2025-11-08 10:49:43.725691+00,bab446fb-846b-43e0-9c2b-5dba1e81cbaf
+City of Sunnyvale,California,CA,City,153455,https://www.sunnyvale.ca.gov,,,,,,,,,,,,,Santa Clara County,2025-11-08 10:49:05.025385+00,2025-11-08 10:49:05.025388+00,baee6919-6a4f-488f-ae11-b6b063bdc645
+Pickens County,South Carolina,SC,County,132604,https://www.co.pickens.sc.us/,,,,,,,,,,,,,,2025-11-08 11:00:02.967835+00,2025-11-08 11:00:02.967838+00,bb247cf2-c25f-4298-b7f3-985683c56fd2
+Orange County,Florida,FL,County,1440471,http://orangecountyfl.net/,,,,,,,,,,,,,,2025-11-08 10:49:43.726454+00,2025-11-08 10:49:43.726457+00,bb27d6f7-06b0-407d-b82c-21e784141c6a
+Portage County,Ohio,OH,County,161421,https://www.portagecounty-oh.gov,,,,,,,,,,,,,,2025-11-08 10:58:14.227316+00,2025-11-08 10:58:14.227318+00,bba9e0ac-33da-4c78-80ef-c91d23000305
+Chesapeake city,Virginia,VA,County,251153,https://www.cityofchesapeake.net,,,,,,,,,,,,,,2025-11-08 11:02:07.064822+00,2025-11-08 11:02:07.064824+00,bbf3d2b7-dc1a-4702-9a8d-460703fa1d63
+Jefferson Parish,Louisiana,LA,County,432484,https://www.jeffparish.gov,,,,,,,,,,,,,,2025-11-08 10:53:25.189426+00,2025-11-08 10:53:25.189429+00,bbfe1805-be81-45d2-afb2-e35c9375edec
+Johnson County,Iowa,IA,County,154881,https://johnsoncountyiowa.gov,,,,,,,,,,,,,,2025-11-08 10:52:36.675686+00,2025-11-08 10:52:36.675688+00,bc32c842-4842-48ea-bf16-4e5891096123
+Lexington-Fayette urban,Kentucky,KY,County,321122,https://www.lexingtonky.gov,,,,,,,,,,,,,,2025-11-08 10:53:25.186246+00,2025-11-08 10:53:25.186249+00,bcf77cfd-12c8-4cb0-86db-18ea57d79e51
+City of Modesto,California,CA,City,218614,https://modestogov.com,,,,,,,,,,,,,Stanislaus County,2025-11-08 10:49:05.029095+00,2025-11-08 10:49:05.029098+00,bd8d1654-96b7-4612-93cc-6ff5546159be
+City of Miami Gardens,Florida,FL,City,111264,https://www.miamigardens-fl.gov/,,,,,,,,,,,,,Miami-Dade County,2025-11-08 10:49:43.731935+00,2025-11-08 10:49:43.731937+00,bdc2108b-db51-4521-b07a-0f8e88f712a3
+City of Tucson,Arizona,AZ,City,543348,https://www.tucsonaz.gov,,,,,,,,,,,,,Pima County,2025-11-08 10:48:29.679574+00,2025-11-08 10:48:29.679578+00,bde10ed5-26f8-4ce3-89b5-0dc863e8eb2e
+Middlesex County,New Jersey,NJ,County,861535,https://www.middlesexcountynj.gov,,,,,,,,,,,,,,2025-11-08 10:55:47.458301+00,2025-11-08 10:55:47.458304+00,be26fbac-b94f-4243-b09a-0d70aac97563
+Jefferson County,Colorado,CO,County,579715,https://www.jeffco.us,,,,,,,,,,,,,,2025-11-08 10:49:05.039758+00,2025-11-08 10:49:05.03976+00,be43d231-a3a4-4b61-a2f6-77c8196822d3
+City of Phoenix,Arizona,AZ,City,1624832,https://www.phoenix.gov,,,,,,,,,,,,,Maricopa County,2025-11-08 10:48:29.679525+00,2025-11-08 10:48:29.679528+00,be5de7a4-d98d-4ff0-a310-b5526e364c28
+City of West Covina,California,CA,City,107436,https://www.westcovina.org,,,,,,,,,,,,,Los Angeles County,2025-11-08 10:49:05.026062+00,2025-11-08 10:49:05.026065+00,be6b873b-be33-4774-9c41-dd3fbb1cbaa5
+City of Manchester,New Hampshire,NH,City,115415,https://www.manchesternh.gov,,,,,,,,,,,,,Hillsborough County,2025-11-08 10:55:47.441438+00,2025-11-08 10:55:47.441441+00,be6cd77f-140e-45ab-9269-715a535946af
+Dakota County,Minnesota,MN,County,442204,https://www.co.dakota.mn.us/,,,,,,,,,,,,,,2025-11-08 10:54:23.271207+00,2025-11-08 10:54:23.27121+00,bf05f207-ed08-4e74-91ad-06a24564e146
+Bucks County,Pennsylvania,PA,County,645993,https://buckscounty.gov/,,,,,,,,,,,,,,2025-11-08 10:59:17.219728+00,2025-11-08 10:59:17.219731+00,bf842ef7-118b-4730-a596-8758e18c1139
+City of Cape Coral,Florida,FL,City,206387,https://www.capecoral.gov,,,,,,,,,,,,,Lee County,2025-11-08 10:49:43.732594+00,2025-11-08 10:49:43.732597+00,bfc18b11-f736-4cda-a463-4ff77cc1af50
+City of Elizabeth,New Jersey,NJ,City,135887,http://elizabethnj.org,,,,,,,,,,,,,Union County,2025-11-08 10:56:20.013687+00,2025-11-08 10:56:20.01369+00,c07bed3c-bda3-43f5-97a4-bd8fd2c34c7b
+City of Chicago,Illinois,IL,City,2707648,https://www.chicago.gov,,,,,,,,,,,,,Cook County,2025-11-08 10:51:14.629681+00,2025-11-08 10:51:14.629684+00,c07c7a2e-857c-4f24-a1f0-caeae5894818
+City of Temecula,California,CA,City,110404,https://www.temeculaca.gov,,,,,,,,,,,,,Riverside County,2025-11-08 10:49:05.032018+00,2025-11-08 10:49:05.03202+00,c094b56d-9314-41ec-8074-92fdf5794310
+City of Lakewood,Colorado,CO,City,156309,https://www.lakewood.org,,,,,,,,,,,,,Jefferson County,2025-11-08 10:49:05.041226+00,2025-11-08 10:49:05.041228+00,c09e9b3e-59cd-4706-b105-1cae532055e7
+City of Round Rock,Texas,TX,City,124288,https://www.roundrocktexas.gov,,,,,,,,,,,,,Williamson County,2025-11-08 11:01:29.72175+00,2025-11-08 11:01:29.721753+00,c0b9b2f3-60ab-4706-80e6-6f118d17c07f
+City of Charlotte,North Carolina,NC,City,886283,https://www.charlottenc.gov,,,,,,,,,,,,,Mecklenburg County,2025-11-08 10:57:38.311288+00,2025-11-08 10:57:38.31129+00,c0c60f71-a74d-4c87-9a96-bddb1916d3ae
+Craven County,North Carolina,NC,County,101074,https://www.cravencountync.gov,,,,,,,,,,,,,,2025-11-08 10:57:38.306054+00,2025-11-08 10:57:38.306056+00,c0f6b0d1-1212-41e1-bde3-e92a9cd029fb
+Anoka County,Minnesota,MN,County,367095,https://www.anokacountymn.gov,,,,,,,,,,,,,,2025-11-08 10:54:23.272978+00,2025-11-08 10:54:23.272981+00,c10ac8d4-cc7d-43d6-baac-427226d77b07
+City of Newport News,Virginia,VA,City,184774,https://www.nnva.gov,,,,,,,,,,,,,,2025-11-08 11:02:07.068536+00,2025-11-08 11:02:07.068538+00,c10d8a05-e34a-4bdc-be0d-de47b6f937eb
+Bartow County,Georgia,GA,County,111153,https://www.bartowcountyga.gov,,,,,,,,,,,,,,2025-11-08 10:50:28.45304+00,2025-11-08 10:50:28.453043+00,c11d361b-33b1-4efc-b3ba-6fbb61a1aa73
+Jefferson County,Kentucky,KY,County,777392,https://www.jeffersoncountyclerk.org,,,,,,,,,,,,,,2025-11-08 10:53:25.181826+00,2025-11-08 10:53:25.181828+00,c142fa95-b6a9-4e10-bdcc-a7e3664e9e10
+Cumberland County,Pennsylvania,PA,County,264422,http://cumberlandcountypa.gov,,,,,,,,,,,,,,2025-11-08 10:59:17.219464+00,2025-11-08 10:59:17.219467+00,c1acfdb2-7543-4818-ab1e-b837e2faecb4
+Merrimack County,New Hampshire,NH,County,155018,https://www.merrimackcounty.net,,,,,,,,,,,,,,2025-11-08 10:55:47.441064+00,2025-11-08 10:55:47.441067+00,c2425892-d62c-4a9f-8c87-644c2f265323
+Houston County,Alabama,AL,County,107628,https://houstoncountyal.gov,,,,,,,,,,,,,,2025-11-08 10:48:12.728455+00,2025-11-08 10:48:12.728458+00,c2cb33d0-a461-4ca0-8dc7-40d9521a2250
+LaPorte County,Indiana,IN,County,112141,https://laporteco.in.gov,,,,,,,,,,,,,,2025-11-08 10:51:55.198168+00,2025-11-08 10:51:55.198172+00,c2d1b059-2dab-40ad-9c1c-b7e0e9eb9b5a
+Contra Costa County,California,CA,County,1161458,https://www.contracosta.ca.gov,,,,,,,,,,,,,,2025-11-08 10:48:36.926601+00,2025-11-08 10:48:36.926604+00,c2dbcf83-a0f4-44c9-95a8-79e568e77340
+Sarasota County,Florida,FL,County,449011,https://www.scgov.net,,,,,,,,,,,,,,2025-11-08 10:49:43.726736+00,2025-11-08 10:49:43.726739+00,c3273236-4c00-45f1-bd0e-ce7a881e4de9
+Catawba County,North Carolina,NC,County,162051,https://www.catawbacountync.gov,,,,,,,,,,,,,,2025-11-08 10:57:38.305892+00,2025-11-08 10:57:38.305894+00,c387b4bd-f4bf-4310-8416-735658ae915c
+Dutchess County,New York,NY,County,297144,https://dutchessny.gov,,,,,,,,,,,,,,2025-11-08 10:57:06.785798+00,2025-11-08 10:57:06.785801+00,c3a582bc-dc3d-4446-928b-71a519cab040
+City of Carrollton,Texas,TX,City,132741,https://www.cityofcarrollton.com,,,,,,,,,,,,,Dallas County,2025-11-08 11:01:29.715474+00,2025-11-08 11:01:29.715476+00,c3d4d398-16eb-44e5-9e06-3d6a64a39d66
+Knox County,Tennessee,TN,County,487401,https://www.knoxcounty.org,,,,,,,,,,,,,,2025-11-08 11:00:02.981933+00,2025-11-08 11:00:02.981936+00,c4741cd9-19f5-41df-90b9-b7dd7a26132e
+City of Fort Worth,Texas,TX,City,941311,https://www.fortworthtexas.gov,,,,,,,,,,,,,Tarrant County,2025-11-08 11:01:29.713764+00,2025-11-08 11:01:29.713767+00,c482d119-36a1-4c43-a325-56d76c61698d
+Weber County,Utah,UT,County,266183,https://www.webercountyutah.gov,,,,,,,,,,,,,,2025-11-08 11:01:29.725897+00,2025-11-08 11:01:29.725899+00,c4a4d726-931c-42e1-8401-1cfa71b404ac
+Nassau County,New York,NY,County,1388138,https://www.nassaucountyny.gov,,,,,,,,,,,,,,2025-11-08 10:57:06.785224+00,2025-11-08 10:57:06.785227+00,c4eabf7c-c8ba-49bd-8dee-a470eb20449a
+Mecklenburg County,North Carolina,NC,County,1130906,https://www.mecknc.gov,,,,,,,,,,,,,,2025-11-08 10:57:38.30571+00,2025-11-08 10:57:38.305713+00,c4f5e9c4-2195-40ac-a84d-bcb9a69e6005
+City of Visalia,California,CA,City,142649,https://www.visalia.city/,,,,,,,,,,,,,Tulare County,2025-11-08 10:49:05.027294+00,2025-11-08 10:49:05.027297+00,c5470ea0-ea6a-4a44-97f4-60c26f3ec72e
+Pitt County,North Carolina,NC,County,172279,https://www.pittcountync.gov/,,,,,,,,,,,,,,2025-11-08 10:57:38.305482+00,2025-11-08 10:57:38.305484+00,c5f214b2-d459-492d-8fa4-9a9f0b8723a6
+Bergen County,New Jersey,NJ,County,954717,https://www.co.bergen.nj.us/,,,,,,,,,,,,,,2025-11-08 10:55:47.458403+00,2025-11-08 10:55:47.458406+00,c6a871f8-2285-4f62-bcd7-81a9ecad8782
+Kings County,New York,NY,County,2646306,https://www.nycourts.gov,,,,,,,,,,,,,,2025-11-08 10:57:06.785075+00,2025-11-08 10:57:06.785078+00,c7600385-ee7b-44c3-9fb4-b4f1f02228cc
+City of Columbus,Georgia,GA,City,204383,https://www.columbusga.gov,,,,,,,,,,,,,Muscogee County,2025-11-08 10:50:28.453951+00,2025-11-08 10:50:28.453954+00,c7f5c4c3-d633-42c6-bd5b-9133aca30e22
+City of El Cajon,California,CA,City,104909,https://www.elcajon.gov,,,,,,,,,,,,,San Diego County,2025-11-08 10:49:05.029566+00,2025-11-08 10:49:05.029569+00,c80dad54-cce3-4998-9af5-5e53e22f8312
+City of Little Rock,Arkansas,AR,City,202739,https://www.littlerock.gov,,,,,,,,,,,,,Pulaski County,2025-11-08 10:48:29.693087+00,2025-11-08 10:48:29.69309+00,c814941c-b00f-42ee-bf08-11622cea8392
+New York County,New York,NY,County,1627788,https://www.nyc.gov,,,,,,,,,,,,,,2025-11-08 10:57:06.785588+00,2025-11-08 10:57:06.785591+00,c83875f9-ee3e-4848-ac7c-4748898838d9
+Clayton County,Georgia,GA,County,298771,https://www.claytoncountyga.gov,,,,,,,,,,,,,,2025-11-08 10:49:43.736029+00,2025-11-08 10:49:43.736031+00,c8d22125-39af-4d0a-ad6f-f86893543041
+DuPage County,Illinois,IL,County,927263,https://www.dupagecounty.gov,,,,,,,,,,,,,,2025-11-08 10:51:14.627138+00,2025-11-08 10:51:14.627141+00,c8f63257-775a-41de-a6c0-a70b58f1b7a3
+Johnson County,Indiana,IN,County,163983,https://co.johnson.in.us/,,,,,,,,,,,,,,2025-11-08 10:51:55.198532+00,2025-11-08 10:51:55.198535+00,c93f8ef7-1f78-45ac-b557-d227749d3525
+Pinal County,Arizona,AZ,County,449219,https://www.pinal.gov,,,,,,,,,,,,,,2025-11-08 10:48:29.677086+00,2025-11-08 10:48:29.677089+00,c9797037-9a86-4096-8d91-a468d69e466f
+City of Stamford,Connecticut,CT,City,135806,https://www.stamfordct.gov,,,,,,,,,,,,,Western Connecticut Planning Region County,2025-11-08 10:49:43.720202+00,2025-11-08 10:49:43.720205+00,c9832fc4-7647-4543-9515-a5b77c6f2acc
+Racine County,Wisconsin,WI,County,196888,https://www.racinecounty.com,,,,,,,,,,,,,,2025-11-08 11:02:49.699295+00,2025-11-08 11:02:49.699298+00,c9fa7f5b-d099-4d71-b436-6333c8dd920a
+City of Fort Collins,Colorado,CO,City,169705,https://www.fcgov.com,,,,,,,,,,,,,Larimer County,2025-11-08 10:49:05.040983+00,2025-11-08 10:49:05.040986+00,ca87ac0f-4369-452f-a0bb-e9b1d2104c48
+City of Fairfield,California,CA,City,119985,https://www.fairfield.ca.gov,,,,,,,,,,,,,Solano County,2025-11-08 10:49:05.027478+00,2025-11-08 10:49:05.02748+00,ca8e460e-ab00-44e6-aa7f-955192ac181f
+City of Sioux Falls,South Dakota,SD,City,197642,https://www.siouxfalls.gov,,,,,,,,,,,,,Minnehaha County,2025-11-08 11:00:02.976498+00,2025-11-08 11:00:02.976501+00,ca9aa9ee-1dac-4383-b201-6893e5930992
+Mesa County,Colorado,CO,County,157316,https://www.mesacounty.us,,,,,,,,,,,,,,2025-11-08 10:49:05.039881+00,2025-11-08 10:49:05.039883+00,cae60f17-da22-4707-a9f4-8fc032870fda
+City of West Palm Beach,Florida,FL,City,119508,https://www.wpb.org,,,,,,,,,,,,,Palm Beach County,2025-11-08 10:49:43.730915+00,2025-11-08 10:49:43.730918+00,caf15f3b-e8d4-4bef-a2eb-3db32bf99fe9
+Kankakee County,Illinois,IL,County,106833,https://www.kankakeecountyil.gov,,,,,,,,,,,,,,2025-11-08 10:51:14.627688+00,2025-11-08 10:51:14.62769+00,cb5274d5-7a83-43fd-b36f-dc6eb89c97ef
+Sarpy County,Nebraska,NE,County,194051,https://www.sarpy.gov,,,,,,,,,,,,,,2025-11-08 10:55:17.086891+00,2025-11-08 10:55:17.086893+00,cbdf5798-d0de-4f7d-acef-6e086998d1a0
+Franklin County,Pennsylvania,PA,County,156626,https://www.franklincountypa.gov,,,,,,,,,,,,,,2025-11-08 10:59:17.220285+00,2025-11-08 10:59:17.220287+00,cc4a9311-077e-4ae1-a9d0-afd41f2f8d99
+Jackson County,Michigan,MI,County,160187,https://www.mijackson.org,,,,,,,,,,,,,,2025-11-08 10:54:03.487339+00,2025-11-08 10:54:03.487342+00,cd538c1b-71b4-448d-93ab-7dc54ac49b70
+Hampton city,Virginia,VA,County,137334,https://hampton.gov,,,,,,,,,,,,,,2025-11-08 11:02:07.065132+00,2025-11-08 11:02:07.065135+00,cd8a595f-0980-4eb0-a724-6889bd9b2b28
+Brazoria County,Texas,TX,County,381650,https://www.brazoriacountytx.gov,,,,,,,,,,,,,,2025-11-08 11:00:48.741917+00,2025-11-08 11:00:48.74192+00,ce3fc7a7-8baf-4859-b7ba-4d98b1407efb
+City of Brockton,Massachusetts,MA,City,105080,https://brockton.ma.us,,,,,,,,,,,,,Plymouth County,2025-11-08 10:53:46.247028+00,2025-11-08 10:53:46.24703+00,ce87d439-771c-4296-bd72-3984bc899953
+City of Syracuse,New York,NY,City,146211,https://www.syr.gov,,,,,,,,,,,,,Onondaga County,2025-11-08 10:57:06.789522+00,2025-11-08 10:57:06.789524+00,cea9006a-9281-4666-b51a-79bd47d9d983
+City of Victorville,California,CA,City,135983,https://www.victorvilleca.gov,,,,,,,,,,,,,San Bernardino County,2025-11-08 10:48:36.926707+00,2025-11-08 10:48:36.92671+00,ceb73aee-13ff-49e9-b5b2-28422ad61425
+Woodbury County,Iowa,IA,County,105760,https://www.woodburycountyiowa.gov,,,,,,,,,,,,,,2025-11-08 10:52:36.676601+00,2025-11-08 10:52:36.676603+00,cedb338e-c62a-4327-9c0b-0a5fa3d3afd1
+City of Milwaukee,Wisconsin,WI,City,569756,https://city.milwaukee.gov,,,,,,,,,,,,,Milwaukee County,2025-11-08 11:02:49.700248+00,2025-11-08 11:02:49.700251+00,cefdc3b0-f1bb-4338-9e7b-e59e10a2eb97
+Sangamon County,Illinois,IL,County,195217,https://sangamonil.gov,,,,,,,,,,,,,,2025-11-08 10:51:14.627384+00,2025-11-08 10:51:14.627386+00,cf45a5ad-4be5-4122-b697-1b30723f5f06
+Coweta County,Georgia,GA,County,150071,https://www.coweta.ga.us,,,,,,,,,,,,,,2025-11-08 10:49:43.737412+00,2025-11-08 10:49:43.737415+00,cf7a4d1b-836a-437a-9b4d-34cadde28f80
+Milwaukee County,Wisconsin,WI,County,927656,https://county.milwaukee.gov,,,,,,,,,,,,,,2025-11-08 11:02:49.699274+00,2025-11-08 11:02:49.699277+00,cfdc27a8-e67e-4da0-a5cf-28de131ce5eb
+Oswego County,New York,NY,County,117945,https://www.oswegocounty.com,,,,,,,,,,,,,,2025-11-08 10:57:06.785862+00,2025-11-08 10:57:06.785865+00,d0461c04-1d15-42aa-9036-29c24a3b86f9
+Guadalupe County,Texas,TX,County,178368,https://www.co.guadalupe.tx.us,,,,,,,,,,,,,,2025-11-08 11:00:48.738027+00,2025-11-08 11:00:48.73803+00,d085f015-b1d1-48e5-86d0-4069f32577b6
+City of Warren,Michigan,MI,City,138128,https://www.cityofwarren.org,,,,,,,,,,,,,Macomb County,2025-11-08 10:54:03.491124+00,2025-11-08 10:54:03.491127+00,d08ad412-762b-4825-b708-5b459914d3ef
+Rutherford County,Tennessee,TN,County,351591,https://rutherfordcountytn.gov,,,,,,,,,,,,,,2025-11-08 11:00:16.951336+00,2025-11-08 11:00:16.951339+00,d127f968-3bac-4aa2-b96b-3e1980a7c1e4
+Ingham County,Michigan,MI,County,282015,https://ingham.org,,,,,,,,,,,,,,2025-11-08 10:54:03.487726+00,2025-11-08 10:54:03.487728+00,d12cf690-6e0f-427e-bf66-f049fb2c1f9e
+Duval County,Florida,FL,County,1007189,https://www.duvalclerk.com,,,,,,,,,,,,,,2025-11-08 10:49:43.72696+00,2025-11-08 10:49:43.726963+00,d17d9dab-e383-4626-a011-aba676a8dd50
+Sussex County,New Jersey,NJ,County,145117,https://sussex.nj.us,,,,,,,,,,,,,,2025-11-08 10:55:47.458239+00,2025-11-08 10:55:47.458242+00,d19062d5-0d8e-4559-8739-3ff3ce695cdf
+Merced County,California,CA,County,285597,https://www.countyofmerced.com/,,,,,,,,,,,,,,2025-11-08 10:48:36.924908+00,2025-11-08 10:48:36.924911+00,d1d1e63e-79b0-44bc-bb36-dc137c944018
+Tangipahoa Parish,Louisiana,LA,County,135218,https://tangipahoa.org,,,,,,,,,,,,,,2025-11-08 10:53:25.190425+00,2025-11-08 10:53:25.190427+00,d2078bb6-94bf-4e97-8dda-aebb377c34d1
+Bonneville County,Idaho,ID,County,127056,https://www.bonnevillecountyidaho.gov/,,,,,,,,,,,,,,2025-11-08 10:50:28.462226+00,2025-11-08 10:50:28.462229+00,d2905d29-6140-4f94-af5c-116abfbf203f
+Baltimore city,Maryland,MD,County,577193,https://www.baltimorecity.gov,,,,,,,,,,,,,,2025-11-08 10:53:46.234851+00,2025-11-08 10:53:46.234854+00,d2973854-0819-429c-ba8e-ce6c1ff8a671
+Pierce County,Washington,WA,County,924106,https://www.piercecountywa.gov,,,,,,,,,,,,,,2025-11-08 11:02:07.074135+00,2025-11-08 11:02:07.074138+00,d2d0d208-4cf6-41c6-8136-6422522ac502
+City of Santa Clarita,California,CA,City,229021,https://santaclarita.gov,,,,,,,,,,,,,Los Angeles County,2025-11-08 10:49:05.028076+00,2025-11-08 10:49:05.028078+00,d2ee2a07-df0b-461d-9992-421ca303f989
+Honolulu County,Hawaii,HI,County,1003666,https://www.honolulu.gov,,,,,,,,,,,,,,2025-11-08 10:50:28.461697+00,2025-11-08 10:50:28.4617+00,d2f40749-88d8-45d8-a8f4-24b8dffa8f0b
+Madison County,Indiana,IN,County,130949,https://www.madisoncounty.in.gov,,,,,,,,,,,,,,2025-11-08 10:51:55.19798+00,2025-11-08 10:51:55.197983+00,d3909fe4-9afc-43da-9629-3d9a4f4ea339
+Garland County,Arkansas,AR,County,100062,https://www.garlandcounty.org,,,,,,,,,,,,,,2025-11-08 10:48:29.688026+00,2025-11-08 10:48:29.688029+00,d3d77858-5c86-4502-83ed-861e366eca3c
+Orange County,New York,NY,County,403840,https://www.orangecountygov.com,,,,,,,,,,,,,,2025-11-08 10:57:06.785651+00,2025-11-08 10:57:06.785654+00,d4b2a833-5125-4ddb-9fc6-37c583f7e65b
+Hudson County,New Jersey,NJ,County,710478,https://www.hcnj.us,,,,,,,,,,,,,,2025-11-08 10:55:47.458443+00,2025-11-08 10:55:47.458445+00,d4ec1bcd-6df1-4f19-9671-9c20efa2b65b
+Smith County,Texas,TX,County,238014,https://www.smith-county.com/,,,,,,,,,,,,,,2025-11-08 11:00:48.742197+00,2025-11-08 11:00:48.742199+00,d55e9f54-e740-4782-a90a-97d36d56f93a
+Galveston County,Texas,TX,County,354721,https://www.galvestoncountytx.gov,,,,,,,,,,,,,,2025-11-08 11:00:48.741312+00,2025-11-08 11:00:48.741315+00,d56beffc-6f97-4590-bfba-2fa0af079a15
+Tompkins County,New York,NY,County,102879,https://tompkinscountyny.gov,,,,,,,,,,,,,,2025-11-08 10:57:06.785139+00,2025-11-08 10:57:06.785142+00,d5aba743-2af1-47ee-bc27-83650d44c1d3
+St. Mary's County,Maryland,MD,County,114372,https://www.stmaryscountymd.gov,,,,,,,,,,,,,,2025-11-08 10:53:46.234972+00,2025-11-08 10:53:46.234974+00,d5dc36dd-7666-482b-8409-19b3c86f1916
+City of Worcester,Massachusetts,MA,City,205501,https://www.worcesterma.gov,,,,,,,,,,,,,Worcester County,2025-11-08 10:53:46.246503+00,2025-11-08 10:53:46.246506+00,d5e9c046-8006-4da8-bff1-f0b1bac46a36
+Beaver County,Pennsylvania,PA,County,166993,https://www.beavercountypa.gov,,,,,,,,,,,,,,2025-11-08 10:59:17.219686+00,2025-11-08 10:59:17.219689+00,d6087a77-36e8-451e-9a4a-e04302239a22
+St. Joseph County,Indiana,IN,County,272574,https://www.sjcindiana.gov,,,,,,,,,,,,,,2025-11-08 10:51:55.197838+00,2025-11-08 10:51:55.197841+00,d62776bd-8587-4792-98cb-ce08f91882de
+City of Rochester,New York,NY,City,209720,https://www.cityofrochester.gov/,,,,,,,,,,,,,Monroe County,2025-11-08 10:57:06.794023+00,2025-11-08 10:57:06.794026+00,d629f5e6-95c2-4b67-9c21-90bdb5a1a472
+Alachua County,Florida,FL,County,281751,https://alachuacounty.us,,,,,,,,,,,,,,2025-11-08 10:49:43.726434+00,2025-11-08 10:49:43.726436+00,d6fb6fcf-8411-4bf3-95e3-ae99796bf7cf
+City of College Station,Texas,TX,City,122280,https://www.cstx.gov/,,,,,,,,,,,,,Brazos County,2025-11-08 11:01:29.7199+00,2025-11-08 11:01:29.719903+00,d73ab7a7-8585-458d-8121-2048903780ee
+King County,Washington,WA,County,2262713,https://kingcounty.gov,,,,,,,,,,,,,,2025-11-08 11:02:07.073972+00,2025-11-08 11:02:07.073974+00,d816bde5-62e6-4968-82a0-e83515873dde
+Rankin County,Mississippi,MS,County,158218,https://www.rankincounty.org/,,,,,,,,,,,,,,2025-11-08 10:54:35.098945+00,2025-11-08 10:54:35.098948+00,d89ea6ff-a57d-45b1-b438-eb892fccdbec
+City of Moreno Valley,California,CA,City,210378,https://moval.gov,,,,,,,,,,,,,Riverside County,2025-11-08 10:49:05.031467+00,2025-11-08 10:49:05.031469+00,d8cf8a83-f6c6-41e3-9e24-865f311efda9
+Waukesha County,Wisconsin,WI,County,409040,https://www.waukesha-wi.gov,,,,,,,,,,,,,,2025-11-08 11:02:49.698633+00,2025-11-08 11:02:49.698635+00,d90935a2-81ec-4ab4-9212-809021190ad2
+City of McKinney,Texas,TX,City,202314,https://www.mckinneytexas.org,,,,,,,,,,,,,Collin County,2025-11-08 11:00:48.745498+00,2025-11-08 11:00:48.7455+00,d90e8c24-e517-4fde-98d1-f14985abe56f
+Jefferson County,Missouri,MO,County,228227,https://www.jeffcomo.org,,,,,,,,,,,,,,2025-11-08 10:55:17.067409+00,2025-11-08 10:55:17.067422+00,d96424cf-5c2f-4875-8c94-1292c398b3c0
+City of New Bedford,Massachusetts,MA,City,100731,https://www.newbedford-ma.gov,,,,,,,,,,,,,Bristol County,2025-11-08 10:53:46.246544+00,2025-11-08 10:53:46.246546+00,d980d9e3-c0e6-4b36-9a10-41cc12837a3f
+Montgomery County,Ohio,OH,County,535528,https://www.mcohio.org,,,,,,,,,,,,,,2025-11-08 10:57:39.031431+00,2025-11-08 10:57:39.031433+00,d9d355b0-cc08-4a1f-901a-306ddc957a9e
+Moore County,North Carolina,NC,County,102840,https://www.moorecountync.gov,,,,,,,,,,,,,,2025-11-08 10:57:38.305319+00,2025-11-08 10:57:38.305321+00,da02c526-41ca-4276-8bc4-4daec55302db
+New Hanover County,North Carolina,NC,County,231214,https://www.nhcgov.com/,,,,,,,,,,,,,,2025-11-08 10:57:38.305792+00,2025-11-08 10:57:38.305794+00,da882019-79ec-4e57-80d8-c009fccbf96b
+City of Orange,California,CA,City,138723,https://www.cityoforange.org,,,,,,,,,,,,,Orange County,2025-11-08 10:49:05.024663+00,2025-11-08 10:49:05.024666+00,daa018c4-f2a4-45e0-a538-187804618c6e
+City of Glendale,Arizona,AZ,City,250193,https://www.glendaleaz.com,,,,,,,,,,,,,Maricopa County,2025-11-08 10:48:29.67742+00,2025-11-08 10:48:29.677424+00,dab1bbfa-872f-43fa-90ac-549c899991fc
+City of Lee's Summit,Missouri,MO,City,102583,https://cityofls.net,,,,,,,,,,,,,Jackson County,2025-11-08 10:55:17.069378+00,2025-11-08 10:55:17.069381+00,dab43c47-356d-4495-93ff-ca9efc1f2cc6
+St. Clair County,Michigan,MI,County,160089,https://www.stclaircounty.org/,,,,,,,,,,,,,,2025-11-08 10:54:03.487135+00,2025-11-08 10:54:03.487138+00,db008464-f5c2-4493-81fb-c813a74e9a72
+Johnston County,North Carolina,NC,County,226623,https://johnstonnc.gov,,,,,,,,,,,,,,2025-11-08 10:57:38.306294+00,2025-11-08 10:57:38.306297+00,db68c36e-5f01-4e20-a588-610ae21c4331
+Citrus County,Florida,FL,County,158693,https://www.citrusbocc.com/,,,,,,,,,,,,,,2025-11-08 10:49:43.726514+00,2025-11-08 10:49:43.726516+00,db70c7ae-80df-4126-9224-fc2bac3d1db7
+Fairfield County,Ohio,OH,County,161289,https://www.co.fairfield.oh.us,,,,,,,,,,,,,,2025-11-08 10:58:14.227396+00,2025-11-08 10:58:14.227399+00,dc096875-1aa0-47e4-ba72-66456f6bfca7
+Jackson County,Oregon,OR,County,222563,https://www.jacksoncountyor.gov/,,,,,,,,,,,,,,2025-11-08 10:58:36.69893+00,2025-11-08 10:58:36.698933+00,dc188674-e0df-49e2-b039-21477df75e10
+City of High Point,North Carolina,NC,City,115263,https://www.highpointnc.gov/,,,,,,,,,,,,,Guilford County,2025-11-08 10:57:38.312494+00,2025-11-08 10:57:38.312497+00,dc28d913-1401-4402-9e10-91391155af14
+City of Beaumont,Texas,TX,City,113710,https://www.beaumonttexas.gov,,,,,,,,,,,,,Jefferson County,2025-11-08 11:00:48.743465+00,2025-11-08 11:00:48.743467+00,dc32c93c-d1a5-4370-8cff-387f34ccfe93
+City of Brownsville,Texas,TX,City,188023,https://www.brownsvilletx.gov,,,,,,,,,,,,,Cameron County,2025-11-08 11:01:29.722371+00,2025-11-08 11:01:29.722374+00,dd3b4554-1198-45c7-abbd-bbdd0e5c1bb2
+Kern County,California,CA,County,910433,https://www.kerncounty.com,,,,,,,,,,,,,,2025-11-08 10:48:36.925312+00,2025-11-08 10:48:36.925315+00,dd608d55-a9ee-45c2-a476-03c2527d238c
+City of Vancouver,Washington,WA,City,192696,https://www.cityofvancouver.us,,,,,,,,,,,,,Clark County,2025-11-08 11:02:07.076358+00,2025-11-08 11:02:07.076361+00,dd70400e-5685-4ed9-b1b8-24eaf0c84c6c
+Howard County,Maryland,MD,County,333916,https://www.howardcountymd.gov,,,,,,,,,,,,,,2025-11-08 10:53:46.234666+00,2025-11-08 10:53:46.234669+00,ddea9999-c378-48e1-901d-bc5ee119b387
+City of Green Bay,Wisconsin,WI,City,106585,https://greenbaywi.gov,,,,,,,,,,,,,Brown County,2025-11-08 11:02:49.704521+00,2025-11-08 11:02:49.704524+00,ddf35dda-6677-4c97-b9d7-c184cd64a1cf
+Lehigh County,Pennsylvania,PA,County,375408,https://www.lehighcounty.org,,,,,,,,,,,,,,2025-11-08 10:59:17.219269+00,2025-11-08 10:59:17.219272+00,de1e8eaa-7efc-4933-a5e7-0b47c1dc360a
+City of Clovis,California,CA,City,122719,https://cityofclovis.com,,,,,,,,,,,,,Fresno County,2025-11-08 10:49:05.024115+00,2025-11-08 10:49:05.024117+00,dec7ccae-d9f3-46d2-8601-1df79efc391b
+Alexandria city,Virginia,VA,County,156788,https://www.alexandriava.gov,,,,,,,,,,,,,,2025-11-08 11:02:07.063786+00,2025-11-08 11:02:07.063788+00,decf4ead-90d6-4d94-b21a-75b63566235e
+Washington County,Tennessee,TN,County,134693,https://www.washingtoncountytn.org,,,,,,,,,,,,,,2025-11-08 11:00:02.981397+00,2025-11-08 11:00:02.981399+00,dee4f6b0-958d-4057-a503-79fc94adb48f
+Champaign County,Illinois,IL,County,206098,https://www.co.champaign.il.us,,,,,,,,,,,,,,2025-11-08 10:51:14.626895+00,2025-11-08 10:51:14.626897+00,df001313-f315-4aea-af40-078c55ed5b6f
+Marion County,Florida,FL,County,387697,https://www.marionfl.org,,,,,,,,,,,,,,2025-11-08 10:49:43.726353+00,2025-11-08 10:49:43.726355+00,df14b0da-47e9-412e-b92f-e5750f17419a
+Scott County,Iowa,IA,County,174302,https://www.scottcountyiowa.gov,,,,,,,,,,,,,,2025-11-08 10:52:36.676192+00,2025-11-08 10:52:36.676195+00,df3937cd-b216-44e1-8d16-7ec73fa76de6
+Okaloosa County,Florida,FL,County,214281,https://myokaloosa.com,,,,,,,,,,,,,,2025-11-08 10:49:43.726534+00,2025-11-08 10:49:43.726537+00,dfc6660a-e371-4a3b-b690-11ff9e85acdf
+City of San Jose,California,CA,City,990054,https://www.sanjoseca.gov/,,,,,,,,,,,,,Santa Clara County,2025-11-08 10:49:05.032444+00,2025-11-08 10:49:05.032446+00,dfd06603-f950-4b16-bcd7-dd8dd7bc8486
+City of Jersey City,New Jersey,NJ,City,289691,https://www.jerseycitynj.gov,,,,,,,,,,,,,Hudson County,2025-11-08 10:56:20.014558+00,2025-11-08 10:56:20.01456+00,dfdc3072-9140-4328-8d79-0ad1002d8498
+Yuma County,Arizona,AZ,County,207685,https://www.yumacountyaz.gov,,,,,,,,,,,,,,2025-11-08 10:48:29.677149+00,2025-11-08 10:48:29.677152+00,dfe1a7c1-62bb-4da8-bd35-b7c2b9bf4e42
+City of South Bend,Indiana,IN,City,102866,https://southbendin.gov,,,,,,,,,,,,,Saint Joseph County,2025-11-08 10:51:55.199865+00,2025-11-08 10:51:55.199868+00,e00e9cde-aaa5-461f-9eb9-55300b6a4db8
+Prince William County,Virginia,VA,County,484625,https://www.pwcva.gov,,,,,,,,,,,,,,2025-11-08 11:02:07.065339+00,2025-11-08 11:02:07.065341+00,e06a478a-c94e-4a9e-be51-c962f5a97b45
+Fond du Lac County,Wisconsin,WI,County,104053,https://www.fdlco.wi.gov/,,,,,,,,,,,,,,2025-11-08 11:02:49.698778+00,2025-11-08 11:02:49.698781+00,e13824a7-4c02-4efe-9762-5f089c9f37b0
+Jefferson County,New York,NY,County,116130,https://www.jeffersoncountyny.gov,,,,,,,,,,,,,,2025-11-08 10:57:06.785883+00,2025-11-08 10:57:06.785886+00,e13c2500-4778-4861-9180-dca92d28b308
+Marion County,Oregon,OR,County,346532,https://co.marion.or.us/,,,,,,,,,,,,,,2025-11-08 10:58:36.698504+00,2025-11-08 10:58:36.698507+00,e1498ae5-abc7-4330-9901-66621d620491
+Hinds County,Mississippi,MS,County,222494,https://www.hindscountyms.com,,,,,,,,,,,,,,2025-11-08 10:54:35.099378+00,2025-11-08 10:54:35.099381+00,e14f04d7-2752-444c-9167-54975196a733
+City of Tacoma,Washington,WA,City,220482,https://tacoma.gov,,,,,,,,,,,,,Pierce County,2025-11-08 11:02:07.076888+00,2025-11-08 11:02:07.076891+00,e19f74ea-52d3-4910-80e3-5659f198b041
+City of Columbia,Missouri,MO,City,127200,https://www.como.gov,,,,,,,,,,,,,Boone County,2025-11-08 10:55:17.073807+00,2025-11-08 10:55:17.07381+00,e1bd4cbb-b325-4895-bb8e-a8b7936a484b
+Davis County,Utah,UT,County,366742,https://www.daviscountyutah.gov,,,,,,,,,,,,,,2025-11-08 11:01:29.72571+00,2025-11-08 11:01:29.725713+00,e1e110b8-65d4-458c-9634-8f6234d9b1ae
+Canadian County,Oklahoma,OK,County,162621,https://canadiancounty.org,,,,,,,,,,,,,,2025-11-08 10:58:36.689697+00,2025-11-08 10:58:36.689699+00,e22d37a8-b219-4c40-8f16-5320fba3ee95
+Orange County,California,CA,County,3164063,https://www.ocgov.com,,,,,,,,,,,,,,2025-11-08 10:48:36.925188+00,2025-11-08 10:48:36.925191+00,e27344e6-4b63-4ece-9c3e-8715b49f32b0
+Travis County,Texas,TX,County,1307625,https://www.traviscountytx.gov,,,,,,,,,,,,,,2025-11-08 11:00:48.739472+00,2025-11-08 11:00:48.739475+00,e29f8e20-0be6-4bd8-9f62-081ac0916869
+Sonoma County,California,CA,County,485642,https://sonomacounty.ca.gov/,,,,,,,,,,,,,,2025-11-08 10:48:36.926086+00,2025-11-08 10:48:36.926089+00,e3004ca1-d32a-46df-b0c1-225cbeb5f3c8
+City of Stockton,California,CA,City,320470,https://www.stocktonca.gov,,,,,,,,,,,,,San Joaquin County,2025-11-08 10:48:36.928013+00,2025-11-08 10:48:36.928015+00,e33becaa-9f7b-4371-9b6d-95ac36999b77
+City of Akron,Ohio,OH,City,189526,https://www.akronohio.gov,,,,,,,,,,,,,Summit County,2025-11-08 10:58:14.237947+00,2025-11-08 10:58:14.23795+00,e348c677-fed6-4898-9a3c-aeaeba93c7da
+Peoria County,Illinois,IL,County,179831,https://www.peoriacounty.gov/,,,,,,,,,,,,,,2025-11-08 10:51:14.627283+00,2025-11-08 10:51:14.627286+00,e380ab5e-85f3-4f0a-83a6-b6f7d4263dfc
+Horry County,South Carolina,SC,County,368937,https://www.horrycountysc.gov,,,,,,,,,,,,,,2025-11-08 11:00:02.967417+00,2025-11-08 11:00:02.96742+00,e3a944e3-503f-43fe-8c67-45d9ebbc270a
+El Paso County,Texas,TX,County,866275,https://www.epcounty.com/,,,,,,,,,,,,,,2025-11-08 11:00:48.740503+00,2025-11-08 11:00:48.740505+00,e3ee8650-8923-456d-b9e6-0f20919d9e4d
+City of Antioch,California,CA,City,115759,https://www.antiochca.gov/,,,,,,,,,,,,,Contra Costa County,2025-11-08 10:49:05.031099+00,2025-11-08 10:49:05.031102+00,e3ff8942-c61a-4223-90eb-2a567157dbe9
+City of Minneapolis,Minnesota,MN,City,426845,https://www.minneapolismn.gov,,,,,,,,,,,,,Hennepin County,2025-11-08 10:54:23.273589+00,2025-11-08 10:54:23.273591+00,e434874e-84c2-4312-b063-37cbb017d973
+City of Omaha,Nebraska,NE,City,488197,https://www.cityofomaha.org,,,,,,,,,,,,,Douglas County,2025-11-08 10:55:17.088318+00,2025-11-08 10:55:17.088321+00,e476064c-de5c-4726-83e0-3babd0727a3f
+City of Coral Springs,Florida,FL,City,133962,https://www.coralsprings.gov,,,,,,,,,,,,,Broward County,2025-11-08 10:49:43.732395+00,2025-11-08 10:49:43.732398+00,e4915ae8-d7f8-488b-8905-4ce89bbf2913
+Canyon County,Idaho,ID,County,242405,https://www.canyoncounty.id.gov,,,,,,,,,,,,,,2025-11-08 10:50:28.462117+00,2025-11-08 10:50:28.46212+00,e538f948-94b2-45ee-82db-1ed8f5e46a72
+Penobscot County,Maine,ME,County,153571,https://www.penobscot-county.net,,,,,,,,,,,,,,2025-11-08 10:53:46.233147+00,2025-11-08 10:53:46.233149+00,e597204d-bcdb-45d3-b35e-d82f9bb22da6
+City of Sandy Springs,Georgia,GA,City,107198,https://www.sandyspringsga.gov,,,,,,,,,,,,,Fulton County,2025-11-08 10:50:28.45733+00,2025-11-08 10:50:28.457333+00,e59b69b5-4f65-42bf-9f69-8e6e4d3c64b4
+City of Birmingham,Alabama,AL,City,199322,https://www.birminghamal.gov,,,,,,,,,,,,,Jefferson County,2025-11-08 10:48:12.733849+00,2025-11-08 10:48:12.733851+00,e5a5188f-9330-4ebd-8904-dc3937e6967f
+Indian River County,Florida,FL,County,163856,https://indianriver.gov,,,,,,,,,,,,,,2025-11-08 10:49:43.726273+00,2025-11-08 10:49:43.726275+00,e5cceac6-756c-4b2a-9c53-e7e42537411b
+City of Amarillo,Texas,TX,City,200945,https://www.amarillo.gov,,,,,,,,,,,,,Potter County,2025-11-08 11:00:48.746436+00,2025-11-08 11:00:48.746439+00,e60da3b1-782b-4d96-b361-5350f9f8d152
+Wright County,Minnesota,MN,County,145270,https://www.co.wright.mn.us,,,,,,,,,,,,,,2025-11-08 10:54:23.272236+00,2025-11-08 10:54:23.272239+00,e62c6127-f4e1-47b7-9cd6-9fa9cdeb46c7
+City of Baltimore,Maryland,MD,City,577193,https://www.baltimorecity.gov,,,,,,,,,,,,,,2025-11-08 10:53:46.236356+00,2025-11-08 10:53:46.236358+00,e6662be0-6668-4b3a-98b7-bd29f6b385c8
+Sumter County,Florida,FL,County,137536,https://www.sumtercountyfl.gov,,,,,,,,,,,,,,2025-11-08 10:49:43.725973+00,2025-11-08 10:49:43.725975+00,e689aa3f-89e8-4fef-b43f-803e399ff6c7
+City of Chesapeake,Virginia,VA,City,251153,https://www.cityofchesapeake.net,,,,,,,,,,,,,,2025-11-08 11:02:07.067756+00,2025-11-08 11:02:07.067759+00,e72bcaa4-4f96-4d42-b14f-c00738b27535
+Morgan County,Alabama,AL,County,123742,https://morgancounty-al.gov,,,,,,,,,,,,,,2025-11-08 10:48:12.727862+00,2025-11-08 10:48:12.727865+00,e734636b-f7a4-430d-a922-b4b9d82042b6
+Arlington County,Virginia,VA,County,235463,https://www.arlingtonva.us,,,,,,,,,,,,,,2025-11-08 11:02:07.064171+00,2025-11-08 11:02:07.064173+00,e74f768e-b1f0-4598-900e-2a772997da91
+Etowah County,Alabama,AL,County,103208,https://etowahcounty.org,,,,,,,,,,,,,,2025-11-08 10:48:12.727819+00,2025-11-08 10:48:12.727821+00,e754b332-fdd6-4d4c-a942-1e05e0734f62
+Cumberland County,North Carolina,NC,County,336749,https://www.cumberlandcountync.gov,,,,,,,,,,,,,,2025-11-08 10:57:38.30514+00,2025-11-08 10:57:38.305142+00,e7637b34-cc03-4e9e-8e2e-909d7f6cd4b9
+City of Portland,Oregon,OR,City,642715,https://www.portland.gov,,,,,,,,,,,,,Multnomah County,2025-11-08 10:58:36.700319+00,2025-11-08 10:58:36.700322+00,e83bcf6e-84b0-476b-99fb-3d373383928d
+Washington County,Wisconsin,WI,County,137320,https://www.washcowisco.gov,,,,,,,,,,,,,,2025-11-08 11:02:49.698549+00,2025-11-08 11:02:49.698552+00,e845b81e-9b43-4179-a7cf-d64ea8a7daa3
+Virginia Beach city,Virginia,VA,County,457066,https://virginiabeach.gov,,,,,,,,,,,,,,2025-11-08 11:02:07.065484+00,2025-11-08 11:02:07.065486+00,e8d77631-cff6-46a8-a1ec-66ede09b62f8
+Erie County,Pennsylvania,PA,County,269544,https://eriecountypa.gov,,,,,,,,,,,,,,2025-11-08 10:59:17.220163+00,2025-11-08 10:59:17.220166+00,e97a132a-eeaf-4bce-a48e-026ceaee121e
+San Diego County,California,CA,County,3282782,https://www.sandiegocounty.gov/,,,,,,,,,,,,,,2025-11-08 10:48:36.926002+00,2025-11-08 10:48:36.926019+00,e983a95c-d57d-4bf4-bca1-3913fb0e5eaa
+City of Huntington Beach,California,CA,City,196010,https://huntingtonbeachca.gov,,,,,,,,,,,,,Orange County,2025-11-08 10:49:05.032464+00,2025-11-08 10:49:05.032467+00,e99eef85-1ce6-4270-9f5f-2c820075b2d1
+Chesterfield County,Virginia,VA,County,371610,https://www.chesterfield.gov/,,,,,,,,,,,,,,2025-11-08 11:02:07.06563+00,2025-11-08 11:02:07.065633+00,e9e92b12-7604-4c5a-a48e-4660651e6de9
+Yakima County,Washington,WA,County,256605,https://www.yakimacounty.us,,,,,,,,,,,,,,2025-11-08 11:02:07.074303+00,2025-11-08 11:02:07.074306+00,eacba798-08ec-4b00-ab37-c4957ef88ee6
+City of Davie,Florida,FL,City,106412,https://www.davie-fl.gov,,,,,,,,,,,,,Broward County,2025-11-08 10:49:43.729361+00,2025-11-08 10:49:43.729364+00,eaf8e9e5-9ac8-4719-9df6-08894a1b841c
+City of Fort Wayne,Indiana,IN,City,266235,https://www.cityoffortwayne.org/,,,,,,,,,,,,,Allen County,2025-11-08 10:51:55.203537+00,2025-11-08 10:51:55.20354+00,eafd7820-f9f8-4cbb-89f5-78eee3115a9c
+City of Fontana,California,CA,City,211921,https://www.fontanaca.gov,,,,,,,,,,,,,San Bernardino County,2025-11-08 10:49:05.026823+00,2025-11-08 10:49:05.026826+00,eb994ad0-1e42-43b4-aa75-1c9222dfa168
+Whatcom County,Washington,WA,County,228432,https://www.whatcomcounty.us/,,,,,,,,,,,,,,2025-11-08 11:02:07.074471+00,2025-11-08 11:02:07.074474+00,eb9e33cd-47fd-4d5b-9d70-2c68f03476d7
+Lake County,Indiana,IN,County,498990,https://lakecountyin.gov,,,,,,,,,,,,,,2025-11-08 10:51:55.198287+00,2025-11-08 10:51:55.19829+00,ebd5b616-de76-442b-b6fc-c5235792cd37
+Gwinnett County,Georgia,GA,County,966972,https://www.gwinnettcounty.com,,,,,,,,,,,,,,2025-11-08 10:49:43.736987+00,2025-11-08 10:49:43.73699+00,ebf380b9-9c7b-4405-86df-b279c6fae983
+Stearns County,Minnesota,MN,County,159358,https://www.stearnscountymn.gov,,,,,,,,,,,,,,2025-11-08 10:54:23.272313+00,2025-11-08 10:54:23.272316+00,ec2a6109-a887-45d4-b411-234c51440084
+Linn County,Iowa,IA,County,229463,https://www.linncountyiowa.gov,,,,,,,,,,,,,,2025-11-08 10:52:36.677038+00,2025-11-08 10:52:36.677042+00,ec76f89c-060d-4eb0-93e4-b67fad5a2117
+City of Huntsville,Alabama,AL,City,218814,https://www.huntsvilleal.gov,,,,,,,,,,,,,Madison County,2025-11-08 10:48:12.730106+00,2025-11-08 10:48:12.730108+00,ed19be56-95a5-4498-be52-4d8ea973ed55
+Shawnee County,Kansas,KS,County,178315,https://snco.gov/,,,,,,,,,,,,,,2025-11-08 10:52:36.691388+00,2025-11-08 10:52:36.691391+00,ed9f70e2-0115-4e1a-9a3d-47956878452d
+Montgomery County,Texas,TX,County,654722,https://mctx.org,,,,,,,,,,,,,,2025-11-08 11:00:48.738513+00,2025-11-08 11:00:48.738515+00,edbc519e-a01d-4f95-8955-6bbc2665c434
+Clackamas County,Oregon,OR,County,422308,https://www.clackamas.us,,,,,,,,,,,,,,2025-11-08 10:58:36.69891+00,2025-11-08 10:58:36.698912+00,ee5ff287-819b-400c-996c-4d4b6bff5eac
+Erie County,New York,NY,County,950044,https://www2.erie.gov/,,,,,,,,,,,,,,2025-11-08 10:57:06.785332+00,2025-11-08 10:57:06.785335+00,ee7af475-7be9-4a29-b002-7851efdceea6
+Spokane County,Washington,WA,County,544323,https://www.spokanecounty.gov/,,,,,,,,,,,,,,2025-11-08 11:02:07.074324+00,2025-11-08 11:02:07.074327+00,ef16f055-1bb7-4e6c-9828-dc44b4da793c
+Montgomery County,Maryland,MD,County,1057586,https://www.montgomerycountymd.gov,,,,,,,,,,,,,,2025-11-08 10:53:46.234686+00,2025-11-08 10:53:46.234689+00,f06e17ed-eb83-4afa-865e-69c0d97a1672
+York County,Maine,ME,County,214731,https://www.yorkcountymaine.gov,,,,,,,,,,,,,,2025-11-08 10:53:46.233022+00,2025-11-08 10:53:46.233024+00,f0b469ae-9b8b-43c9-933d-cf272ae975f6
+Warren County,New Jersey,NJ,County,110238,https://www.warrencountynj.gov,,,,,,,,,,,,,,2025-11-08 10:55:47.458219+00,2025-11-08 10:55:47.458221+00,f0bf80c3-0cad-4ca4-ba13-42db3c0c3887
+Clermont County,Ohio,OH,County,209862,https://clermontcountyohio.gov,,,,,,,,,,,,,,2025-11-08 10:58:14.226969+00,2025-11-08 10:58:14.226971+00,f0dfe175-41f2-452d-9506-671ba1405f55
+City of Bend,Oregon,OR,City,101472,https://www.bendoregon.gov/,,,,,,,,,,,,,Deschutes County,2025-11-08 10:58:36.701162+00,2025-11-08 10:58:36.701165+00,f0f18666-0707-45fd-925b-55724ac3ef74
+Hendricks County,Indiana,IN,County,179379,https://www.co.hendricks.in.us,,,,,,,,,,,,,,2025-11-08 10:51:55.199444+00,2025-11-08 10:51:55.199447+00,f105b3c4-d631-4d31-a29a-a71fc6435927
+City of Henderson,Nevada,NV,City,324523,https://www.cityofhenderson.com,,,"wqsdq                   ",,,,,,,,,,Clark County,2025-11-08 10:55:47.439034+00,2025-11-08 10:55:47.439036+00,f157794a-da5b-40fe-8991-740b6c18ecf3
+Platte County,Missouri,MO,County,108751,https://www.co.platte.mo.us,,,,,,,,,,,,,,2025-11-08 10:55:17.068572+00,2025-11-08 10:55:17.068574+00,f16abcd7-07bc-4156-8137-7a92883f398f
+City of Pembroke Pines,Florida,FL,City,170557,https://www.ppines.com,,,,,,,,,,,,,Broward County,2025-11-08 10:49:43.730072+00,2025-11-08 10:49:43.730075+00,f189329f-d9fa-46a9-bba9-574163b7cf2d
+City of Kent,Washington,WA,City,135015,https://www.kentwa.gov,,,,,,,,,,,,,King County,2025-11-08 11:02:07.077317+00,2025-11-08 11:02:07.07732+00,f1a13864-f595-42e2-b26d-d1447e044410
+Porter County,Indiana,IN,County,174150,https://www.portercountyin.gov,,,,,,,,,,,,,,2025-11-08 10:51:55.198622+00,2025-11-08 10:51:55.198625+00,f1d0b452-5083-48c7-a0d2-32cb692dd42b
+Faulkner County,Arkansas,AR,County,126001,https://www.faulknercountyar.gov,,,,,,,,,,,,,,2025-11-08 10:48:29.687831+00,2025-11-08 10:48:29.687835+00,f2758b5f-0d21-4051-900a-f1bf2aff65b0
+City of Pasadena,California,CA,City,136462,https://www.cityofpasadena.net/,,,,,,,,,,,,,Los Angeles County,2025-11-08 10:49:05.02885+00,2025-11-08 10:49:05.028853+00,f2c19b24-67ae-46f8-9ed0-2998325e7b99
+City of Rio Rancho,New Mexico,NM,City,106533,https://www.rrnm.gov/,,,,,,,,,,,,,Sandoval County,2025-11-08 10:56:20.020084+00,2025-11-08 10:56:20.020087+00,f32cb528-3914-4545-aea0-a27d4030e8b5
+Paulding County,Georgia,GA,County,174292,https://www.paulding.gov,,,,,,,,,,,,,,2025-11-08 10:49:43.736843+00,2025-11-08 10:49:43.736846+00,f375a76d-6a4d-4c9d-93b9-1f66c5e957f9
+Bossier Parish,Louisiana,LA,County,129134,https://www.bossierparishla.gov,,,,,,,,,,,,,,2025-11-08 10:53:25.190276+00,2025-11-08 10:53:25.190279+00,f39d7120-d9ff-4cd1-ad8e-2d4bff59fa41
+City of Springfield,Massachusetts,MA,City,154751,https://www.springfield-ma.gov,,,,,,,,,,,,,Hampden County,2025-11-08 10:53:46.246805+00,2025-11-08 10:53:46.246808+00,f3e44a1d-baa2-4059-8c7e-97b3ad36264d
+Essex County,New Jersey,NJ,County,854130,https://essexcountynj.org,,,,,,,,,,,,,,2025-11-08 10:55:47.458177+00,2025-11-08 10:55:47.45818+00,f4397618-b028-48e3-950e-32e4478888cf
+City of Orlando,Florida,FL,City,311732,https://www.orlando.gov,,,,,,,,,,,,,Orange County,2025-11-08 10:49:43.731555+00,2025-11-08 10:49:43.731558+00,f46a41f9-6935-412e-be57-1fa4355c1eb0
+Rock County,Wisconsin,WI,County,163944,https://www.co.rock.wi.us/,,,,,,,,,,,,,,2025-11-08 11:02:49.699811+00,2025-11-08 11:02:49.699813+00,f48caffb-1ef8-4d0b-b516-76cc123339a1
+City of Springfield,Illinois,IL,City,113714,https://www.springfield.il.us,,,,,,,,,,,,,Sangamon County,2025-11-08 10:51:14.636098+00,2025-11-08 10:51:14.6361+00,f4acb7ae-8e00-409b-a41e-c67690651531
+Lorain County,Ohio,OH,County,314588,https://www.loraincountyohio.gov/,,,,,,,,,,,,,,2025-11-08 10:58:14.227275+00,2025-11-08 10:58:14.227278+00,f4c1aeec-83b3-466d-a870-4c55960b3bdf
+City of Toledo,Ohio,OH,City,268461,https://toledo.oh.gov,,,,,,,,,,,,,Lucas County,2025-11-08 10:58:14.236242+00,2025-11-08 10:58:14.236244+00,f5814c47-8382-4f02-a571-12dc31f909fb
+San Bernardino County,California,CA,County,2187816,https://main.sbcounty.gov,,,,,,,,,,,,,,2025-11-08 10:48:36.92525+00,2025-11-08 10:48:36.925253+00,f5936b4e-2488-4ce1-9dd2-e8c54962f33a
+Shelby County,Tennessee,TN,County,922195,https://shelbycountytn.gov,,,,,,,,,,,,,,2025-11-08 11:00:02.981311+00,2025-11-08 11:00:02.981314+00,f5cd6f18-f3f0-4944-b46b-646885b1781a
+Davidson County,North Carolina,NC,County,171063,https://www.co.davidson.nc.us,,,,,,,,,,,,,,2025-11-08 10:57:38.306094+00,2025-11-08 10:57:38.306096+00,f5cf7303-e0a5-48e6-90c0-877242250529
+Chatham County,Georgia,GA,County,298143,https://www.chathamcountyga.gov,,,,,,,,,,,,,,2025-11-08 10:49:43.737169+00,2025-11-08 10:49:43.737172+00,f631a198-ae8d-4433-81b3-2635ed39efae
+Webb County,Texas,TX,County,267731,https://webbcounty.tx.gov,,,,,,,,,,,,,,2025-11-08 11:00:48.74038+00,2025-11-08 11:00:48.740407+00,f68db191-de8f-4d3c-a005-e2fe0bf41b92
+City of Sparks,Nevada,NV,City,109106,https://www.cityofsparks.us,,,,,,,,,,,,,Washoe County,2025-11-08 10:55:47.439055+00,2025-11-08 10:55:47.439058+00,f6cf40cf-24f4-411a-85b9-ebb6cb97695d
+Jefferson County,Alabama,AL,County,669744,https://www.jccal.org,,,,,,,,,,,,,,2025-11-08 10:48:12.728071+00,2025-11-08 10:48:12.728074+00,f6e4174b-53ff-4a92-b247-262ff58aa619
+Seminole County,Florida,FL,County,474912,https://www.seminolecountyfl.gov,,,,,,,,,,,,,,2025-11-08 10:49:43.725851+00,2025-11-08 10:49:43.725854+00,f7bd6eb3-7ecd-4130-a68a-d247f164e129
+Bernalillo County,New Mexico,NM,County,674357,https://www.bernco.gov,,,,,,,,,,,,,,2025-11-08 10:56:20.0196+00,2025-11-08 10:56:20.019602+00,f7f7219b-e84f-4cd2-88b0-28d9eab92db9
+Bay County,Michigan,MI,County,103235,https://www.baycountymi.gov,,,,,,,,,,,,,,2025-11-08 10:54:03.488229+00,2025-11-08 10:54:03.488232+00,f84eac78-ec4f-4945-86d9-cfdaf9410400
+City of Cleveland,Ohio,OH,City,367523,https://www.clevelandohio.gov,,,,,,,,,,,,,Cuyahoga County,2025-11-08 10:58:14.22907+00,2025-11-08 10:58:14.229072+00,f8b2699b-9f85-4613-8fd1-d1ce4cb892c3
+City of League City,Texas,TX,City,114885,https://www.leaguecitytx.gov,,,,,,,,,,,,,Galveston County,2025-11-08 11:01:29.718326+00,2025-11-08 11:01:29.718329+00,f8f38460-4601-462a-b0d4-733367515c3a
+Ellis County,Texas,TX,County,203927,https://co.ellis.tx.us,,,,,,,,,,,,,,2025-11-08 11:00:48.739025+00,2025-11-08 11:00:48.739027+00,f90055dc-e462-4d24-967f-13334a4fc51e
+City of St. Paul,Minnesota,MN,City,307762,https://www.stpaul.gov/,,,,,,,,,,,,,Ramsey County,2025-11-08 10:54:23.275937+00,2025-11-08 10:54:23.27594+00,f9b6f0a4-7aba-44a4-bdea-0411518c6ca4
+City of Centennial,Colorado,CO,City,107386,https://www.centennialco.gov,,,,,,,,,,,,,Arapahoe County,2025-11-08 10:49:05.042628+00,2025-11-08 10:49:05.04263+00,f9c0f13f-c1ca-4186-b148-7023f99750bc
+City of Santa Rosa,California,CA,City,177216,https://www.srcity.org/,,,,,,,,,,,,,Sonoma County,2025-11-08 10:48:36.927142+00,2025-11-08 10:48:36.927144+00,f9e8fdc5-9d67-4e3e-a578-42518e70d60e
+City of Salt Lake City,Utah,UT,City,203888,https://www.slc.gov,,,,,,,,,,,,,Salt Lake County,2025-11-08 11:01:29.728574+00,2025-11-08 11:01:29.728577+00,f9f02140-ac3f-4594-aa64-8afe4acdc884
+Durham County,North Carolina,NC,County,329405,https://www.dconc.gov,,,,,,,,,,,,,,2025-11-08 10:57:38.3051+00,2025-11-08 10:57:38.305102+00,fa1ce65a-b499-4b2e-a465-3233dd2d65c4
+City of Irvine,California,CA,City,308160,https://www.cityofirvine.org,,,,,,,,,,,,,Orange County,2025-11-08 10:49:05.02647+00,2025-11-08 10:49:05.026472+00,fa2fe69f-3779-4342-bec5-091dbc543bfd
+Polk County,Iowa,IA,County,497441,https://www.polkcountyiowa.gov,,,,,,,,,,,,,,2025-11-08 10:52:36.676011+00,2025-11-08 10:52:36.676014+00,fbb79936-61ab-4928-86f6-87b3290587ab
+Osceola County,Florida,FL,County,406943,https://www.osceola.org,,,,,,,,,,,,,,2025-11-08 10:49:43.726877+00,2025-11-08 10:49:43.72688+00,fbc0d70d-a95f-4db5-81f6-34c7db24806e
+City of Reno,Nevada,NV,City,268959,https://www.reno.gov,,,,,,,,,,,,,Washoe County,2025-11-08 10:55:47.439353+00,2025-11-08 10:55:47.439356+00,fbde3893-c0fb-4e90-bd8b-e33050d1980c
+Forsyth County,Georgia,GA,County,260062,https://www.forsythco.com,,,,,,,,,,,,,,2025-11-08 10:49:43.737455+00,2025-11-08 10:49:43.737458+00,fc17b5f3-4877-4400-96a6-2277d9fc350e
+City of Abilene,Texas,TX,City,127130,http://abilenetx.gov,,,,,,,,,,,,,Taylor County,2025-11-08 11:00:48.746314+00,2025-11-08 11:00:48.746317+00,fc466b21-2dc8-4754-88c4-3ed34adf1a3c
+Salt Lake County,Utah,UT,County,1184689,https://www.saltlakecounty.gov,,,,,,,,,,,,,,2025-11-08 11:01:29.725938+00,2025-11-08 11:01:29.72594+00,fc6de66b-1697-49fd-ac4d-95b16027839a
+Mercer County,New Jersey,NJ,County,383286,https://www.mercercounty.org,,,,,,,,,,,,,,2025-11-08 10:55:47.458363+00,2025-11-08 10:55:47.458366+00,fc7884f1-f34a-493d-9322-b66caeee8f67
+Berrien County,Michigan,MI,County,153411,https://www.berriencounty.org/,,,,,,,,,,,,,,2025-11-08 10:54:03.48805+00,2025-11-08 10:54:03.488052+00,fcbb4d42-d315-43cb-bd25-8594c8dbc4f4
+Tulare County,California,CA,County,475774,https://tularecounty.ca.gov,,,,,,,,,,,,,,2025-11-08 10:48:36.925762+00,2025-11-08 10:48:36.925765+00,fd58a3c3-d366-47c2-ae44-78c0272845e9
+Calhoun County,Alabama,AL,County,116141,https://www.calhouncounty.org,,,,,,,,,,,,,,2025-11-08 10:48:12.728092+00,2025-11-08 10:48:12.728116+00,fd7eab3b-ff90-4d8d-8a8e-785744aef693
+Douglas County,Nebraska,NE,County,585461,https://www.douglascounty-ne.gov,,,,,,,,,,,,,,2025-11-08 10:55:17.086323+00,2025-11-08 10:55:17.086325+00,fd95bedc-f232-4dea-9545-66eabc1414c3
+Orange County,North Carolina,NC,County,147292,https://orangecountync.gov,,,,,,,,,,,,,,2025-11-08 10:57:38.304419+00,2025-11-08 10:57:38.304421+00,fd9b0db5-5da4-48f2-ac94-d5a113d985a0
+City of Tallahassee,Florida,FL,City,199696,https://www.talgov.com,,,,,,,,,,,,,Leon County,2025-11-08 10:49:43.732256+00,2025-11-08 10:49:43.732258+00,fdfb4a68-dc9d-4992-b09f-cbb1a8cd6a24
+Medina County,Ohio,OH,County,183049,https://www.medinaco.org,,,,,,,,,,,,,,2025-11-08 10:58:14.227819+00,2025-11-08 10:58:14.227822+00,fe3d9d4e-8cec-49b9-b5da-3d1ddaadd755
+Lancaster County,Nebraska,NE,County,323673,https://www.lancaster.ne.gov,,,,,,,,,,,,,,2025-11-08 10:55:17.087032+00,2025-11-08 10:55:17.087035+00,fe4804ab-62dd-4a3a-b47f-de962737a618
+City of St. Louis,Missouri,MO,City,293109,https://www.stlouis-mo.gov,,,,,,,,,,,,,,2025-11-08 10:55:17.069229+00,2025-11-08 10:55:17.069232+00,fe4c0aa7-5d6c-4aa9-b1b3-6d1836a3469b
+City of Rockford,Illinois,IL,City,147649,https://rockfordil.gov,,,,,,,,,,,,,Winnebago County,2025-11-08 10:51:14.6373+00,2025-11-08 10:51:14.637303+00,fee3ddb4-272d-401f-9fb2-dc4cd28a48d2
+City of Killeen,Texas,TX,City,156144,https://www.killeentexas.gov,,,,,,,,,,,,,Bell County,2025-11-08 11:01:29.719861+00,2025-11-08 11:01:29.719863+00,ff07ad24-f648-4c3e-94bf-619467efce4a
+Madera County,California,CA,County,158790,https://www.maderacounty.com,,,,,,,,,,,,,,2025-11-08 10:48:36.92558+00,2025-11-08 10:48:36.925589+00,ff5a15c5-1ac7-4f12-bcfb-4238aa7d6a23
+City of Fayetteville,North Carolina,NC,City,209692,https://www.fayettevillenc.gov,,,,,,,,,,,,,Cumberland County,2025-11-08 10:57:38.309456+00,2025-11-08 10:57:38.309459+00,ff6c82d9-1d27-4f4c-9469-d52afd7344f0
+Williamson County,Tennessee,TN,County,254609,https://www.williamsoncounty-tn.gov,,,,,,,,,,,,,,2025-11-08 11:00:16.951192+00,2025-11-08 11:00:16.951195+00,ffd1f22e-ba4f-4ab0-b396-dad7c285b6b7
+City of Lynn,Massachusetts,MA,City,100905,https://www.lynnma.gov,,,,,,,,,,,,,Essex County,2025-11-08 10:53:46.246785+00,2025-11-08 10:53:46.246787+00,fff7c4fd-6f94-4427-a40d-7f84b857d794
