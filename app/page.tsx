@@ -1,42 +1,80 @@
 'use client'
 
 import { SignedIn, SignedOut, SignInButton, UserButton } from '@clerk/nextjs'
-import { ArrowRight, Shield, Users, BarChart3 } from 'lucide-react'
+import { ArrowRight, Shield, Users, BarChart3, Moon, Sun } from 'lucide-react'
 import { motion } from 'framer-motion'
+import { useState, useEffect } from 'react'
 
 export default function Home() {
+  const [isDark, setIsDark] = useState(false)
+  const [mounted, setMounted] = useState(false)
+
+  useEffect(() => {
+    setMounted(true)
+    const isDarkMode = document.documentElement.classList.contains('dark')
+    setIsDark(isDarkMode)
+  }, [])
+
+  const toggleDarkMode = () => {
+    const newDarkMode = !isDark
+    setIsDark(newDarkMode)
+    if (newDarkMode) {
+      document.documentElement.classList.add('dark')
+      localStorage.setItem('theme', 'dark')
+    } else {
+      document.documentElement.classList.remove('dark')
+      localStorage.setItem('theme', 'light')
+    }
+  }
+
   return (
-    <div className="min-h-screen">
+    <div className="min-h-screen bg-white dark:bg-primary-900 transition-colors duration-300">
       {/* Navigation */}
-      <nav className="fixed top-0 w-full bg-white/80 backdrop-blur-md border-b border-gray-100 z-50">
+      <nav className="fixed top-0 w-full bg-white/80 dark:bg-primary-900/80 backdrop-blur-md border-b border-gray-100 dark:border-primary-800 z-50 transition-colors duration-300">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex justify-between items-center h-16">
             <div className="flex items-center space-x-2">
               <div className="w-8 h-8 bg-gradient-to-r from-primary-600 to-primary-800 rounded-lg flex items-center justify-center">
                 <Users className="w-5 h-5 text-white" />
               </div>
-              <span className="text-xl font-bold text-gray-900">AgencyPro</span>
+              <span className="text-xl font-bold text-gray-900 dark:text-white">AgencyPro</span>
             </div>
             
-            <SignedIn>
-              <div className="flex items-center space-x-4">
-                <UserButton />
-                <a 
-                  href="/dashboard"
-                  className="btn-primary text-sm px-4 py-2"
+            <div className="flex items-center space-x-4">
+              {mounted && (
+                <button
+                  onClick={toggleDarkMode}
+                  className="p-2 rounded-lg hover:bg-gray-100 dark:hover:bg-primary-800 transition-colors"
+                  aria-label="Toggle dark mode"
                 >
-                  Go to Dashboard
-                </a>
-              </div>
-            </SignedIn>
-            
-            <SignedOut>
-              <SignInButton mode="modal">
-                <button className="btn-primary text-sm px-4 py-2">
-                  Get Started
+                  {isDark ? (
+                    <Sun className="w-5 h-5 text-yellow-500" />
+                  ) : (
+                    <Moon className="w-5 h-5 text-gray-600" />
+                  )}
                 </button>
-              </SignInButton>
-            </SignedOut>
+              )}
+
+              <SignedIn>
+                <div className="flex items-center space-x-4">
+                  <UserButton />
+                  <a 
+                    href="/dashboard"
+                    className="btn-primary text-sm px-4 py-2"
+                  >
+                    Go to Dashboard
+                  </a>
+                </div>
+              </SignedIn>
+              
+              <SignedOut>
+                <SignInButton mode="modal">
+                  <button className="btn-primary text-sm px-4 py-2">
+                    Get Started
+                  </button>
+                </SignInButton>
+              </SignedOut>
+            </div>
           </div>
         </div>
       </nav>
@@ -52,10 +90,10 @@ export default function Home() {
             <h1 className="text-5xl sm:text-6xl lg:text-7xl font-bold tracking-tight">
               <span className="text-gradient">Professional</span>
               <br />
-              <span className="text-gray-900">Agency Dashboard</span>
+              <span className="text-gray-900 dark:text-white">Agency Dashboard</span>
             </h1>
             
-            <p className="mt-6 text-xl text-gray-600 max-w-3xl mx-auto leading-relaxed">
+            <p className="mt-6 text-xl text-gray-600 dark:text-gray-300 max-w-3xl mx-auto leading-relaxed">
               Streamline your agency management with our modern, secure dashboard. 
               Access comprehensive contact information, analytics, and tools designed for professionals.
             </p>
@@ -109,15 +147,15 @@ export default function Home() {
                 initial={{ opacity: 0, y: 20 }}
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ duration: 0.5, delay: index * 0.1 }}
-                className="card p-6 text-center group hover:border-primary-200"
+                className="card p-6 text-center group hover:border-primary-200 dark:hover:border-primary-700 bg-white dark:bg-primary-800 border border-gray-200 dark:border-primary-700"
               >
-                <div className="w-12 h-12 bg-primary-100 rounded-xl flex items-center justify-center mx-auto mb-4 group-hover:bg-primary-200 transition-colors">
-                  <feature.icon className="w-6 h-6 text-primary-600" />
+                <div className="w-12 h-12 bg-primary-100 dark:bg-primary-700 rounded-xl flex items-center justify-center mx-auto mb-4 group-hover:bg-primary-200 dark:group-hover:bg-primary-600 transition-colors">
+                  <feature.icon className="w-6 h-6 text-primary-600 dark:text-primary-300" />
                 </div>
-                <h3 className="text-lg font-semibold text-gray-900 mb-2">
+                <h3 className="text-lg font-semibold text-gray-900 dark:text-white mb-2">
                   {feature.title}
                 </h3>
-                <p className="text-gray-600 text-sm">
+                <p className="text-gray-600 dark:text-gray-400 text-sm">
                   {feature.description}
                 </p>
               </motion.div>

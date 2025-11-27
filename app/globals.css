@@ -19,6 +19,12 @@
     transition: background-color 0.3s ease, color 0.3s ease;
   }
 
+  /* Dark mode overrides using the .dark class on <html> */
+  .dark body {
+    background-color: #07103a; /* deep navy */
+    color: #ffffff;
+  }
+
   /* Smooth scrollbar with subtle animation */
   ::-webkit-scrollbar {
     width: 8px;
@@ -37,6 +43,15 @@
   ::-webkit-scrollbar-thumb:hover {
     background: #94a3b8;
   }
+
+  /* Dark scrollbar */
+  .dark ::-webkit-scrollbar-track {
+    background: #041028;
+  }
+
+  .dark ::-webkit-scrollbar-thumb {
+    background: #23456d;
+  }
 }
 
 /* ---------------------- Components ---------------------- */
@@ -50,6 +65,11 @@
     animation: btnFadeIn 0.8s ease forwards;
   }
 
+  /* Dark variant for primary button */
+  .dark .btn-primary {
+    @apply bg-primary-700 text-white shadow-lg hover:bg-primary-600;
+  }
+
   /* Secondary Button */
   .btn-secondary {
     @apply bg-white text-gray-700 px-6 py-3 rounded-xl font-semibold 
@@ -60,6 +80,11 @@
     animation: btnFadeIn 1s ease forwards;
   }
 
+  /* Dark variant for secondary button */
+  .dark .btn-secondary {
+    @apply bg-transparent text-gray-200 border-gray-700 hover:bg-primary-900;
+  }
+
   /* Card Component */
   .card {
     @apply bg-white rounded-2xl shadow-md border border-gray-100
@@ -68,10 +93,20 @@
     animation: cardFadeIn 1s ease forwards;
   }
 
+  /* Dark variant for cards */
+  .dark .card {
+    @apply bg-primary-900 border-primary-800 text-white shadow-none;
+  }
+
   /* Gradient Backgrounds */
   .gradient-bg {
     @apply bg-gradient-to-br from-primary-50 via-white to-secondary-50
            animate-gradient-x;
+  }
+
+  /* Dark gradient background */
+  .dark .gradient-bg {
+    @apply bg-gradient-to-br from-primary-900 via-primary-800 to-primary-900;
   }
 
   /* Gradient Text */
@@ -79,6 +114,30 @@
     @apply bg-gradient-to-r from-primary-600 to-primary-800
            bg-clip-text text-transparent animate-text-fade;
   }
+
+  /* Make gradient text legible in dark mode by using lighter stops */
+  .dark .text-gradient {
+    background-image: linear-gradient(90deg, #9fd2ff 0%, #bfe1ff 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+  }
+
+  /* Common Tailwind utility overrides for dark mode to cover inline classes */
+  .dark .bg-white { background-color: #071025 !important; }
+  .dark .bg-gray-50 { background-color: #041028 !important; }
+  .dark .bg-gray-100 { background-color: #07122a !important; }
+
+  .dark .text-gray-900,
+  .dark .text-gray-800,
+  .dark .text-gray-700 { color: #eaf6ff !important; }
+
+  .dark .text-gray-600,
+  .dark .text-gray-500 { color: #9fb8d6 !important; }
+
+  .dark .border-gray-100,
+  .dark .border-gray-200,
+  .dark .border-gray-300 { border-color: #12324b !important; }
 }
 
 /* ---------------------- Animations ---------------------- */

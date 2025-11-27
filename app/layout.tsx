@@ -21,8 +21,19 @@ export default function RootLayout({
 }>) {
   return (
     <ClerkProvider>
-      <html lang="en" className={inter.className}>
-        <body className="min-h-screen bg-gradient-to-br from-primary-50 via-white to-secondary-50">
+      <html lang="en" className={inter.className} suppressHydrationWarning>
+        <head>
+          <script dangerouslySetInnerHTML={{
+            __html: `
+              if (localStorage.getItem('theme') === 'dark' || (!localStorage.getItem('theme') && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+                document.documentElement.classList.add('dark')
+              } else {
+                document.documentElement.classList.remove('dark')
+              }
+            `
+          }} />
+        </head>
+        <body className="min-h-screen bg-gradient-to-br from-primary-50 via-white to-secondary-50 dark:from-primary-900 dark:via-primary-800 dark:to-primary-900 dark:text-white">
           {children}
         </body>
       </html>

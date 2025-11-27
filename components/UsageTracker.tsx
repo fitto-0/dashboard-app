@@ -31,9 +31,9 @@ export default function UsageTracker({ userId }: UsageTrackerProps) {
   const isOverLimit = usage.viewed >= usage.limit
 
   return (
-    <div className="card p-6">
+    <div className="card p-6 bg-white dark:bg-primary-900 border border-gray-200 dark:border-primary-800">
       <div className="flex items-center justify-between mb-4">
-        <h3 className="text-lg font-semibold text-gray-900">
+        <h3 className="text-lg font-semibold text-gray-900 dark:text-white">
           Daily Usage Tracker
         </h3>
         {isOverLimit ? (
@@ -45,18 +45,18 @@ export default function UsageTracker({ userId }: UsageTrackerProps) {
 
       <div className="space-y-4">
         <div className="flex justify-between items-center">
-          <span className="text-sm font-medium text-gray-700">
+          <span className="text-sm font-medium text-gray-700 dark:text-gray-300">
             Contact views today
           </span>
           <span className={`text-sm font-semibold ${
-            isOverLimit ? 'text-red-600' : 
-            isNearLimit ? 'text-warning-600' : 'text-green-600'
+            isOverLimit ? 'text-red-600 dark:text-red-400' : 
+            isNearLimit ? 'text-warning-600 dark:text-warning-400' : 'text-green-600 dark:text-green-400'
           }`}>
             {usage.viewed} / {usage.limit}
           </span>
         </div>
 
-        <div className="w-full bg-gray-200 rounded-full h-3 overflow-hidden">
+        <div className="w-full bg-gray-200 dark:bg-gray-700 rounded-full h-3 overflow-hidden">
           <div 
             className={`h-3 rounded-full transition-all duration-500 ${
               isOverLimit ? 'bg-red-500' : 
@@ -66,17 +66,17 @@ export default function UsageTracker({ userId }: UsageTrackerProps) {
           />
         </div>
 
-        <p className="text-sm text-gray-600">
+        <p className="text-sm text-gray-600 dark:text-gray-400">
           {isOverLimit ? (
-            <span className="text-red-600 font-medium">
+            <span className="text-red-600 dark:text-red-400 font-medium">
               Daily limit reached. Upgrade for unlimited access.
             </span>
           ) : isNearLimit ? (
-            <span className="text-warning-600 font-medium">
+            <span className="text-warning-600 dark:text-warning-400 font-medium">
               Approaching daily limit. {usage.limit - usage.viewed} views remaining.
             </span>
           ) : (
-            <span className="text-green-600 font-medium">
+            <span className="text-green-600 dark:text-green-400 font-medium">
               {usage.limit - usage.viewed} contact views remaining today.
             </span>
           )}

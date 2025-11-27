@@ -11,8 +11,8 @@ const columns = [
 
 export default function AgenciesPage(){
   return (
-    <div className="space-y-6">
-      <h2 className="text-2xl font-bold">Agencies</h2>
+    <div className="space-y-6 bg-white dark:bg-primary-900 rounded-xl p-6">
+      <h2 className="text-2xl font-bold text-gray-900 dark:text-white">Agencies</h2>
       <DataTable data={sampleAgencies} columns={columns} />
     </div>
   )

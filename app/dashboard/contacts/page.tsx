@@ -40,9 +40,9 @@ export default function ContactsPage() {
   }, [])
 
   return (
-    <div className="space-y-6">
+    <div className="space-y-6 bg-white dark:bg-primary-900 rounded-xl p-6">
       <div className="flex items-center justify-between">
-        <h2 className="text-2xl font-bold">Contacts</h2>
+        <h2 className="text-2xl font-bold text-gray-900 dark:text-white">Contacts</h2>
         <UsageTracker userId={''} />
       </div>
 
@@ -53,7 +53,7 @@ export default function ContactsPage() {
       {!loading && !showUpgrade && contacts && (
         <div>
           <div className="flex items-center justify-between mb-4">
-            <p className="text-sm text-gray-600">Showing 50 of {total} available contacts (changes daily)</p>
+            <p className="text-sm text-gray-600 dark:text-gray-400">Showing 50 of {total} available contacts (changes daily)</p>
             {total > 50 && (
               <button 
                 onClick={() => setShowUpgrade(true)}

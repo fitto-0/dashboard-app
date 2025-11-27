@@ -3,6 +3,7 @@
 const colors = require("tailwindcss/colors");
 
 module.exports = {
+  darkMode: 'class',
   content: [
     './app/**/*.{js,ts,jsx,tsx,mdx}',
     './components/**/*.{js,ts,jsx,tsx,mdx}',
@@ -23,7 +24,7 @@ module.exports = {
           600: '#0284c7',
           700: '#0369a1',
           800: '#075985',
-          900: '#0c4a6e',
+          900: '#07122a',
         },
         secondary: {
           50: '#f8fafc',

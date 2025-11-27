@@ -42,10 +42,10 @@ export default function StatsCards({ stats }: StatsCardsProps) {
   ]
 
   const colorClasses = {
-    blue: 'bg-blue-100 text-blue-600',
-    green: 'bg-green-100 text-green-600',
-    purple: 'bg-purple-100 text-purple-600',
-    orange: 'bg-orange-100 text-orange-600'
+    blue: 'bg-blue-100 text-blue-600 dark:bg-blue-900 dark:text-blue-300',
+    green: 'bg-green-100 text-green-600 dark:bg-green-900 dark:text-green-300',
+    purple: 'bg-purple-100 text-purple-600 dark:bg-purple-900 dark:text-purple-300',
+    orange: 'bg-orange-100 text-orange-600 dark:bg-orange-900 dark:text-orange-300'
   }
 
   return (
@@ -55,7 +55,7 @@ export default function StatsCards({ stats }: StatsCardsProps) {
         return (
           <div
             key={card.title}
-            className="card p-6 group hover:scale-105 transition-all duration-300"
+            className="card p-6 group hover:scale-105 transition-all duration-300 bg-white dark:bg-primary-900 border border-gray-200 dark:border-primary-800"
           >
             <div className="flex items-center justify-between mb-4">
               <div className={`p-3 rounded-xl ${colorClasses[card.color as keyof typeof colorClasses]}`}>
@@ -64,13 +64,13 @@ export default function StatsCards({ stats }: StatsCardsProps) {
             </div>
             
             <div>
-              <p className="text-2xl font-bold text-gray-900 mb-1">
+              <p className="text-2xl font-bold text-gray-900 dark:text-white mb-1">
                 {card.value}
               </p>
-              <p className="text-sm font-medium text-gray-900 mb-1">
+              <p className="text-sm font-medium text-gray-900 dark:text-white mb-1">
                 {card.title}
               </p>
-              <p className="text-xs text-gray-500">
+              <p className="text-xs text-gray-500 dark:text-gray-400">
                 {card.description}
               </p>
             </div>
