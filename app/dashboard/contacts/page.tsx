@@ -33,16 +33,28 @@ export default function ContactsPage() {
       }
       const json = await res.json()
       setContacts(json.contacts || [])
-      if (json.usage) {
-        setUsage(json.usage)
-        try {
-          window.dispatchEvent(new CustomEvent('usage:update', { detail: json.usage }))
-        } catch (e) {
-          // ignore environments without window
-        }
+      
+      // Load usage from localStorage (works on Vercel)
+      const today = new Date().toISOString().slice(0, 10)
+      const storageKey = `contacts_viewed_${today}`
+      const viewedContactIds = JSON.parse(localStorage.getItem(storageKey) || '[]')
+      
+      const usage = {
+        viewed: viewedContactIds.length,
+        limit: 50,
+        viewedContactIds,
+        viewedContacts: []
       }
+      
+      setUsage(usage)
+      try {
+        window.dispatchEvent(new CustomEvent('usage:update', { detail: usage }))
+      } catch (e) {
+        // ignore
+      }
+      
       if (json.total) setTotal(json.total)
-      setShowUpgrade(json.usage?.viewed >= json.usage?.limit)
+      setShowUpgrade(viewedContactIds.length >= 50)
       setLoading(false)
     }
 
@@ -53,40 +65,55 @@ export default function ContactsPage() {
     // Show the detail modal
     setSelectedContact(contact)
     
-    // Track the view
+    // Track the view using localStorage (works on Vercel)
     try {
-      const res = await fetch('/api/contacts', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ 
-          contactId: contact.id,
-          firstName: contact.firstName,
-          lastName: contact.lastName,
-          email: contact.email
-        })
-      })
-      if (res.ok) {
-        const data = await res.json()
-          setUsage(data.usage)
-          try {
-            window.dispatchEvent(new CustomEvent('usage:update', { detail: data.usage }))
-          } catch (e) {
-            // ignore
-          }
-        if (data.limitReached) {
-          setShowUpgrade(true)
-        }
+      const today = new Date().toISOString().slice(0, 10)
+      const storageKey = `contacts_viewed_${today}`
+      const existing = JSON.parse(localStorage.getItem(storageKey) || '[]')
+      
+      if (!existing.includes(contact.id)) {
+        existing.push(contact.id)
+        localStorage.setItem(storageKey, JSON.stringify(existing))
+      }
+      
+      const newUsage = {
+        viewed: existing.length,
+        limit: 50,
+        viewedContactIds: existing,
+        viewedContacts: []
+      }
+      
+      setUsage(newUsage)
+      try {
+        window.dispatchEvent(new CustomEvent('usage:update', { detail: newUsage }))
+      } catch (e) {
+        // ignore
+      }
+      
+      if (newUsage.viewed >= 50) {
+        setShowUpgrade(true)
       }
     } catch (e) {
-      // silently ignore tracking errors
+      console.error('Tracking error:', e)
     }
   }
 
   const handleCloseModal = () => {
     setSelectedContact(null)
-    // Dispatch update event when modal closes so tracker updates
+    // Refresh from localStorage
+    const today = new Date().toISOString().slice(0, 10)
+    const storageKey = `contacts_viewed_${today}`
+    const viewedContactIds = JSON.parse(localStorage.getItem(storageKey) || '[]')
+    
+    const updatedUsage = {
+      viewed: viewedContactIds.length,
+      limit: 50,
+      viewedContactIds,
+      viewedContacts: []
+    }
+    
     try {
-      window.dispatchEvent(new CustomEvent('usage:update', { detail: usage }))
+      window.dispatchEvent(new CustomEvent('usage:update', { detail: updatedUsage }))
     } catch (e) {
       // ignore
     }
