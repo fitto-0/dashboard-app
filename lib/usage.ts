@@ -31,20 +31,50 @@ function todayKey() {
 }
 
 export function getUsage(userId: string | null) {
-  if (!userId) return { viewed: 0, limit: DAILY_LIMIT }
+  if (!userId) return { viewed: 0, limit: DAILY_LIMIT, viewedContactIds: [], viewedContacts: [] }
   const all = readAll()
   const user = all[userId] || {}
-  const viewed = user[todayKey()] || 0
-  return { viewed, limit: DAILY_LIMIT }
+  const key = todayKey()
+  const userData = user[key] || {}
+  
+  return { 
+    viewed: userData.count || 0, 
+    limit: DAILY_LIMIT,
+    viewedContactIds: userData.contactIds || [],
+    viewedContacts: userData.viewedContacts || []
+  }
 }
 
-export function incrementUsage(userId: string, delta = 1) {
+export function addViewedContact(userId: string, contactId: string, contactData?: { firstName?: string; lastName?: string; email?: string }) {
   const all = readAll()
   if (!all[userId]) all[userId] = {}
   const key = todayKey()
-  all[userId][key] = (all[userId][key] || 0) + delta
+  
+  if (!all[userId][key]) {
+    all[userId][key] = { count: 0, contactIds: [], viewedContacts: [] }
+  }
+  
+  const userData = all[userId][key]
+  
+  // Only increment if this is a new contact
+  if (!userData.contactIds.includes(contactId)) {
+    userData.contactIds.push(contactId)
+    userData.count = userData.contactIds.length
+    
+    // Store contact metadata for activity feed
+    if (contactData) {
+      const name = `${contactData.firstName || ''} ${contactData.lastName || ''}`.trim()
+      userData.viewedContacts.push({
+        id: contactId,
+        name,
+        email: contactData.email || '',
+        viewedAt: new Date().toISOString()
+      })
+    }
+  }
+  
   writeAll(all)
-  return { viewed: all[userId][key], limit: DAILY_LIMIT }
+  return { viewed: userData.count, limit: DAILY_LIMIT, viewedContactIds: userData.contactIds, viewedContacts: userData.viewedContacts }
 }
 
 export function resetUsageForUser(userId: string) {

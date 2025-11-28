@@ -102,3 +102,6 @@ export const sampleContacts = contactsRaw.map((r) => ({
   department: r.department || '',
 }))
 
+// Export raw contacts with all CSV fields
+export const contactsRawData = contactsRaw
+

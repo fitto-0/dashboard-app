@@ -14,9 +14,10 @@ interface DataTableProps {
   data: any[]
   columns: Column[]
   searchable?: boolean
+  onRowClick?: (row: any) => void
 }
 
-export default function DataTable({ data, columns, searchable = true }: DataTableProps) {
+export default function DataTable({ data, columns, searchable = true, onRowClick }: DataTableProps) {
   const [searchTerm, setSearchTerm] = useState('')
   const [sortColumn, setSortColumn] = useState('')
   const [sortDirection, setSortDirection] = useState<'asc' | 'desc'>('asc')
@@ -109,7 +110,8 @@ export default function DataTable({ data, columns, searchable = true }: DataTabl
             {sortedData.map((row, index) => (
               <tr 
                 key={index} 
-                className="hover:bg-gray-50 dark:hover:bg-primary-800 transition-colors group"
+                className="hover:bg-gray-50 dark:hover:bg-primary-800 transition-colors group cursor-pointer"
+                onClick={() => onRowClick?.(row)}
               >
                 {columns.map((column) => (
                   <td 

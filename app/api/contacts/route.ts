@@ -1,7 +1,7 @@
 import { NextResponse } from 'next/server'
 import { auth } from '@clerk/nextjs'
-import { sampleContacts } from '@/data/sample'
-import { getUsage } from '@/lib/usage'
+import { sampleContacts, contactsRawData } from '@/data/sample'
+import { getUsage, addViewedContact } from '@/lib/usage'
 
 function todayKey() {
   const d = new Date()
@@ -36,6 +36,47 @@ export async function GET(request: Request) {
   const shuffled = seededShuffle(sampleContacts, seed)
   const contactsToReturn = shuffled.slice(0, 50)
 
+  // Also include the full raw data for each contact
+  const contactsWithFullData = contactsToReturn.map(contact => {
+    const fullData = contactsRawData.find(raw => raw.id === contact.id) || {}
+    return {
+      ...contact,
+      ...fullData
+    }
+  })
+
   const usage = getUsage(userId)
-  return NextResponse.json({ contacts: contactsToReturn, usage, total: sampleContacts.length })
+  const canViewMore = usage.viewed < usage.limit
+  
+  return NextResponse.json({ 
+    contacts: contactsWithFullData, 
+    usage, 
+    total: sampleContacts.length,
+    canViewMore
+  })
+}
+
+export async function POST(request: Request) {
+  const { userId } = auth()
+
+  if (!userId) return NextResponse.json({ error: 'Unauthorized' }, { status: 401 })
+
+  try {
+    const body = await request.json()
+    const { contactId, firstName, lastName, email } = body
+
+    if (!contactId) {
+      return NextResponse.json({ error: 'contactId required' }, { status: 400 })
+    }
+
+    const usage = addViewedContact(userId, contactId, { firstName, lastName, email })
+    
+    return NextResponse.json({ 
+      success: true, 
+      usage,
+      limitReached: usage.viewed >= usage.limit
+    })
+  } catch (e) {
+    return NextResponse.json({ error: 'Invalid request' }, { status: 400 })
+  }
 }

@@ -26,6 +26,21 @@ export default function UsageTracker({ userId }: UsageTrackerProps) {
     fetchUsage()
   }, [userId])
 
+  // Listen for usage updates dispatched from other parts of the app
+  useEffect(() => {
+    function handleUsageUpdate(e: Event) {
+      const ev = e as CustomEvent
+      if (ev && ev.detail) {
+        setUsage(ev.detail)
+      }
+    }
+
+    window.addEventListener('usage:update', handleUsageUpdate as EventListener)
+    return () => {
+      window.removeEventListener('usage:update', handleUsageUpdate as EventListener)
+    }
+  }, [])
+
   const percentage = (usage.viewed / usage.limit) * 100
   const isNearLimit = percentage >= 80
   const isOverLimit = usage.viewed >= usage.limit
@@ -46,7 +61,7 @@ export default function UsageTracker({ userId }: UsageTrackerProps) {
       <div className="space-y-4">
         <div className="flex justify-between items-center">
           <span className="text-sm font-medium text-gray-700 dark:text-gray-300">
-            Contact views today
+            Unique contacts viewed today
           </span>
           <span className={`text-sm font-semibold ${
             isOverLimit ? 'text-red-600 dark:text-red-400' : 
@@ -73,11 +88,11 @@ export default function UsageTracker({ userId }: UsageTrackerProps) {
             </span>
           ) : isNearLimit ? (
             <span className="text-warning-600 dark:text-warning-400 font-medium">
-              Approaching daily limit. {usage.limit - usage.viewed} views remaining.
+              Approaching daily limit. {usage.limit - usage.viewed} unique contacts remaining.
             </span>
           ) : (
             <span className="text-green-600 dark:text-green-400 font-medium">
-              {usage.limit - usage.viewed} contact views remaining today.
+              {usage.limit - usage.viewed} unique contacts remaining to view today.
             </span>
           )}
         </p>
@@ -85,3 +100,4 @@ export default function UsageTracker({ userId }: UsageTrackerProps) {
     </div>
   )
 }
+

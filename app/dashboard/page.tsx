@@ -1,7 +1,7 @@
 import { auth } from '@clerk/nextjs'
-import { Building2, Users, Eye, TrendingUp, ArrowRight } from 'lucide-react'
+import { Building2, Users } from 'lucide-react'
 import StatsCards from '@/components/StatsCards'
-
+import ActivityFeed from '@/components/ActivityFeed'
 import UsageTracker from '@/components/UsageTracker'
 import { sampleAgencies, sampleContacts } from '@/data/sample'
 import { getUsage } from '@/lib/usage'
@@ -24,10 +24,6 @@ export default async function DashboardPage() {
     usagePercentage,
   }
 
-  const recentActivity = [
-    { action: 'Viewed contacts', agency: 'Recent searches', time: 'Just now' },
-  ]
-
   return (
     <div className="space-y-8 animate-fade-in bg-white dark:bg-primary-900 rounded-xl p-6 border border-gray-200 dark:border-primary-800 min-h-screen">
       <header className="flex flex-col md:flex-row items-start md:items-center justify-between gap-4">
@@ -45,26 +41,7 @@ export default async function DashboardPage() {
 
       <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
         <div className="lg:col-span-2">
-          <section className="card p-6 bg-white dark:bg-primary-900 border border-gray-200 dark:border-primary-800">
-            <div className="flex items-center justify-between mb-4">
-              <h2 className="text-lg font-semibold text-gray-900 dark:text-white">Activity Feed</h2>
-              <TrendingUp className="w-5 h-5 text-gray-400 dark:text-gray-500" />
-            </div>
-
-            <div className="space-y-3">
-              {recentActivity.map((a, i) => (
-                <div key={i} className="flex items-start gap-3 p-3 rounded-lg bg-gray-50 dark:bg-primary-800 hover:bg-gray-100 dark:hover:bg-primary-700 transition-colors">
-                  <div className="w-10 h-10 bg-primary-100 dark:bg-primary-700 rounded-md flex items-center justify-center">
-                    <Eye className="w-5 h-5 text-primary-600 dark:text-primary-400" />
-                  </div>
-                  <div>
-                    <p className="text-sm font-medium text-gray-900 dark:text-white">{a.action}</p>
-                    <p className="text-xs text-gray-500 dark:text-gray-400">{a.agency} • {a.time}</p>
-                  </div>
-                </div>
-              ))}
-            </div>
-          </section>
+          <ActivityFeed userId={userId ?? ''} />
         </div>
 
         <aside className="card p-6 bg-white dark:bg-primary-900 border border-gray-200 dark:border-primary-800">
